@@ -236,7 +236,7 @@
             </div>
             <div class="card-group">
                 <div class="row row-cols-1 row-cols-md-2 g-4">
-                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-6 text-center col-xl-6 d-flex mb-3">
+                    <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                         <div class="card navyCard flex-fill">
                         <iframe class="card-img-top soh" width="533" height="380" src="https://www.youtube.com/embed/3_cMQS7AWcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card-body navyCardBody d-flex flex-column">
@@ -261,7 +261,23 @@
                             </div>
                         </div>
                     </div>
-                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-6 text-center col-xl-6 d-flex mb-3">
+                    <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
+                        <div class="card navyCard flex-fill">
+                        <a href="dipintheNip.php"><img class="card-img-top" src="./img/upcoming_3.webp" alt="Sandra Rogers"></a>
+                            <div class="card-body navyCardBody d-flex flex-column">
+                                <h5 class="card-title navyCardTitle">Head Shave For NECRET</h5>
+                                <p class="card-text navyCardText">Many, many thanks to Sandra Rogers for bravely doing a sponsored head shave in our aid. It is greatly appreciated by all at NECRET and the Oncology Team. We wish her all the best on December 21st.</p>
+                                <p class="card-text navyCardText">If you can at all support Sandra the iDonate page link is <a href="www.idonate.ie/sandraheadshave" target="_blank">www.idonate.ie/sandraheadshave</a></p>
+                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample31"> Necret is a charity set up to raise funds for equipment, cancer research and training at the North East Oncology Unit based in Our Lady of Lourdes Hospital, Drogheda.
+                                    I normally participate in Necret's largest annual fundraiser in the north-east - the Dip in the Nip. Unfortunately due to Covid-19 restrictions, this year's event was cancelled.
+                                    To co-inside with the Winter Solstice, I will be shaving my head for charity at dawn on 21st December 2020, which will be streamed live on my Facebook page.
+                                    Christmas can be a demanding time of year financially. But if you could please dig deep and sponsor me if you can, I would be very appreciative.
+                                    Thank you, Sandra."</p>
+                                <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample31" role="button" aria-expanded="false" aria-controls="multiCollapseExample11"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                         <div class="card navyCard flex-fill">
                             <a href="dipintheNip.php"><img class="card-img-top" src="./img/Dip-in-Nip-SM-2021.jpg" alt="dipNNip"></a>
                             <div class="card-body navyCardBody d-flex flex-column">
@@ -278,7 +294,7 @@
                 </div>
                 <div class="card-group">
                     <div class="row row-cols-1 row-cols-md-2 g-4">
-                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-6 text-center col-xl-6 d-flex mb-3">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill">
                                 <img class="card-img-top" src="./img/PatSmullen.jpg" alt="Pat Smullen RIP">
                                 <div class="card-body navyCardBody d-flex flex-column">
@@ -292,7 +308,21 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-6 col-xl-6 d-flex text-center mb-3">
+
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
+                            <div class="card navyCard flex-fill">
+                                <a href="./awareness-symptoms.php"><img class="card-img-top" src="./img/WCD.jpg" alt="World Cancer Day 2021"></a>
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle">World Cancer Day 2021</h5>
+                                    <p class="card-text navyCardText">February 4th each year is World Cancer Day – a day whereas one globally we join together with renewed focus and determination to overcome this disease.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample32">Cancer awareness of signs and symptoms regardless of age will always be important.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample32">For general cancer awareness information, please visit <a href="./awareness-symptoms.php">https://www.necret.ie/awareness-symptoms</a></p>
+                                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample32" role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 col-xl-4 d-flex text-center mb-3">
                             <div class="card navyCard flex-fill">
                                 <img class="card-img-top" src="./img/Necret-Mass-invite-20.jpg" alt="Service of Hope">
                                 <div class="card-body navyCardBody d-flex flex-column">

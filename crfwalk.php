@@ -27,6 +27,8 @@
             </div>
         </div>
         
+        <?php include 'includes/iconBar.php'; ?>
+
         <?php include 'includes/footer.php'; ?>
 
         <?php include 'includes/bodyScripts.php'; ?>

@@ -3,15 +3,13 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <a href="./awareness-symptoms.php"><img class="card-img-top" src="./img/WCD.jpg" alt="World Cancer Day 2021"></a>
+                <a href="./awareness-symptoms.php"><img class="card-img-top" src="./img/NursesDay2021.jpg" alt="International Nurses Day"></a>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">World Cancer Day 2021</h5>
-                    <p class="card-text navyCardText">February 4th each year is World Cancer Day – a day whereas one globally we join together with renewed focus and determination to overcome this disease.
-                    Cancer awareness of signs and symptoms regardless of age will always be important.
-                    If you have concerns or are worried about symptoms always contact your GP. If you notice a change in how you feel or how your body works, it is better to be safe and get it checked.
-                    For general cancer awareness information, please visit <a href="./awareness-symptoms.php">https://www.necret.ie/awareness-symptoms</a>
+                    <h5 class="card-title navyCardTitle">International Nurses Day</h5>
+                    <p class="card-text navyCardText">May 12th is #InternationalNursesDay an annual celebration of the crucial work and role of nurses around the world – where all their wonderful work, dedication & compassion is recognized. 
+                        Wishing all the amazing nursing staff in Our Lady of Lourdes Hospital, across the country and world every thanks on this special day. For everything you do we are deeply grateful.
                     </p>
-                    <a href="./awareness-symptoms.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                    <a href="https://www.facebook.com/hashtag/internationalnursesday" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fas fa-user-nurse"></i> Read More</a>
                 </div>
             </div>
         </div>
