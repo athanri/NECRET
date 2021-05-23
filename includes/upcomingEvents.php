@@ -19,16 +19,11 @@
         
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/Drogheda_10k.jpg" alt="Drogheda 10K">
+                <img class="card-img-top" src="./img/eddie.png" alt="eddie" height='165px'>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Walk, Jog or Run in Aid of NECRET</h5>
-                    <p class="card-text navyCardText">Have you Registered yet?</p>
-                    <p class="card-text navyCardText">Why not join our <a href="https://www.facebook.com/hashtag/teamnecret" target="_blank">#TeamNECRET</a> and do the 2021 Virtual Drogheda 10k over the May Bank Holiday Weekend.</p>
-                    <p class="card-text navyCardText">We're looking for as many people as possible to take part and raise funds for cancer research. We would be very grateful for your support</p>
-                    <p class="card-text navyCardText">To register please visit <a href="https://www.myrunresults.com/events/drogheda_virtual_10k/4085/details?fbclid=IwAR2-f45sJVrwnr5zXnQhT_IwPWL4ppxbpGAtY_YSdSo5FMfECIw9Rpp2Y9c" target="_blank">here</a>. A fundraising page can be created via the NECRET page on the online platform <a href="https://www.idonate.ie/5814_necret.html" target="_blank">https://www.idonate.ie/5814_necret.html</a></p>
-                    <p class="card-text navyCardText"><a href="https://www.facebook.com/hashtag/teamnecret" target="_blank">#TeamNECRET</a> <a href="https://www.facebook.com/hashtag/runourtown?__eep__=6&__cft__[0]=AZV9CXU7Dp7DXfsGjBDLGGn5mkn1QrkJC47gSiRH-s0hSvqr1fyowK2nmZtKBiO6NabiIYth1rKTiJYzCl1KMgaRXZoDy65SZZg_TVEAR2b52hzSiJy58jQW3P62hDmOL2qOdlgtRj0ZII4fXbL3sp-FgzdKg7Ow0U3pMUtOd_9F4EvNeRMn-fp7ZbipoGVNcJ4&__tn__=*NK-R" target="_blank">#runourtown</a></p>
-                        
-                    <a href="https://www.myrunresults.com/events/drogheda_virtual_10k/4085/details?fbclid=IwAR2-f45sJVrwnr5zXnQhT_IwPWL4ppxbpGAtY_YSdSo5FMfECIw9Rpp2Y9c" class="btn btn-primary btn-upcoming mt-auto" target="_blank"><i class="fas fa-running"></i> Drogheda Virtual 10K</a>
+                    <h5 class="card-title navyCardTitle">Special Music Date for Diary</h5>
+                    <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
+                    <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a> </p>
                 </div>
             </div>
         </div>
