@@ -13,6 +13,19 @@
             </div>
             <div class="card-group">
                 <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
+                        <div class="card navyCard flex-fill h-100">
+                            <img class="card-img-top soh" width="533" height="380" src="./img/Grainne.jpg" alt="Grainne"/>
+                            <div class="card-body navyCardBody d-flex flex-column">
+                                <h5 class="card-title navyCardTitle mb-4">Congratulations Gráinne</h5>
+                                <p class="card-text navyCardText">The physiotherapy service in Haematology and Oncology in Our Lady of Lourdes Hospital recently marked it first 6 months.</p>
+                                <p class="card-text navyCardText">Started in November 2020 and staffed by Gráinne Kerr, a senior physiotherapist the service offers patients support throughout their cancer journey from diagnosis, through treatment and into survivorship. Physiotherapy can help patients in various areas including exercise tolerance, mobility, strength, flexibility and function. The physiotherapy service also provides rehabilitation after various surgeries including breast care.</p>
+                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample16">Those who have had surgery or treatment effecting their lymphatic system may also receive physiotherapy specific for lymphoedema. Physiotherapy may also help you to set goals to assist in returning to your usual function, return to work or to assist you in managing side effects from your treatment or disease. As evidence continues to support the role of exercise throughout the cancer continuum, your physiotherapist will assist you to engage in exercise and physical activity in order to achieve many of the associated benefits. To seek a physiotherapy referral, you should have a discussion with your Oncology nurse or doctor.</p>
+                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample16">Gráinne who previously worked in St James’ Hospital Dublin, the national Cancer Institute for the last 6 years has a Masters in Physiotherapy and a Batchelor of Science in Athletic Therapy and Training. On behalf of everyone in NECRET, we wish Gráinne the very best for the next 6 months and beyond. </p>
+                                <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample16" role="button" aria-expanded="false" aria-controls="multiCollapseExample15"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
                         <div class="card navyCard flex-fill h-100">
                             <img class="card-img-top soh" width="533" height="380" src="./img/upcoming_1.webp" alt="Tractor Run"/>
@@ -47,27 +60,7 @@
                         </div>
                     </div>
 
-                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 col-xl-4 d-flex text-center">
-                        <div class="card navyCard flex-fill h-100">
-                            <img class="card-img-top" src="./img/OC.jpg" alt="Martin Russell">
-                            <div class="card-body navyCardBody d-flex flex-column">
-                                <h5 class="card-title navyCardTitle mb-4">February - Ovarian Cancer Awareness Month</h5>
-                                <p class="card-text navyCardText">Being Ovarian Cancer Aware is Important **Know the Symptoms**</p>  
-                                <p class="card-text navyCardText">Ovarian cancer whispers. The symptoms are very much ones we sometimes may not be believe important. If you recognize these symptoms please check with your doctor.</p>  
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20">The symptoms of ovarian cancer can often be vague.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20">See your GP if you have any of these symptoms most days for three weeks or more:</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - feeling bloated (a swollen tummy) most of the time</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - feeling full quickly or not wanting to eat much</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - pain in your lower tummy or pelvis most of the time</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - needing to wee more often than normal</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - a change in bowel habit, such as diarrhoea or constipation</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - back pain</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20"> - feeling tired all the time.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample20">These symptoms can be caused by other things. Most women with these symptoms do not have ovarian cancer. But if you have any of these symptoms, it is important to see your GP. The earlier ovarian cancer is found, the more likely it is that treatment will be successful.</p>    
-                                <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample20" role="button" aria-expanded="false" aria-controls="multiCollapseExample20"><i class="fa fa-hand-holding-medical"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
+                  
                 </div>
             </div>
             <div class="card-group">
