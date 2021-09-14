@@ -32,6 +32,17 @@
                         <p>We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
+                        <h4>WHAT TO EXPECT!</h4>
+                        <p>We promise you will feel energised and fulfilled but if you don't believe us take time to read Brenda's recap of her experience last year:</p>
+                        <p><i class="fa fa-quote-left fa-2x"></i> <em>I had a feeling of excitement and nerves and pure adrenalin rushing through my body waiting on the beach to run into the sea. We all held hands and 
+                            I can remember as I reached the water thus wave of indescribable emotion and calm coming over me. I was the only cancer survivor in our group 
+                            so the girls hugged me and cried with me and I stood in the middle of a circle of these amazing supportive strong women and I dunked myself under the water!! 
+                            When I came up we all cried and I don't think I have ever and ever will experience the feeling of empowerment...calmness....love...strength...and pure joy I felt. 
+                            There are no words to genuinely describe how truly amazing I felt. I still almost a year later get a wave of emotions when I think about it. 
+                            There were women of all ages, shapes and sizes on that beach that day and it didn’t matter what anyone looked like. It was quite remarkable. 
+                            I honestly can't wait to run into that sea again and meet more strong beautiful women and raise money for what is such an amazing cause</em> <i class="fa fa-quote-right fa-2x"></i></p>
+                    </div>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <h4>BY THE WAY… WHAT IS NECRET?</h4>
                         <p>It’s our secret weapon in the fight against cancer. Spearheaded by one of Ireland leading cancer specialists Professor Bryan Hennessy, <strong>NECRET</strong> provides funding for focused activities that will improve the treatment and outcomes of people with cancer – keeping it at the very cutting edge.</p>
                         <p>This is what we do with the money raised by the <strong>Dip In The Nip:</strong></p>
