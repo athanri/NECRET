@@ -13,7 +13,18 @@
             </div>
             <div class="card-group">
                 <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
+                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
+                        <div class="card navyCard flex-fill h-100">
+                            <img class="card-img-top soh" width="533" height="380" src="./img/eddie.png" alt="Eddie"/>
+                            <div class="card-body navyCardBody d-flex flex-column">
+                                <h5 class="card-title navyCardTitle mb-4">Special Music Date for Diary</h5>
+                                <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
+                                <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
                         <div class="card navyCard flex-fill h-100">
                             <img class="card-img-top soh" width="533" height="380" src="./img/Grainne.jpg" alt="Grainne"/>
                             <div class="card-body navyCardBody d-flex flex-column">
@@ -39,28 +50,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
-                        <div class="card navyCard flex-fill h-100">
-                            <img class="card-img-top soh" width="533" height="380" src="./img/DrDavidEasty.jpg" alt="Dr David Easty"/>
-                            <div class="card-body navyCardBody d-flex flex-column">
-                                <h5 class="card-title navyCardTitle mb-4">Pancreatic Cancer Trial</h5>
-                                <p class="card-text navyCardText">Congratulations to Dr David Easty, Oncology Unit registrar under the guidance of Professor Bryan Hennessy whose research work to improve outcomes for patients with advanced pancreatic cancer has been recognised in the announcement of a nationwide clinical trial being opened.</p>
-                                <p class="card-text navyCardText">NECRET are delighted to be providing funding for the translational part of this trial.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">More details can be found on this study which proposes to test the anti-tumour efficacy of paricalcitol, in combination with GEM/Nab-paclitaxel in patients with advanced metastatic pancreatic cancer at the following <a href="https://clinicaltrials.gov/ct2/show/record/NCT04617067?cond=paricalcitol&cntry=IE&draw=2&rank=1&view=record" target="_blank">link</a></p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">Clinical Trials are now regarded worldwide by cancer experts as the cutting edge in terms of cancer treatment because they not only offer people with cancer the opportunity to get what is currently the best standard treatment, but also to get new drugs that are potentially better than current treatments.</p>
-                                <h3 class="card-text navyCardText collapse multi-collapse multiCollapseExample15">A New Treatment for Pancreatic cancer:</h3>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">Pancreatic cancer is sometimes called a difficult to treat cancer. Occasional patients show a good response to chemotherapy and this encourages our efforts to improve current protocols. The incidence is increasing and by 2030 pancreatic cancer will be the second most common cause of death due to cancer. Pancreatic cancer survival rates have remained relatively unchanged since the 1970s and a lot of work is being done to find more effective treatments for this cancer.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The aim of a new clinical trial is to improve the results of treatment for patients with advanced pancreatic cancer. A pair of drugs, called Gemcitabine and Nab-Paclitaxel, are widely used to treat patients with pancreatic cancer. We aim to find out whether adding an extra drug, called paricalcitol will improve the results we see with the chemotherapy used today.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">A look under the microscope gives a clue to just why pancreatic cancer is so hard to treat. You can see blue cancer cells sitting round white spaces, but it’s the pink background surrounding the loops of cancer cells which are important. This is especially seen in pancreatic cancer.</p>
-                                <img class="card-text navyCardText collapse multi-collapse multiCollapseExample15" src="./img/pc.png" />
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The body reacts to pancreatic cancer cells by surrounding them with a thick pink scar of tissue and this has been described as like cement. Unfortunately this scar sometimes blocks  chemotherapy from getting into the pancreatic cells. The scar is made by star cells. These are normal cells, but they are traitors that protect the cancer. Not only that, the star cells also feed the cancer cells with amino acids and give it signals to grow. Paricalcitol re-educates the star cells and the hope is this will make chemotherapy more effective.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The purpose of this clinical trial is to find out whether paricalcitol will further improve the results we get with Gemcitabine and Nab-Paclitaxel treatment in patients with pancreatic cancer.</p>
-                                <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample15" role="button" aria-expanded="false" aria-controls="multiCollapseExample15"><i class="fa fa-hand-holding-medical"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-
-                  
                 </div>
             </div>
             <div class="card-group">
@@ -325,6 +314,30 @@
                                     <p class="card-text navyCardText">or</p>
                                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample8">on the YouTube page of Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd">https://www.youtube.com/user/Finnegandvd</a></p>
                                     <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample8" role="button" aria-expanded="false" aria-controls="multiCollapseExample8"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-group">
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex offset-md-4">
+                            <div class="card navyCard flex-fill h-100">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/DrDavidEasty.jpg" alt="Dr David Easty"/>
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">Pancreatic Cancer Trial</h5>
+                                    <p class="card-text navyCardText">Congratulations to Dr David Easty, Oncology Unit registrar under the guidance of Professor Bryan Hennessy whose research work to improve outcomes for patients with advanced pancreatic cancer has been recognised in the announcement of a nationwide clinical trial being opened.</p>
+                                    <p class="card-text navyCardText">NECRET are delighted to be providing funding for the translational part of this trial.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">More details can be found on this study which proposes to test the anti-tumour efficacy of paricalcitol, in combination with GEM/Nab-paclitaxel in patients with advanced metastatic pancreatic cancer at the following <a href="https://clinicaltrials.gov/ct2/show/record/NCT04617067?cond=paricalcitol&cntry=IE&draw=2&rank=1&view=record" target="_blank">link</a></p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">Clinical Trials are now regarded worldwide by cancer experts as the cutting edge in terms of cancer treatment because they not only offer people with cancer the opportunity to get what is currently the best standard treatment, but also to get new drugs that are potentially better than current treatments.</p>
+                                    <h3 class="card-text navyCardText collapse multi-collapse multiCollapseExample15">A New Treatment for Pancreatic cancer:</h3>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">Pancreatic cancer is sometimes called a difficult to treat cancer. Occasional patients show a good response to chemotherapy and this encourages our efforts to improve current protocols. The incidence is increasing and by 2030 pancreatic cancer will be the second most common cause of death due to cancer. Pancreatic cancer survival rates have remained relatively unchanged since the 1970s and a lot of work is being done to find more effective treatments for this cancer.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The aim of a new clinical trial is to improve the results of treatment for patients with advanced pancreatic cancer. A pair of drugs, called Gemcitabine and Nab-Paclitaxel, are widely used to treat patients with pancreatic cancer. We aim to find out whether adding an extra drug, called paricalcitol will improve the results we see with the chemotherapy used today.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">A look under the microscope gives a clue to just why pancreatic cancer is so hard to treat. You can see blue cancer cells sitting round white spaces, but it’s the pink background surrounding the loops of cancer cells which are important. This is especially seen in pancreatic cancer.</p>
+                                    <img class="card-text navyCardText collapse multi-collapse multiCollapseExample15" src="./img/pc.png" />
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The body reacts to pancreatic cancer cells by surrounding them with a thick pink scar of tissue and this has been described as like cement. Unfortunately this scar sometimes blocks  chemotherapy from getting into the pancreatic cells. The scar is made by star cells. These are normal cells, but they are traitors that protect the cancer. Not only that, the star cells also feed the cancer cells with amino acids and give it signals to grow. Paricalcitol re-educates the star cells and the hope is this will make chemotherapy more effective.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample15">The purpose of this clinical trial is to find out whether paricalcitol will further improve the results we get with Gemcitabine and Nab-Paclitaxel treatment in patients with pancreatic cancer.</p>
+                                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample15" role="button" aria-expanded="false" aria-controls="multiCollapseExample15"><i class="fa fa-hand-holding-medical"></i> Read More</a>
                                 </div>
                             </div>
                         </div>

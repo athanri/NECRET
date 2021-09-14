@@ -4,6 +4,18 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
+                <img class="card-img-top" src="./img/OpenDay.png" alt="Open Day">
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">All-Island Schools Virtual Open Day</h5>
+                    <h6 class="card-title navyCardTitle">Invitation To Students</h6>
+                    <p class="card-text navyCardText">In collaboration with the Northeast Cancer Research & Education Trust (NECRET), the Royal College of Surgeons in Ireland (RSCI) and Queens University Belfast, would like to invite students who are considering a future career in medicine or medical research to an information and discussion open day on Saturday 25th September.</p>
+                    <p class="card-text navyCardText">The event is open to all students but is primarily geared towards transition and fifth year students. This initiative, incepted by NECRET is specifically designed to inspire and enthuse the next generation of cancer medical and research professionals.</p>
+                    <p class="card-text navyCardText">To read more and register please visit <a target="_blank" href="https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969">https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/DipSm.jpg" alt="Dip N Nip">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">NorthEast Dip in the Nip 2021</h5>
@@ -14,18 +26,6 @@
                 </div>
             </div>
         </div>
-        
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/eddie.png" alt="eddie" height="211">
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Special Music Date for Diary</h5>
-                    <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
-                    <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a> </p>
-                </div>
-            </div>
-        </div>
-
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/CaminoBoyne.jpg" alt="Camino">
