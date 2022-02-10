@@ -4,6 +4,19 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
+                <img class="card-img-top" src="./img/ServiceOfHope.png" alt="Service Of Hope">
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">Annual Service of Hope</h5>
+                    <p class="card-text navyCardText">Regrettably again this year we are not going to get to meet up for our Annual Service of Hope which has been run by the Oncology Unit since 1996.</p>
+                    <p class="card-text navyCardText">However, hopefully you may be able to join us virtually on Friday December 17th at 6pm. Viewable on the NECRET Facebook page <a href="https://www.facebook.com/NECRET/" target="_blank">https://www.facebook.com/NECRET/</a></p>
+                    <p class="card-text navyCardText">Also can be seen on the YouTube page of videographer Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd" target="_blank">https://www.youtube.com/user/Finnegandvd</a></p>
+                    <p class="card-text navyCardText">To join the Event page and receive updates please clink on the following link:</p>
+                    <p class="card-text navyCardText"><a href="https://m.facebook.com/events/451004453077157?view=permalink&id=451004489743820?sfnsn=mo" target="_blank">Click Here To Receive Updates</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/OpenDay.png" alt="Open Day">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">All-Island Schools Virtual Open Day</h5>
@@ -23,20 +36,6 @@
                     <p class="card-text navyCardText">This year will be extra special as it amazingly will be our 10th year.</p>
                     <p class="card-text navyCardText">For those of you that took part over the last 10 years, we don't have to remind you of how this incredible event will empower you as a person and for those that have never done it, come on! what's stopping you?</p>
                     <p class="card-text navyCardText">To receive your registration pack please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> with your full name, postal address and contact number. More details on the event at <a href="https://www.necret.ie/dipintheNip">https://www.necret.ie/dipintheNip</a> and with updates on our Dip Event Page <a href="https://fb.me/e/3Ub8HH30Ohttps://fb.me/e/3Ub8HH30O" target="_blank">https://fb.me/e/3Ub8HH30Ohttps://fb.me/e/3Ub8HH30O</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/CaminoBoyne.jpg" alt="Camino">
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Boyne Valley Camino Challenge</h5>
-                    <p class="card-text navyCardText">Registration is now Open. Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
-                    <p class="card-text navyCardText">For more details or to receive your registration form email necret.info@gmail.com or text 086 7773294 with your full name, address and mobile number. To participate completed registration forms must be received no later than midday on Friday June 16th.</p>
-                    <p class="card-text navyCardText">Limited numbers will apply so please register as soon as possible. All relevant public health advise will apply to this event including social distancing etc.</p>
-                    <p class="card-text navyCardText">To get started with fundraising please request your sponsorship card and/or use Necret’s online fundraising page, by clicking on the following link:</p>
-                    <a href="https://www.idonate.ie/5814_necret.html" target="_blank">https://www.idonate.ie/5814_necret.html</a>
-                    <a href="https://www.facebook.com/events/800335027336625/" target="_blank" class="btn btn-primary btn-upcoming mt-3"><i class="fas fa-walking"></i> Boyne Valley Camino</a>
                 </div>
             </div>
         </div>
