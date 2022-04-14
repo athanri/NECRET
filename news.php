@@ -15,15 +15,15 @@
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                     <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
                         <div class="card navyCard flex-fill h-100">
-                            <img class="card-img-top soh" width="533" height="380" src="./img/eddie.png" alt="Eddie"/>
+                            <img class="card-img-top soh" width="533" height="380" src="./img/TV.jpg" alt="Briscoe Smart"/>
                             <div class="card-body navyCardBody d-flex flex-column">
-                                <h5 class="card-title navyCardTitle mb-4">Special Music Date for Diary</h5>
-                                <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
-                                <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                                <h5 class="card-title navyCardTitle mb-4">SMART TV Donation - Briscoe Electrical</h5>
+                                <p class="card-text navyCardText">Many thanks to local Drogheda electrical retailer Briscoe Electrical for </p>
+                                <p class="card-text navyCardText">their very kind donation of two fabulous LG Smart TVs for patient and visitor use in the Oncology Unit.</p>
+                                <p class="card-text navyCardText">Your support <a href="https://www.briscoes.ie/" target="_blank">@briscoes.ie</a> of the Unit and NECRET is greatly appreciated </p>
                             </div>
                         </div>
                     </div>
-                    
                     <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
                         <div class="card navyCard flex-fill h-100">
                             <img class="card-img-top soh" width="533" height="380" src="./img/Grainne.jpg" alt="Grainne"/>
@@ -306,10 +306,10 @@
                         
                         <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 col-xl-4 d-flex text-center mb-3">
                             <div class="card navyCard flex-fill">
-                                <img class="card-img-top" src="./img/Necret-Mass-invite-20.jpg" alt="Service of Hope">
+                                <img class="card-img-top" src="./img/ServiceOfHope.png" alt="Service of Hope">
                                 <div class="card-body navyCardBody d-flex flex-column">
                                     <h5 class="card-title navyCardTitle mb-4">Annual Service of Hope</h5>
-                                    <p class="card-text navyCardText">NECRET and the Oncology & Haematology Department, Our Lady of Lourdes Hospital, Drogheda invites you to our annual Service of Hope on Friday 11th of December at 6.00pm. </p>
+                                    <p class="card-text navyCardText">NECRET and the Oncology & Haematology Department, Our Lady of Lourdes Hospital, Drogheda invited you to our annual Service of Hope which took place, virtually, on December at 6.00pm. </p>
                                     <p class="card-text navyCardText">Available to view on the NECRET Facebook Page <a href="https://www.facebook.com/NECRET/">https://www.facebook.com/NECRET/</a></p>
                                     <p class="card-text navyCardText">or</p>
                                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample8">on the YouTube page of Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd">https://www.youtube.com/user/Finnegandvd</a></p>
@@ -321,7 +321,17 @@
                 </div>
                 <div class="card-group">
                     <div class="row row-cols-1 row-cols-md-2 g-4">
-                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex offset-md-4">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex offset-md-2">
+                            <div class="card navyCard flex-fill h-100">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/eddie.png" alt="Eddie"/>
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">Special Music Date for Diary</h5>
+                                    <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
+                                    <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
                             <div class="card navyCard flex-fill h-100">
                                 <img class="card-img-top soh" width="533" height="380" src="./img/DrDavidEasty.jpg" alt="Dr David Easty"/>
                                 <div class="card-body navyCardBody d-flex flex-column">

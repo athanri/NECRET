@@ -2,16 +2,14 @@
     <h2 class="fontNavy">Upcoming Events</h2>
     <div class="row text-center">
         <br>
+
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/ServiceOfHope.png" alt="Service Of Hope">
+                <img class="card-img-top" src="./img/CaminoBoyne.jpg" alt="Boyne Valley Camino">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Annual Service of Hope</h5>
-                    <p class="card-text navyCardText">Regrettably again this year we are not going to get to meet up for our Annual Service of Hope which has been run by the Oncology Unit since 1996.</p>
-                    <p class="card-text navyCardText">However, hopefully you may be able to join us virtually on Friday December 17th at 6pm. Viewable on the NECRET Facebook page <a href="https://www.facebook.com/NECRET/" target="_blank">https://www.facebook.com/NECRET/</a></p>
-                    <p class="card-text navyCardText">Also can be seen on the YouTube page of videographer Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd" target="_blank">https://www.youtube.com/user/Finnegandvd</a></p>
-                    <p class="card-text navyCardText">To join the Event page and receive updates please clink on the following link:</p>
-                    <p class="card-text navyCardText"><a href="https://m.facebook.com/events/451004453077157?view=permalink&id=451004489743820?sfnsn=mo" target="_blank">Click Here To Receive Updates</a></p>
+                    <h5 class="card-title navyCardTitle">Boyne Valley Camino</h5>
+                    <p class="card-text navyCardText">Boyne Valley Camino Challenge Registration Open Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
+                    <p class="card-text navyCardText">Starting from St Peter’s Church led by wonderfully experienced tour leaders who have very kindly volunteered their services, the trail follows the River Boyne before gaining the woodlands of the Townley Estate and then meandering quiet lanes to Mellifont, where there will be an opportunity for that much earned packed lunch or other refreshments. A separate return route gives a total walk of 25km.</p>
                 </div>
             </div>
         </div>

@@ -52,31 +52,31 @@
                             <tbody>
                                 <tr>
                                     <th scope="row"><a href="http://runamuckchallenge.ie/" target="_blank">RunaMuck</a></th>
-                                    <td>Saturday 16th October 2021</td>
+                                    <td>Saturday 5th March 2022</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.connemarathon.com/" target="_blank">Connemarathon</a></th>
-                                    <td>Sunday 18th April 2021</td>
+                                    <td>Sunday 24th April 2022</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.facebook.com/Drogheda10k/" target="_blank">Drogheda10K</th>
-                                    <td>To Be Announced</td>
+                                    <td>Sunday May 1st 2022</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="http://www.corkcitymarathon.ie/" target="_blank">Cork City Marathon</a></th>
-                                    <td>Sunday 6th June 2021</td>
+                                    <td>Sunday 5th June 2022</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.vhiwomensminimarathon.ie/" target="_blank">Women’s Mini Marathon</a></th>
-                                    <td>To Be Announced</td>
+                                    <td>Sunday 5th June 2022</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row"><a href="https://toughmudder.ie/" target="_blank">Tough Mudder</a></th>
-                                    <td>Saturday 24th & Sunday 25th July 2021</td>
+                                    <th scope="row"><a href="https://www.hellandback.ie/" target="_blank">Hell & Back</a></th>
+                                    <td>Sunday 5th June 2022</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="http://kbcdublinmarathon.ie/" target="_blank">Dublin City Marathon</a></th>
-                                    <td>Sunday 24th October 2021</td>
+                                    <td>Sunday 30th October 2022</td>
                                 </tr>
                             </tbody>
                             </table>
