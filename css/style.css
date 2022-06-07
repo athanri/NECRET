@@ -8,6 +8,10 @@
     color: #cccccc;
 }
 
+.smallText {
+    font-size: small;
+}
+
 #covidBtn {
     width: 200px;
 }

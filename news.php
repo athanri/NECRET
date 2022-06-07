@@ -320,18 +320,30 @@
                     </div>
                 </div>
                 <div class="card-group">
-                    <div class="row row-cols-1 row-cols-md-2 g-4">
-                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex offset-md-2">
+                <div class="row row-cols-1 row-cols-md-2 g-4">
+                    <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 col-xl-4 d-flex text-center mb-3">
+                        <div class="card navyCard flex-fill h-100">
+                            <img class="card-img-top soh" width="533" height="380" src="./img/eddie.png" alt="Eddie"/>
+                            <div class="card-body navyCardBody d-flex flex-column">
+                                <h5 class="card-title navyCardTitle mb-4">Special Music Date for Diary</h5>
+                                <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
+                                <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill h-100">
-                                <img class="card-img-top soh" width="533" height="380" src="./img/eddie.png" alt="Eddie"/>
+                                <img class="card-img-top" src="./img/DipSm.jpg" alt="Dip N Nip">
                                 <div class="card-body navyCardBody d-flex flex-column">
-                                    <h5 class="card-title navyCardTitle mb-4">Special Music Date for Diary</h5>
-                                    <p class="card-text navyCardText">Many Thanks to the really wonderful Eddie Quinn and Dessie Hynes who have very kindly offered to play a Facebook live gig in our aid on May 29th. We are really looking forward to this fundraiser which should be a great night's entertainment.</p>
-                                    <p class="card-text navyCardText">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                                    <h5 class="card-title navyCardTitle">NorthEast Dip in the Nip 2021</h5>
+                                    <p class="card-text navyCardText">We have exciting news!! Our NorthEast Dip in the Nip Returns.. September, Sunday 5th. This year with limited numbers of only 200 which is in line with HSE Covid 19 Regulations. You know we’d love to have you so don’t delay register today. Come on girls we all need a little bit of fun while still fundraising or our worthy cause.</p>
+                                    <p class="card-text navyCardText">This year will be extra special as it amazingly will be our 10th year.</p>
+                                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample16">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
+                                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample16" role="button" aria-expanded="false" aria-controls="multiCollapseExample16"><i class="fa fa-hand-holding-medical"></i> Read More</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 text-center col-xl-4 d-flex">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill h-100">
                                 <img class="card-img-top soh" width="533" height="380" src="./img/DrDavidEasty.jpg" alt="Dr David Easty"/>
                                 <div class="card-body navyCardBody d-flex flex-column">
