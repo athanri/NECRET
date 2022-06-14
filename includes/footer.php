@@ -12,7 +12,7 @@
               <img src="./img/logo.webp" class="img-fluid" alt="Logo">
             </div>
               <ul id="footList" class="list-group text-center">
-                  <li class="list-group-item">© 2020 Copyright: NECRET</li>
+                  <li class="list-group-item">© 2022 Copyright: NECRET</li>
                   <li class="list-group-item"><i class="fas fa-home mr-3"></i> Beamore Rd, Drogheda, Co. Louth</li>
                   <li class="list-group-item"><i class="fas fa-envelope mr-3"></i> info@necret.ie</li>
                   <li class="list-group-item"><i class="fas fa-phone mr-3"></i>+353 41 9874684</li>
