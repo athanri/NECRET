@@ -364,6 +364,22 @@
                             </div>
                         </div>
                     </div>
+                    <div class="card-group">
+                        <div class="row row-cols-1 row-cols-md-2 g-4">
+                            <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 col-xl-4 d-flex text-center mb-3 offset-md-4">
+                                <div class="card navyCard flex-fill h-100">
+                                    <img class="card-img-top soh" width="533" height="380" src="./img/Research2.webp" alt="Research">
+                                    <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">NECRET Research</h5>
+                                    <p class="card-text navyCardText">Congratulations to Dr David Easty, Oncology Unit registrar under the guidance of Professor Bryan Hennessy whose research work to improve outcomes for patients with advanced pancreatic cancer has been recognised in the announcement of a nationwide clinical trial being opened.
+                                    <p class="card-text navyCardText mb-5">NECRET Supported Research Recognised
+                                    Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
+                                    NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
+                                    <a href="cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

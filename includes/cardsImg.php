@@ -16,13 +16,32 @@
 
         <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/Research2.webp" alt="Research">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./img/CancerResearchGroup.png" class="d-block carousleDBlock w-100" alt="Group">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/CancerResearch01.png" class="d-block carousleDBlock w-100" alt="Research01">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/CancerResearch02.png" class="d-block carousleDBlock w-100" alt="Research02">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/CancerResearch03.png" class="d-block carousleDBlock w-100" alt="Research03">
+                    </div>
+                </div>
+                </div>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">NECRET Research</h5>
-                    <p class="card-text navyCardText mb-5">NECRET Supported Research Recognised
-                    Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
-                    NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
-                    <a href="cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                    <h5 class="card-title navyCardTitle">NECRET Supporting Cancer Research</h5>
+                    <p class="card-text navyCardText mb-5">Despite advances and improvements in the treatment of cancer, there is still a long way to go and this is why cancer research is so important. Research is the only way to ensure that new and better cancer treatments and drugs continue to become available for people with cancer.</p>
+                    <p class="card-text navyCardText mb-5">The evidence also clearly shows that cancer patients treated in research-active hospitals have better outcomes than those who are not. This is why, as part of NECRET’s mission we believe it is important to help support vital clinical cancer research.</p>
+                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001">Our Lady of Lourdes and Beaumont Hospitals are both sister hospitals within the RSCI Hospital Group that work together in delivering patient care. Members of the NECRET board recently visited the RCSI Oncology Lab on the Beaumont campus, where the research is conducted to receive an update on the very latest developments the charity supports; including approaches to improve the treatment of bowel and lung cancers.</p>
+                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001">NECRET would like to take the opportunity to thank everyone who has supported its cause and without whom these advances wouldn’t be possible.</p>
+                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001">The charity is proud to have supported advances across different cancer types including lung, ovarian, breast and bowel which can viewed at <a href="cuttingEdge.php">https://www.necret.ie/cuttingEdge</a></p>
+                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001">#FightingCancerEveryday</p>
+                    <a href="https://www.linkedin.com/pulse/necret-supporting-cancer-research-?fbclid=IwAR3Vn_Ah6SvZf-Vv1VrcasIjDYAjDTMNCswVEEYnsHK1HwpK4_icz-jyqkw" target="_blank" class="mb-5 card-text navyCardText collapse multi-collapse multiCollapseExample001">NECRET Supporting Cancer Research</a>
+                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample001" role="button" aria-expanded="false" aria-controls="multiCollapseExample001"><i class="fa fa-microscope"></i> Show More Info</a>
                 </div>
             </div>
         </div>

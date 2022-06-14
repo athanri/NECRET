@@ -8,6 +8,10 @@
     color: #cccccc;
 }
 
+.carousleDBlock {
+    height: 211px !important;
+}
+
 .smallText {
     font-size: small;
 }

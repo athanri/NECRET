@@ -29,7 +29,7 @@
                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Grangegeeth Inn, Slane (0419824875)</p>
                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Ryan’s of Gormalough (0469024021)</p>
                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Hugh Maguire Butchers, Ashbourne (018499919)</p>
-                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample001" role="button" aria-expanded="false" aria-controls="multiCollapseExample16"><i class="fa fa-ticket"></i> Show Locations</a>
+                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample001" role="button" aria-expanded="false" aria-controls="multiCollapseExample001"><i class="fa fa-ticket"></i> Show Locations</a>
                 </div>
             </div>
         </div>
