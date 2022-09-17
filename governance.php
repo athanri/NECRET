@@ -114,6 +114,15 @@
                         <p>You can download and view our most recent audited accounts by clicking below:</p>
                     </div>
 
+                    <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 my-2">
+                        <div class="card border-0">
+                            <div class="card-body contactCard text-center">
+                                <h4 class="text-uppercase mt-2 mb-3">2021</h4>
+                                <a href="./docs/NECRET_Financial_2021.pdf"><i class="fa fa-file-alt fa-5x"></i></a>
+                                <p>Read Here</p>
+                            </div>
+                        </div>
+                    </div>
                     
                     <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 my-2">
                         <div class="card border-0">
@@ -155,7 +164,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 my-2">
+                    <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 my-2">
                         <div class="card border-0">
                             <div class="card-body contactCard text-center">
                                 <h4 class="text-uppercase mt-2 mb-3">2016</h4>
@@ -165,7 +174,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 my-2">
+                    <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 my-2">
                         <div class="card border-0">
                             <div class="card-body contactCard text-center">
                                 <h4 class="text-uppercase mt-2 mb-3">2015</h4>
@@ -175,7 +184,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4 my-2">
+                    <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 my-2">
                         <div class="card border-0">
                             <div class="card-body contactCard text-center">
                                 <h4 class="text-uppercase mt-2 mb-3">2014</h4>
@@ -188,7 +197,7 @@
                         <h5>NECRET Board</h5>
                         <p>NECRET’s Board Members are responsible for the overall control and strategic direction of the charity. They meet regularly to discuss, decide, and review our strategies and policies and receive reports and updates.</p>
                         <p>Our current Board members are</p>
-                        <p>Professor Bryan Hennessy (Chair), Elizabeth Summersby, Anna Harbison Egan, Mary Patricia Meade and Elizabeth Mary McArdle.</p>
+                        <p>Professor Bryan Hennessy (Chair), Elizabeth Summersby, Anna Harbison Egan, Mary Patricia Meade, Elizabeth Mary McArdle, Professor Reem Salman and Paul Egan</p>
                         <br>
                         <p>The Board of Directors would like to advise their patrons and supporters that they do not receive any financial or other remuneration for their services. All services are provided on a free and voluntary basis. The charity adheres to all statutory obligations with regard to a limited company and annual accounts are submitted and audited as per statutory obligations.</p>
                     </div>

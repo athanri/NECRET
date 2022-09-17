@@ -5,31 +5,13 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/barndance.png" alt="Barn Dance">
+                <img class="card-img-top" src="./img/dipNTheNip2022_2.jpg" alt="Dip N Nip">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Return of Kilmoon Barndance June 25th</h5>
-                    <p class="card-text navyCardText">Organised by the Fox & Kerins families the Kilmoon Barndance has been an amazing supporter of various charities like ourselves for many years, incredibly donating over €550,000 to charity over its previous seven Barn Dances.</p>
-                    <p class="card-text navyCardText">This year NECRET whose core mission is improving the treatment and outcomes of people with cancer, is again deeply appreciative to be chosen by the organisers as a beneficiary.</p>
-                    <p class="card-text navyCardText">It's been a long three years but dust off the cowboy hats as the famous Kilmoon Barn Dance is back! With tickets already selling fast for the famous event held in Cushinstown Athletic Club in Kilmoon (just off the N2 outside Ashbourne) on Saturday the 25th of June.</p>
-                    <p class="card-text navyCardText">First to hit the stage will be the up and coming trad/folk band Ceol followed by Garth Brook Tribute "Trevor Smith & Friends In Low Places -The Ultimate Garth Brooks Experience." The very popular DJ Mark Fallon will then take us into the early hours.</p>
-                    <p class="card-text navyCardText">It is being held Tickets are €35 including free food all night, with the proceeds going to Cancer Research, Ukrainian Fund and other local charities.</p>
-                    <p class="card-text navyCardText">It promises to be another great night's craic so make sure to get your tickets early to avoid disappointment as it will sell out as per other years! Strictly over 18's, cash only on the night (no ATM on site).</p>
-                    <p class="card-text navyCardText">Tickets available at the below locations:</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Snail Box Bar and Restaurant, Kilmoon (018354277)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Euro Farm Foods, Duleek (0419880888)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Bennett's Pub, Ardcath (018354118)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Gormley's Pub, Garristown (018354261)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Bergin's Butchers, Shopping Centre Navan (0469074521)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Blacklions Stores (Bowen's), Balrath (0419825259)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Beck's Pub, Kilmoon (018354349)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Whyte's Bar and Restaurant, Stamullen (018412612)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Swans Shop and Pub Skryne</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* The Lacken Bar, Rathkenny (0469055911)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Dolly Mitchell’s Rossin, Slane</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Grangegeeth Inn, Slane (0419824875)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Ryan’s of Gormalough (0469024021)</p>
-                    <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001 smallText">* Hugh Maguire Butchers, Ashbourne (018499919)</p>
-                    <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample001" role="button" aria-expanded="false" aria-controls="multiCollapseExample001"><i class="fa fa-ticket"></i> Show Locations</a>
+                    <h5 class="card-title navyCardTitle">HOW TO REGISTER FOR OUR DIP IN THE NIP</h5>
+                    <p class="card-text navyCardText">Simply fill in the <a href="dipintheNip.php#contactForm">form</a> and we will post a Registration Form and Sponsorship Card to you within a few days. Please complete this form and send back to us by post or email.</p>
+                    <p class="card-text navyCardText">If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> or text <a href="tel:00353867773294">086 7773294</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
+                    <p class="card-text navyCardText">We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
+                    <p class="card-text navyCardText"><a href="dipintheNip.php#contactForm">Click Here for FORM</a></p>
                 </div>
             </div>
         </div>
