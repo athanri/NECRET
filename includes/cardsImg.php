@@ -3,13 +3,13 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <a href="./awareness-symptoms.php"><img class="card-img-top" src="./img/NursesDay2021.jpg" alt="International Nurses Day"></a>
+                <a target="_blank" href="./docs/NECRET_Newsletter_Autumn_2022.pdf"><img class="card-img-top" src="./img/Newsletter.png" alt="Newsletter"></a>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">International Nurses Day</h5>
-                    <p class="card-text navyCardText">May 12th is #InternationalNursesDay an annual celebration of the crucial work and role of nurses around the world – where all their wonderful work, dedication & compassion is recognized. 
-                        Wishing all the amazing nursing staff in Our Lady of Lourdes Hospital, across the country and world every thanks on this special day. For everything you do we are deeply grateful.
-                    </p>
-                    <a href="https://www.facebook.com/hashtag/internationalnursesday" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fas fa-user-nurse"></i> Read More</a>
+                    <h5 class="card-title navyCardTitle">Necret Newsletter Autumn 2022</h5>
+                    <p class="card-text navyCardText">The Autumn Newsletter of NECRET is now available, where you can read all the latest
+                    charity news and developments. It is also importantly captures some of the ways NECRET 
+                    is contributing to improving cancer treatment and care for this impacted by cancer.</p>
+                    <a href="./docs/NECRET_Newsletter_Autumn_2022.pdf" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-solid fa-newspaper"></i> Read More</a>
                 </div>
             </div>
         </div>
