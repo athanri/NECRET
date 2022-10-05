@@ -8,7 +8,7 @@
                     <h5 class="card-title navyCardTitle">Necret Newsletter Autumn 2022</h5>
                     <p class="card-text navyCardText">The Autumn Newsletter of NECRET is now available, where you can read all the latest
                     charity news and developments. It is also importantly captures some of the ways NECRET 
-                    is contributing to improving cancer treatment and care for this impacted by cancer.</p>
+                    is contributing to improving cancer treatment and care for those impacted by cancer.</p>
                     <a href="./docs/NECRET_Newsletter_Autumn_2022.pdf" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-solid fa-newspaper"></i> Read More</a>
                 </div>
             </div>
