@@ -5,24 +5,24 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/dipNTheNip2022_2.jpg" alt="Dip N Nip">
+                <img class="card-img-top" src="./img/NECRETEaster.jpg" alt="Easter Family Fun Day">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">HOW TO REGISTER FOR OUR DIP IN THE NIP</h5>
-                    <p class="card-text navyCardText">Simply fill in the <a href="dipintheNip.php#contactForm">form</a> and we will post a Registration Form and Sponsorship Card to you within a few days. Please complete this form and send back to us by post or email.</p>
-                    <p class="card-text navyCardText">If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> or text <a href="tel:00353867773294">086 7773294</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
-                    <p class="card-text navyCardText">We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
-                    <p class="card-text navyCardText"><a href="dipintheNip.php#contactForm">Click Here for FORM</a></p>
+                    <h5 class="card-title navyCardTitle">Easter Family Fun Day in aid of NECRET </h5>
+                    <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a></p>
+                    <p class="card-text navyCardText">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.</p>
+                    <p class="card-text navyCardText">All funds raised on the day will go to NECRET.</p>
                 </div>
             </div>
         </div>
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/CaminoBoyne.jpg" alt="Boyne Valley Camino">
+                <img class="card-img-top" src="./img/thanks.PNG" alt="Volunteer Thank You Night">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Boyne Valley Camino</h5>
-                    <p class="card-text navyCardText">Boyne Valley Camino Challenge Registration Open Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
-                    <p class="card-text navyCardText">Starting from St Peter’s Church led by wonderfully experienced tour leaders who have very kindly volunteered their services, the trail follows the River Boyne before gaining the woodlands of the Townley Estate and then meandering quiet lanes to Mellifont, where there will be an opportunity for that much earned packed lunch or other refreshments. A separate return route gives a total walk of 25km.</p>
+                    <h5 class="card-title navyCardTitle">Date for Diary – Volunteer Thank You Night</h5>
+                    <p class="card-text navyCardText">NECRET would like to invite our volunteers to a thank you night on Friday January 27th in the Black Bull Inn, Drogheda. Arrival from 7.30pm.</p>
+                    <p class="card-text navyCardText">Please RSVP by midday on Wednesday January 25th to ciaran@necret.ie</p>
+                    <p class="card-text navyCardText">This evening is supported by the Black Bull Inn.</p>
                 </div>
             </div>
         </div>

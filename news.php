@@ -367,16 +367,16 @@
                     </div>
                     <div class="card-group">
                     <div class="row row-cols-1 row-cols-md-2 g-4">
-                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3 offset-md-2">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill">
-                                <img class="card-img-top soh" width="533" height="380" src="./img/Research2.webp" alt="Research">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/asoh_2.jpeg" alt="HOPE">
                                 <div class="card-body navyCardBody d-flex flex-column">
-                                    <h5 class="card-title navyCardTitle mb-4">NECRET Research</h5>
-                                    <p class="card-text navyCardText">Congratulations to Dr David Easty, Oncology Unit registrar under the guidance of Professor Bryan Hennessy whose research work to improve outcomes for patients with advanced pancreatic cancer has been recognised in the announcement of a nationwide clinical trial being opened.
-                                    <p class="card-text navyCardText mb-5">NECRET Supported Research Recognised
-                                    Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
-                                    NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
-                                    <a href="cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                                    <h5 class="card-title navyCardTitle mb-4">Annual Service of Hope</h5>
+                                    <p class="card-text navyCardText">NECRET and the Oncology & Haematology Department, Our Lady of Lourdes Hospital, Drogheda invited you to our annual Service of Hope which took place, virtually, on December 16th at 6.00pm</p>
+                                    <p class="card-text navyCardText">Available to view on the NECRET Facebook Page 
+                                    <a href="https://www.facebook.com/NECRET/" target="_blank">https://www.facebook.com/NECRET/</a></p>
+                                    <p class="card-text navyCardText">OR</p>
+                                    <p class="card-text navyCardText">on the YouTube page of Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd" target="_blank">https://www.youtube.com/user/Finnegandvd</a></p>
                                 </div>
                             </div>
                         </div>
@@ -388,6 +388,34 @@
                                     <p class="card-text navyCardText">May 12th is #InternationalNursesDay an annual celebration of the crucial work and role of nurses around the world – where all their wonderful work, dedication & compassion is recognized.</p>
                                     <p class="card-text navyCardText">Wishing all the amazing nursing staff in Our Lady of Lourdes Hospital, across the country and world every thanks on this special day. For everything you do we are deeply grateful.</p>
                                     <a href="https://www.facebook.com/hashtag/internationalnursesday" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fas fa-user-nurse"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
+                            <div class="card navyCard flex-fill">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/ttr.JPG" alt="Tullyallen Tractor Run">
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">2022 Tullyallen Tractor Run</h5>
+                                    <p class="card-text navyCardText">Really looking forward to the Annual Tullyallen Tractor Run is always a great event with plenty of fun and cheer over the Christmas period. (27th December 2022)</p>
+                                    <p class="card-text navyCardText">Registration takes place on the Day at Tullyallen Parochial Hall at 12 Midday. Tractors, trucks, cars and other vehicle types all very welcome. Refreshments after in Dolly Mitchells.</p>
+                                    <p class="card-text navyCardText mb-5">More details can be found <a href="https://www.facebook.com/tullyallentractorrun" target="_blank">HERE</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-group">
+                <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3 offset-4">
+                            <div class="card navyCard flex-fill">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/Research2.webp" alt="Research">
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">NECRET Research</h5>
+                                    <p class="card-text navyCardText">Congratulations to Dr David Easty, Oncology Unit registrar under the guidance of Professor Bryan Hennessy whose research work to improve outcomes for patients with advanced pancreatic cancer has been recognised in the announcement of a nationwide clinical trial being opened.
+                                    <p class="card-text navyCardText mb-5">NECRET Supported Research Recognised
+                                    Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
+                                    NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
+                                    <a href="cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
                                 </div>
                             </div>
                         </div>
