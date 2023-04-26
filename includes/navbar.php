@@ -17,6 +17,7 @@
             <a class="social-icon" target="_blank" id="twitterSI" href="https://twitter.com/Drogheda_Oncol"><i class="icon fa fa-twitter"></i></a>
             <a class="btn btn-outline-light my-2 my-sm-0" href="donate.php">Donate <i class="fa fa-heart"></i></a>
         </form>
+        <button class="btn btn-outline-light my-2 my-sm-0 ms-1" data-bs-toggle="modal" data-bs-target="#videoModal">Impact <i class="fa fa-video"></i></button>
     </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">      
@@ -103,7 +104,7 @@
     </div>
 </nav>
 
-<!-- Modal -->
+<!-- Covid Modal -->
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
@@ -121,11 +122,40 @@
             <p>Continue to attend for your scheduled medical care.</p>
         </div>
         <div class="modal-footer">
-            <button type="button" class="btn btn-outline-success" data-bs-dismiss="modal">Close <i class="fa fa-times-circle"></i></button>
+            <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Close <i class="fa fa-times-circle"></i></button>
             <a type="button" class="white btn btn-outline-light" href="https://www.hse.ie/eng/services/list/5/cancer/news/covid-19.html" target="_blank">More Info <i class="fa fa-info-circle"></i></a>
             <a type="button" class="btn btn-outline-warning" href="https://www.gov.ie/en/service/da832-download-the-covid-tracker-app/">COVID-19 Tracker APP <i class="fa fa-virus"></i></a>
         </div>
         </div>
     </div>
 </div>
-<!-- End of Modal -->
+<!-- End of Covid Modal -->
+
+<!-- Impact Modal -->
+<div class="modal fade" id="videoModal" tabindex="-2" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h1>NECRET Impact</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <iframe
+                width="100%"
+                height="300vh"
+                src="https://www.youtube.com/embed/PLqBewXZXIw"
+                title="Necret Video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+            ></iframe>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-outline-warning" data-bs-dismiss="modal">Close <i class="fa fa-times-circle"></i></button>
+        </div>
+        </div>
+    </div>
+</div>
+<!-- End of Impact Modal -->
