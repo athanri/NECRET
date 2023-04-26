@@ -5,12 +5,16 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/NECRETEaster.jpg" alt="Easter Family Fun Day">
+                <img class="card-img-top" src="./img/dipNTheNip2023_2.jpg" alt="Dip In The Nip">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Easter Family Fun Day in aid of NECRET </h5>
-                    <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a></p>
-                    <p class="card-text navyCardText">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.</p>
-                    <p class="card-text navyCardText">All funds raised on the day will go to NECRET.</p>
+                    <h5 class="card-title navyCardTitle">Dip In The Nip - Sunday 10th Sept 2023</h5>
+                    <p class="card-text navyCardText">We have exciting news! Our NorthEast Dip in the Nip Returns... September, Sunday 10th. This year amazingly will be our 12th year.</p>
+
+
+                    <p class="card-text navyCardText">Call <a href="tel:+353867773294">+353 86 777 3294</a></p>
+                    <p class="card-text navyCardText">Email <a href="email:karen@karennh.ie">karen@karennh.ie</a></p>
+                    <p class="card-text navyCardText">OR</p>
+                    <p class="card-text navyCardText">Visit Dip In The Nip Page <a href="./dipintheNip.php">Dip In The Nip</a></p>
                 </div>
             </div>
         </div>

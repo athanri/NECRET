@@ -405,8 +405,8 @@
                     </div>
                 </div>
                 <div class="card-group">
-                <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3 offset-4">
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3 offset-2">
                             <div class="card navyCard flex-fill">
                                 <img class="card-img-top soh" width="533" height="380" src="./img/Research2.webp" alt="Research">
                                 <div class="card-body navyCardBody d-flex flex-column">
@@ -416,6 +416,17 @@
                                     Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
                                     NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
                                     <a href="cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
+                            <div class="card navyCard flex-fill">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/NECRETEaster.jpg" alt="Research">
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">Easter Family Fun Day in aid of NECRET </h5>
+                                    <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a>
+                                    <p class="card-text navyCardText mb-5">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.
+                                    All funds raised on the day will go to NECRET.
                                 </div>
                             </div>
                         </div>
