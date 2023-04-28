@@ -5,7 +5,7 @@
 	$subject = $_POST['subject'];
 	$phone = $_POST['phone'];
 
-	$from = "info@necret.ie";
+	$from = "dipnortheast@gmail.com";
 
 	$body = "";
 	$body .= "From: ".$userName. "\r\n";
@@ -13,7 +13,7 @@
 	$body .= "Message: ".$message. "\r\n";
 	$body .= "Phone: ".$phone. "\r\n";
 
-	$to = "info@necret.ie";
+	$to = "dipnortheast@gmail.com";
 
 	$headers = "From: " .$userEmail. "\r\n" .
     				"MIME-Version: 1.0\r\n" . 
