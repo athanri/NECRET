@@ -8,22 +8,22 @@
 
             <div>
                 <label for="email" class="form-label">Your Email*:</label>
-                <input type="email" name="email" class="form-control" placeholder="Enter Your Email Address" required/>
+                <input type="email" name="email" class="form-control" tabindex="2" placeholder="Enter Your Email Address" required/>
             </div>
 
             <div>
                 <label for="phone" class="form-label">Your Phone No*:</label>
-                <input type="text" name="phone" class="form-control" placeholder="Enter Your Phone Number" required/>
+                <input type="text" name="phone" class="form-control" tabindex="3" placeholder="Enter Your Phone Number" required/>
             </div>
             
             <div>
                 <label for="subject" class="form-label">Subject*:</label>
-                <input type="text" name="subject" class="form-control" placeholder="Enter Your Subject" required/>
+                <input type="text" name="subject" class="form-control" tabindex="4" placeholder="Enter Your Subject" required/>
             </div>
             
             <div>
                 <label for="message" class="form-label">Message*:</label>
-                <textarea cols="40" rows="5" name="message" class="form-control" placeholder="Feel free to send us a message here..." required></textarea>
+                <textarea cols="40" rows="5" name="message" class="form-control" tabindex="5" placeholder="Feel free to send us a message here..." required></textarea>
                 <input type="submit" value="Send" class="btn btn-primary" />
             </div>
         </form>
