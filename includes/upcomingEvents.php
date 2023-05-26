@@ -32,13 +32,14 @@
         </div>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/OpenDay.png" alt="Open Day">
+                <img class="card-img-top" src="./img/BVCC_2023.png" alt="Open Day">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">All-Island Schools Virtual Open Day</h5>
-                    <h6 class="card-title navyCardTitle">Invitation To Students</h6>
-                    <p class="card-text navyCardText">In collaboration with the Northeast Cancer Research & Education Trust (NECRET), the Royal College of Surgeons in Ireland (RSCI) and Queens University Belfast, would like to invite students who are considering a future career in medicine or medical research to an information and discussion open day on Saturday 25th September.</p>
-                    <p class="card-text navyCardText">The event is open to all students but is primarily geared towards transition and fifth year students. This initiative, incepted by NECRET is specifically designed to inspire and enthuse the next generation of cancer medical and research professionals.</p>
-                    <p class="card-text navyCardText">To read more and register please visit <a target="_blank" href="https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969">https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969</a></p>
+                    <h5 class="card-title navyCardTitle">Boyne Valley Camino</h5>
+                    <h6 class="card-title navyCardTitle">Registration is now open for our annual Camino. Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</h6>
+                    <p class="card-text navyCardText">To receive your registration form please email necret.info@gmail.com or text 086 7773294 with your full name, address, and mobile number. To participate completed registration forms must be received no later than midday on Friday July 15th.  Limited numbers will apply so please register as soon as possible.</p>
+                    <p class="card-text navyCardText">To get started with fundraising on Necret’s online fundraising page, please click on the following link: <a href="https://www.idonate.ie/cause/Necret" target="_blank">https://www.idonate.ie/5814_necret.html</a> Sponsorship cards are also available if required on request.</p>
+                    <p class="card-text navyCardText">Taking place on Saturday July 23rd it involves an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
+                    <p class="card-text navyCardText">Starting from St Peter’s Church led by wonderfully experienced tour leaders who have very kindly volunteered their services, the trail follows the River Boyne before gaining the woodlands of the Townley Estate and then meandering quiet lanes to Mellifont, where there will be an opportunity for that much earned packed lunch or other refreshments. A separate return route gives a total walk of 25km.</p>
                 </div>
             </div>
         </div>

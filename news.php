@@ -406,7 +406,7 @@
                 </div>
                 <div class="card-group">
                     <div class="row row-cols-1 row-cols-md-2 g-4">
-                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3 offset-2">
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill">
                                 <img class="card-img-top soh" width="533" height="380" src="./img/Research2.webp" alt="Research">
                                 <div class="card-body navyCardBody d-flex flex-column">
@@ -427,6 +427,18 @@
                                     <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a>
                                     <p class="card-text navyCardText mb-5">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.
                                     All funds raised on the day will go to NECRET.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
+                            <div class="card navyCard flex-fill">
+                                <img class="card-img-top soh" width="533" height="380" src="./img/OpenDay.png" alt="Open Day">
+                                <div class="card-body navyCardBody d-flex flex-column">
+                                    <h5 class="card-title navyCardTitle mb-4">All-Island Schools Virtual Open Day </h5>
+                                    <p class="card-text navyCardText">In collaboration with the Northeast Cancer Research & Education Trust (NECRET), the Royal College of Surgeons in Ireland (RSCI) and Queens University Belfast, would like to invite students who are considering a future career in medicine or medical research to an information and discussion open day on Saturday 25th September.</a>
+                                    <p class="card-text navyCardText">The event is open to all students but is primarily geared towards transition and fifth year students. This initiative, incepted by NECRET is specifically designed to inspire and enthuse the next generation of cancer medical and research professionals.</p>
+                                    <p class="card-text navyCardText">All funds raised on the day will go to NECRET.</p>
+                                    <p class="card-text navyCardText mb-5">To read more and register please visit <a target="_blank" href="https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969">https://www.eventbrite.co.uk/e/all-island-schools-open-day-learn-about-the-careers-combating-cancer-tickets-169506320969</a></p>
                                 </div>
                             </div>
                         </div>
