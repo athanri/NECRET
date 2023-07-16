@@ -11,8 +11,8 @@
                     <p class="card-text navyCardText">We have exciting news! Our NorthEast Dip in the Nip Returns... September, Sunday 10th. This year amazingly will be our 12th year.</p>
 
 
-                    <p class="card-text navyCardText">Call <a href="tel:+353867773294">+353 86 777 3294</a></p>
-                    <p class="card-text navyCardText">Email <a href="email:karen@karennh.ie">karen@karennh.ie</a></p>
+                    <p class="card-text navyCardText">Call <a href="tel:+353867773294">+353 89 959 5976</a></p>
+                    <p class="card-text navyCardText">Email <a href="email:karen@karennh.ie">dipnortheast@gmail.com</a></p>
                     <p class="card-text navyCardText">OR</p>
                     <p class="card-text navyCardText">Visit Dip In The Nip Page <a href="./dipintheNip.php">Dip In The Nip</a></p>
                 </div>
@@ -38,7 +38,7 @@
                     <h6 class="card-title navyCardTitle">Registration is now open for our annual Camino. Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</h6>
                     <p class="card-text navyCardText">To receive your registration form please email necret.info@gmail.com or text 086 7773294 with your full name, address, and mobile number. To participate completed registration forms must be received no later than midday on Friday July 15th.  Limited numbers will apply so please register as soon as possible.</p>
                     <p class="card-text navyCardText">To get started with fundraising on Necret’s online fundraising page, please click on the following link: <a href="https://www.idonate.ie/cause/Necret" target="_blank">https://www.idonate.ie/5814_necret.html</a> Sponsorship cards are also available if required on request.</p>
-                    <p class="card-text navyCardText">Taking place on Saturday July 23rd it involves an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
+                    <p class="card-text navyCardText">Taking place on Saturday July 22nd it involves an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
                     <p class="card-text navyCardText">Starting from St Peter’s Church led by wonderfully experienced tour leaders who have very kindly volunteered their services, the trail follows the River Boyne before gaining the woodlands of the Townley Estate and then meandering quiet lanes to Mellifont, where there will be an opportunity for that much earned packed lunch or other refreshments. A separate return route gives a total walk of 25km.</p>
                 </div>
             </div>

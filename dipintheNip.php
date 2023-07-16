@@ -14,7 +14,17 @@
                         <h2 style="text-align: center;">Dip In the Nip</h2>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <img class="img-fluid" src="./img/dipNTheNip2023.jpg" alt="Dip In the Nip">
+                        <img class="img-fluid" src="./img/dipNTheNip2023_3.jpg" alt="Dip In the Nip">
+                    </div>
+
+                    <div class="col-md-12 col-12 col-lg-6 col-xl-6 col-sm-12 offset-md-3 mt-2 pt-2 mb-5 d-flex">
+                        <div class="card border-0 flex-fill">
+                            <div class="card-body contactCard text-center d-flex flex-column">
+                                <i class="fa fa-5x mb-3 fa-question faq" width="80px" height="100px" aria-hidden="true"></i>
+                                <h4 class="text-uppercase mb-5">FAQ</h4>
+                                <a class="btn btn-secondary" target="_blank" href="./docs/FAQDipIntheNip2023.pdf">FAQ</a>
+                            </div>
+                        </div>
                     </div>
                     
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
@@ -28,7 +38,7 @@
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <h4>HOW TO REGISTER FOR OUR 12TH DIP IN THE NIP</h4>
                         <p>Simply fill in the form below and we will post a Registration Form and Sponsorship Card to you within a few days. Please complete this form and send back to us by post or email.</p>
-                        <p>If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> or text <a href="tel:00353867773294">086 7773294</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
+                        <p>If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a href="mailto:dipnortheast@gmail.com">dipnortheast@gmail.com</a> or text <a href="tel:00353899595976">089 9595976</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
                         <p>We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
