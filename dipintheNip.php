@@ -16,17 +16,7 @@
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <img class="img-fluid" src="./img/dipNTheNip2023_3.jpg" alt="Dip In the Nip">
                     </div>
-
-                    <div class="col-md-12 col-12 col-lg-6 col-xl-6 col-sm-12 offset-md-3 mt-2 pt-2 mb-5 d-flex">
-                        <div class="card border-0 flex-fill">
-                            <div class="card-body contactCard text-center d-flex flex-column">
-                                <i class="fa fa-5x mb-3 fa-question faq" width="80px" height="100px" aria-hidden="true"></i>
-                                <h4 class="text-uppercase mb-5">FAQ</h4>
-                                <a class="btn btn-secondary" target="_blank" href="./docs/FAQDipIntheNip2023.pdf">FAQ</a>
-                            </div>
-                        </div>
-                    </div>
-                    
+                   
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <div class="embed-responsive embed-responsive-16by9">
                             <video  class="embed-responsive-item" controls>
@@ -66,12 +56,22 @@
             </div>
         </div>
         <?php include 'includes/contactForm.php'; ?>
+
         <div id="cuttingEdge" class="container-fluid">
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <h4>TODAY:</h4>
                         <p>After you fill in the contact box above we will then post out your registration form and sponsorship card in the next week or so.</p>
+                    </div>
+                    <div class="col-md-12 col-12 col-lg-6 col-xl-6 col-sm-12 offset-md-3 mt-2 pt-2 mb-5 d-flex">
+                        <div class="card border-0 flex-fill">
+                            <div class="card-body contactCard text-center d-flex flex-column">
+                                <i class="fa fa-5x mb-3 fa-question faq" width="80px" height="100px" aria-hidden="true"></i>
+                                <h4 class="text-uppercase mb-5">FAQ</h4>
+                                <a class="btn btn-secondary" target="_blank" href="./docs/FAQDipIntheNip2023.pdf">FAQ</a>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3">
                         <div class="embed-responsive embed-responsive-16by9">

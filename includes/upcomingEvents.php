@@ -5,15 +5,16 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/dipNTheNip2023_2.jpg" alt="Dip In The Nip">
+                <img class="card-img-top" src="./img/LWC_2.jpg" alt="Cancer Info">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Dip In The Nip - Sunday 10th Sept 2023</h5>
-                    <p class="card-text navyCardText">We have exciting news! Our NorthEast Dip in the Nip Returns... September, Sunday 10th. This year amazingly will be our 12th year.</p>
+                    <h5 class="card-title navyCardTitle">Cancer Information & Support Day</h5>
+                    <p class="card-text navyCardText">On Saturday September 23rd, NECRET and the Northeast Oncology and Hematology Unit will hold a conference supporting those impacted by cancer. This free event is taking place from 1.30 pm in the City North Hotel (approx. 15 mins north of Dublin Airport off M1), Gormanston, Co. Meath. It is a public information and support day for those living with cancer along with family and friends. All are very welcome to attend.
+                        For cancer patients who are in treatment or who have finished treatment, attendees will receive updates on the various types of cancer. They will also be able ask questions to a medical oncology specialist panel, as part of an open and relaxed discussion.</p>
 
 
-                    <p class="card-text navyCardText">Call <a href="tel:+353867773294">+353 89 959 5976</a></p>
-                    <p class="card-text navyCardText">Email <a href="email:karen@karennh.ie">dipnortheast@gmail.com</a></p>
-                    <p class="card-text navyCardText">OR</p>
+                    <p class="card-text navyCardText">Another part of the day is our Living Better and Wellness Panel Discussion. Facilitated by Advanced Nurse Practitioner Elizabeth Summersby this panel provides a unique and valuable opportunity for attendees to learn very important practical tips for living with cancer, including nutrition, exercise, fatigue and stress management. The audience is again encouraged and facilitated to ask any questions they may have.</p>
+                    <p class="card-text navyCardText">Refreshments will be provided on the day. People can also avail of complementary therapy workshops and will be entered into an excellent free prize draw.</p>
+                    <p class="card-text navyCardText">Complementary tickets can be reserved for pick up on the day from our Living with Cancer Conference Welcoming Desk by sending your full name to <a href = "mailto: info@necret.ie">info@necret.ie</a> or texting <a href="sms:00353867773294">+353 86 777 3294</a></p>
                     <p class="card-text navyCardText">Visit Dip In The Nip Page <a href="./dipintheNip.php">Dip In The Nip</a></p>
                 </div>
             </div>
