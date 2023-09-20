@@ -15,7 +15,6 @@
                     <p class="card-text navyCardText">Another part of the day is our Living Better and Wellness Panel Discussion. Facilitated by Advanced Nurse Practitioner Elizabeth Summersby this panel provides a unique and valuable opportunity for attendees to learn very important practical tips for living with cancer, including nutrition, exercise, fatigue and stress management. The audience is again encouraged and facilitated to ask any questions they may have.</p>
                     <p class="card-text navyCardText">Refreshments will be provided on the day. People can also avail of complementary therapy workshops and will be entered into an excellent free prize draw.</p>
                     <p class="card-text navyCardText">Complementary tickets can be reserved for pick up on the day from our Living with Cancer Conference Welcoming Desk by sending your full name to <a href = "mailto: info@necret.ie">info@necret.ie</a> or texting <a href="sms:00353867773294">+353 86 777 3294</a></p>
-                    <p class="card-text navyCardText">Visit Dip In The Nip Page <a href="./dipintheNip.php">Dip In The Nip</a></p>
                 </div>
             </div>
         </div>
