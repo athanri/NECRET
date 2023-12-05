@@ -1,7 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
     <div class="container">
         <a class="navbar-brand" href="index.php"><img src="./img/logo.webp" alt="Logo" width="185px" height="75px"></a>
-        <button class="btn btn-outline-warning" id="covidBtn" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">COVID-19 <i class="covidEx fa fa-virus"></i></button>
         <button id="expandMobile" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
         </button>
@@ -103,33 +102,6 @@
     </div>
     </div>
 </nav>
-
-<!-- Covid Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-        <div class="modal-header">
-            <img class="left1" src="./img/LOGO_Mono.webp" alt="NECRET"><h5 class="modal-title" id="exampleModalLongTitle"><p class="right1">&</p></h5><img class="right1" src="./img/Covid.webp" width="150px" height="75px" alt="Covid">
-            <img class="left2" src="./img/LOGO_Mono2.webp" alt="NECRET"><h5 class="modal-title" id="exampleModalLongTitle"><p class="right2">&</p></h5><img class="right2" src="./img/Covid2.webp" alt="Covid">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-            </button>
-        </div>
-        <div class="modal-body">
-            <p>COVID-19 is a new illness that can affect your lungs and airways. It's caused by a virus called coronavirus.</p>
-            <p>People with an impaired immune system (including due to cancer treatment) are at higher risk of severe illness due to coronavirus. If you are in this group, take extra care to protect yourself from coronavirus. Encourage your family and friends to do this too.
-            <p>Other general recommendations on preventing infection during your treatment continue to apply – e.g. avoid contact with others who you know to have an infection.</p>  
-            <p>Continue to attend for your scheduled medical care.</p>
-        </div>
-        <div class="modal-footer">
-            <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Close <i class="fa fa-times-circle"></i></button>
-            <a type="button" class="white btn btn-outline-light" href="https://www.hse.ie/eng/services/list/5/cancer/news/covid-19.html" target="_blank">More Info <i class="fa fa-info-circle"></i></a>
-            <a type="button" class="btn btn-outline-warning" href="https://www.gov.ie/en/service/da832-download-the-covid-tracker-app/">COVID-19 Tracker APP <i class="fa fa-virus"></i></a>
-        </div>
-        </div>
-    </div>
-</div>
-<!-- End of Covid Modal -->
 
 <!-- Impact Modal -->
 <div class="modal fade" id="videoModal" tabindex="-2" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
