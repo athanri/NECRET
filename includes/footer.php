@@ -12,7 +12,7 @@
               <img src="./img/logo.webp" class="img-fluid" alt="Logo">
             </div>
               <ul id="footList" class="list-group text-center">
-                  <li class="list-group-item">© 2022 Copyright: NECRET</li>
+                  <li class="list-group-item">© 2024 Copyright: NECRET</li>
                   <li class="list-group-item"><i class="fas fa-home mr-3"></i> Beamore Rd, Drogheda, Co. Louth</li>
                   <li class="list-group-item"><i class="fas fa-envelope mr-3"></i> info@necret.ie</li>
                   <li class="list-group-item"><i class="fas fa-phone mr-3"></i>+353 41 9874684</li>
@@ -99,4 +99,6 @@
           <a class="btn btn-outline-light btn-block my-2 my-sm-0" href="donate.php">Donate <i class="fa fa-heart" aria-hidden="true"></i></a>    
         </div>
   </div>
+  <hr>
+  <div class="copyright col-md-6 barlow">© Copyright <script>document.write(new Date().getFullYear());</script> |   NECRET   |   All Rights Reserved | Created By <a href="https://piercej.com/" target="_blank"><span class="text-danger">PierceJ</span></a> </div>
 </div>

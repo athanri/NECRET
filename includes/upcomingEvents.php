@@ -4,12 +4,12 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/NECRETSOH2023.jpg" alt="Service Of Hope">
+                <img class="card-img-top" src="./img/dip2024.png" alt="Dip 2024">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Service of Hope and Gratitude</h5>
-                    <p class="card-title navyCardTitle">NECRET and the Oncology Unit from Our Lady of Lourdes Hospital invite those currently attending or have previously attended the Oncology Unit to their Annual Service of Hope on Friday 15th of December at 4pm in the Monasterboice Inn, A92 A59E. Parking is available. And afterwards for some light refreshments.</p>
-                    <p class="card-text navyCardText">Also will be shown on the YouTube channel of Joe Finnegan <a href="https://www.youtube.com/user/Finnegandvd" target="_blank">www.youtube.com/user/Finnegandvd</a></p>
-                    <p class="card-text navyCardText">Due to the new GDPR regulation it will not be possible like in previous years to extend invitations directly. No RSVP is required.</p>
+                    <h5 class="card-title navyCardTitle">Northeast Dip in The Nip</h5>
+                    <p class="card-title navyCardTitle">The NorthEast Dip in the Nip Returns. September, Sunday 8th.</p>
+                    <p class="card-text navyCardText">For those of you that took part previously we don't have to remind you of how this incredible event will empower you as a person and for those that have never done it, come on! what's stopping you?</p>
+                    <p class="card-text navyCardText"><a class="dipEmail" href="./dipintheNip.php">More Info</a></p>
                 </div>
             </div>
         </div>

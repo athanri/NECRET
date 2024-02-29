@@ -1745,6 +1745,16 @@ span {
     }
 }
 
+.dipEmail {
+    font-weight: 200;
+    color: yellow;
+}
+
+.dipEmail:hover {
+    font-weight: 300;
+    color: #cccccc;
+}
+
  @media only screen and (max-width: 750px){
     .cr1, .cr2 {
         transform: rotate(0deg);

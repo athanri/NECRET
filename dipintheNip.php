@@ -11,10 +11,10 @@
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-md-12 mt-2">
-                        <h2 style="text-align: center;">Dip In the Nip</h2>
+                        <h2 style="text-align: center;">Northeast Dip In the Nip</h2>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <img class="img-fluid" src="./img/dipNTheNip2023_3.jpg" alt="Dip In the Nip">
+                        <img class="img-fluid" src="./img/dip2024.png" alt="Dip In the Nip">
                     </div>
                    
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
@@ -26,9 +26,9 @@
                     </div>
 
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <h4>HOW TO REGISTER FOR OUR 12TH DIP IN THE NIP</h4>
+                        <h4>HOW TO REGISTER FOR OUR 13TH NORTHEAST DIP IN THE NIP</h4>
                         <p>Simply fill in the form below and we will post a Registration Form and Sponsorship Card to you within a few days. Please complete this form and send back to us by post or email.</p>
-                        <p>If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a href="mailto:dipnortheast@gmail.com">dipnortheast@gmail.com</a> or text <a href="tel:00353899595976">089 9595976</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
+                        <p>If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a class="dipEmail" href="mailto:dipnortheast@gmail.com">dipnortheast@gmail.com</a> or text <a class="dipEmail" href="tel:00353899595976">089 9595976</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
                         <p>We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
