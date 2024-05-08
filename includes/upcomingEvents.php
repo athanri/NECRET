@@ -15,12 +15,12 @@
         </div>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/LWC_2.jpg" alt="Cancer Info">
+                <img class="card-img-top" src="./img/LWC.webp" alt="Cancer Info">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">Cancer Information & Support Day</h5>
-                    <p class="card-text navyCardText">On Saturday September 23rd, NECRET and the Northeast Oncology and Hematology Unit will hold a conference supporting those impacted by cancer. This free event is taking place from 1.30 pm in the City North Hotel (approx. 15 mins north of Dublin Airport off M1), Gormanston, Co. Meath. It is a public information and support day for those living with cancer along with family and friends. All are very welcome to attend.
-                        For cancer patients who are in treatment or who have finished treatment, attendees will receive updates on the various types of cancer. They will also be able ask questions to a medical oncology specialist panel, as part of an open and relaxed discussion.</p>
-                    <p class="card-text navyCardText">Another part of the day is our Living Better and Wellness Panel Discussion. Facilitated by Advanced Nurse Practitioner Elizabeth Summersby this panel provides a unique and valuable opportunity for attendees to learn very important practical tips for living with cancer, including nutrition, exercise, fatigue and stress management. The audience is again encouraged and facilitated to ask any questions they may have.</p>
+                    <p class="card-text navyCardText">On Saturday September 28th, NECRET and the Northeast Oncology and Hematology Unit will hold a conference supporting those impacted by cancer. This free event is taking place from 1.30 pm in the City North Hotel (approx. 15 mins north of Dublin Airport off M1), Gormanston, Co. Meath.</p>
+                    <p class="card-text navyCardText">It is a public information and support day for those living with cancer along with family and friends. All are very welcome to attend.</p>
+                    <p class="card-text navyCardText">Living Better and Wellness will also be an important part of the afternoon where attendees can learn important practical tips for living with cancer, including nutrition, exercise, fatigue and stress management.</p>
                     <p class="card-text navyCardText">Refreshments will be provided on the day. People can also avail of complementary therapy workshops and will be entered into an excellent free prize draw.</p>
                     <p class="card-text navyCardText">Complementary tickets can be reserved for pick up on the day from our Living with Cancer Conference Welcoming Desk by sending your full name to <a href = "mailto: info@necret.ie">info@necret.ie</a> or texting <a href="sms:00353867773294">+353 86 777 3294</a></p>
                 </div>
