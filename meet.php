@@ -55,7 +55,7 @@
                     </div>
                     
                     <div id="meetText" class="col-md-4 col-12 col-lg-4 col-xl-4 col-sm-12 mt-3 pt-2 mb-5 text-center">
-                        <img class="img-fluid" src="./img/Ciaran2.jpg" alt="Ciaran Briscoe">
+                        <img class="img-fluid" src="./img/Ciaran2.webp" alt="Ciaran Briscoe">
                         <p>Ciaran Briscoe</p>
                         <p>Chief Executive Officer</p>
                     </div>
