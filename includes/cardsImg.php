@@ -3,13 +3,13 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <a target="_blank" href="./docs/NECRET_Newsletter_Dec_2023.pdf"><img class="card-img-top" src="./img/Newsletter.png" alt="Newsletter"></a>
+                <a><img class="card-img-top" src="./img/JEAFOC.webp" alt="Forum"></a>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Necret Newsletter December 2023</h5>
-                    <p class="card-text navyCardText">The December Newsletter of NECRET is now available, where you can read all the latest
-                    charity news and developments. It is also importantly captures some of the ways NECRET 
-                    is contributing to improving cancer treatment and care for those impacted by cancer.</p>
-                    <a href="./docs/NECRET_Newsletter_Dec_2023.pdf" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-solid fa-newspaper"></i> Read More</a>
+                    <h5 class="card-title navyCardTitle">Joint Euro-American Forum on Cancer</h5>
+                    <p class="card-text navyCardText">As a key supporter of the All-Island Cancer Research Institute, NECRET were delighted to recently support the Joint Euro-American Forum on Cancer that took place in Ireland's Official State Residence Farmleigh House, Dublin on April 25th and 26th.</p>
+                    <p class="card-text navyCardText">This landmark event brought together globally recognised clinical and academic leaders and key relevant policy makers, political figures, and patient advocates, who will shape a transatlantic cancer beating agenda and deliver a series of recommendations to address the impending cancer challenge that is rapidly approaching. More details on the Forum can be found at <a href="https://www.euroamericanforumoncancer.org/" target="_blank">www.euroamericanforumoncancer.org</p>
+                    <p class="card-text navyCardText">#CancerHasNoBorders #TogetherStronger</p>
+                    <a href="https://www.euroamericanforumoncancer.org/" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-globe"></i> Visit Site</a>
                 </div>
             </div>
         </div>
