@@ -14,7 +14,9 @@
                 <div class="container">
                     <h3 class="text-center text-uppercase pt-5">contact us</h3>
                     <div class="contactText col-md-12 mt-2 pt-2 pb-2">
-                        <p class="text-center w-75 m-auto">Important Notice – If you wish to speak to the Oncology & Haematology Unit with a clinical query or request, you should dial 041 9874684 or 041 9837601. The details below are for NECRET only:
+                        <h4 class="importantInfo">Important Information for Clinical Queries</h4>
+                        <p class="text-center w-75 m-auto">We are a charity and as such can not deal with any clinical enquiries.</p>
+                        <p class="text-center w-75 m-auto">The details below are for <strong>NECRET ONLY</strong>:
                         <br><br>Contact us via one of the following:</p>
                     </div>
                     <div class="row">

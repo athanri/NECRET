@@ -1755,6 +1755,11 @@ span {
     color: #cccccc;
 }
 
+.importantInfo {
+    color: red;
+    text-align: center;
+}
+
  @media only screen and (max-width: 750px){
     .cr1, .cr2 {
         transform: rotate(0deg);
