@@ -3,17 +3,16 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <a><img class="card-img-top" src="./img/JEAFOC.webp" alt="Forum"></a>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Joint Euro-American Forum on Cancer</h5>
-                    <p class="card-text navyCardText">As a key supporter of the All-Island Cancer Research Institute, NECRET were delighted to recently support the Joint Euro-American Forum on Cancer that took place in Ireland's Official State Residence Farmleigh House, Dublin on April 25th and 26th.</p>
-                    <p class="card-text navyCardText">This landmark event brought together globally recognised clinical and academic leaders and key relevant policy makers, political figures, and patient advocates, who will shape a transatlantic cancer beating agenda and deliver a series of recommendations to address the impending cancer challenge that is rapidly approaching. More details on the Forum can be found at <a href="https://www.euroamericanforumoncancer.org/" target="_blank">www.euroamericanforumoncancer.org</p>
-                    <p class="card-text navyCardText">#CancerHasNoBorders #TogetherStronger</p>
-                    <a href="https://www.euroamericanforumoncancer.org/" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-globe"></i> Visit Site</a>
+                    <a href="./docs/NECRET_Newsletter_Dec_2024.pdf" target="_blank"><img class="card-img-top" src="./img/Newsletter2024.png" alt="Forum"></a>
+                    <h5 class="card-title navyCardTitle">NECRET Summer News Letter</h5>
+                    <p class="card-text navyCardText mb-5">The Summer Newsletter of NECRET is now available, where you can read all the latest
+                        charity news and developments. It is also importantly captures some of the ways NECRET 
+                        is contributing to improving cancer treatment and care for this impacted by cancer.</p>
+                        <a class="btn btn-primary btn-upcoming mt-auto" href="./docs/NECRET_Newsletter_Dec_2024.pdf"><i class="fa fa-microscope"></i> Read Newsletter</a>
                 </div>
             </div>
         </div>
-
         <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -49,11 +48,13 @@
         
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/Blankets2.webp" alt="Blankets">
+                <a><img class="card-img-top" src="./img/JEAFOC.webp" alt="Forum"></a>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle mb-5">Blankets Of Care</h5>
-                    <p class="card-text navyCardText mt-2 mb-5">All the Oncology & Haematology Unit Team and NECRET would like to offer their sincerest heartfelt thanks to Geraldine’s Crochet Ladies for the truly beautiful crocheted blankets for the NECRET Blankets of Care appeal. These blankets will now be distributed to patients attending the Unit by the nursing team.</p>
-                    <a href="boc.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                    <h5 class="card-title navyCardTitle">Joint Euro-American Forum on Cancer</h5>
+                    <p class="card-text navyCardText">As a key supporter of the All-Island Cancer Research Institute, NECRET were delighted to recently support the Joint Euro-American Forum on Cancer that took place in Ireland's Official State Residence Farmleigh House, Dublin on April 25th and 26th.</p>
+                    <p class="card-text navyCardText">This landmark event brought together globally recognised clinical and academic leaders and key relevant policy makers, political figures, and patient advocates, who will shape a transatlantic cancer beating agenda and deliver a series of recommendations to address the impending cancer challenge that is rapidly approaching. More details on the Forum can be found at <a href="https://www.euroamericanforumoncancer.org/" target="_blank">www.euroamericanforumoncancer.org</p>
+                    <p class="card-text navyCardText">#CancerHasNoBorders #TogetherStronger</p>
+                    <a href="https://www.euroamericanforumoncancer.org/" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-globe"></i> Visit Site</a>
                 </div>
             </div>
         </div>
