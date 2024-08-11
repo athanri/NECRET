@@ -9,7 +9,7 @@
                     <p class="card-text navyCardText mb-5">The Summer Newsletter of NECRET is now available, where you can read all the latest
                         charity news and developments. It is also importantly captures some of the ways NECRET 
                         is contributing to improving cancer treatment and care for this impacted by cancer.</p>
-                        <a class="btn btn-primary btn-upcoming mt-auto" href="./docs/NECRET_Newsletter_Dec_2024.pdf"><i class="fa fa-microscope"></i> Read Newsletter</a>
+                        <a class="btn btn-primary btn-upcoming mt-auto" href="./docs/NECRET_Newsletter_Dec_2024.pdf"><i class="fa fa-newspaper"></i> Read Newsletter</a>
                 </div>
             </div>
         </div>
