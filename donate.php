@@ -35,18 +35,6 @@
                         <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
                             <div class="card border-0 flex-fill">
                                 <div class="card-body contactCard text-center d-flex flex-column">
-                                    <h4 class="text-uppercase mb-5"></h4>
-                                    <a target="_blank" href="//widgets.justgiving.com/Button/Redirect?p=eyJJZCI6ImEwZTg2YzZlLTlhMDYtNGE5OS1hMTA0LTBlODA5YmQyYjViZiIsIkNoYXJpdHlJZCI6MzA1NjUwNCwiU2l6ZSI6ImwiLCJSZWZlcmVuY2UiOiJEb25hdGVQYWciLCJUeXBlIjoiRG9uYXRlIn0="><img src="//widgets.justgiving.com/Button?p=eyJJZCI6ImEwZTg2YzZlLTlhMDYtNGE5OS1hMTA0LTBlODA5YmQyYjViZiIsIkNoYXJpdHlJZCI6MzA1NjUwNCwiU2l6ZSI6ImwiLCJSZWZlcmVuY2UiOiJEb25hdGVQYWciLCJUeXBlIjoiRG9uYXRlIn0=" /></a>
-                                    <br>
-                                    <br>
-                                    <p>Visit our profile on JustGiving.</p>
-                                    <br>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
-                            <div class="card border-0 flex-fill">
-                                <div class="card-body contactCard text-center d-flex flex-column">
                                     <img src="./img/iDonate.png" class="mx-auto" width="80px" height="100px" aria-hidden="true">
                                     <h4 class="text-uppercase mb-5">iDonate</h4>
                                     <a class="btn btn-success" target="_blank" href="https://www.idonate.ie/5814_necret.html">More Info</a>
@@ -70,20 +58,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-12 col-12 col-lg-3 col-xl-3 col-sm-12 mt-2 pt-2 mb-3 d-flex">
-                            <div class="card border-0 flex-fill">
-                                <div class="card-body contactCard text-center d-flex flex-column">
-                                    <i class="fa fa-phone fa-5x mb-3 phone" aria-hidden="true"></i>
-                                    <h4 class="text-uppercase mb-5">contact us</h4>
-                                    <a class="btn btn-success" href="./contact.php">More Info</a>
-                                    <br>
-                                    <p>We'll get back to you</p>
-                                    <br>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-12 col-12 col-lg-3 col-xl-3 col-sm-12 mt-2 pt-2 mb-3 d-flex">
+                        <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
                             <div class="card border-0 flex-fill">
                                 <div class="card-body contactCard text-center d-flex flex-column">
                                     <i class="fa fa-money-check-alt fa-5x mb-3" aria-hidden="true"></i>
@@ -96,7 +71,20 @@
                             </div>
                         </div>
 
-                        <div class="col-md-12 col-12 col-lg-3 col-xl-3 col-sm-12 mt-2 pt-2 mb-3 d-flex">
+                        <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
+                            <div class="card border-0 flex-fill">
+                                <div class="card-body contactCard text-center d-flex flex-column">
+                                    <i class="fa fa-phone fa-5x mb-3 phone" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-5">contact us</h4>
+                                    <a class="btn btn-success" href="./contact.php">More Info</a>
+                                    <br>
+                                    <p>We'll get back to you</p>
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
                             <div class="card border-0 flex-fill">
                                 <div class="card-body contactCard text-center d-flex flex-column">
                                     <i class="fa fa-ring fa-5x mb-3" aria-hidden="true"></i>
@@ -109,7 +97,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-12 col-12 col-lg-3 col-xl-3 col-sm-12 mt-2 pt-2 mb-3 d-flex">
+                        <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
                             <div class="card border-0 flex-fill">
                                 <div class="card-body contactCard text-center d-flex flex-column">
                                     <i class="fa fa-cc-paypal fa-5x mb-3" aria-hidden="true"></i>
