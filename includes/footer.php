@@ -83,8 +83,11 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-12 col-lg-12 col-xl-12 pt-2 mt-3">
+                <div class="col-md-6 col-lg-6 col-xl-6 pt-2 mt-3">
                   <a href="./privacy.php">Privacy</a>
+                </div>
+                <div class="col-md-6 col-lg-6 col-xl-6 pt-2 mt-3">
+                  <a href="./cookies.php">Cookie Policy</a>
                 </div>
               </div>
           </div>
