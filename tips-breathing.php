@@ -35,7 +35,6 @@
                         <i class="fa fa-asterisk fa2x mt-5"></i>
                         <h4>Important note: Be sure to prolong your exhalation action (breathing out) in this activity, this is the part of breathing that slows our heart rate and calms our body.</h4>                 
                         <br>
-                        <p>Source <a href="https://www.hse.ie/eng/services/list/5/cancer/news/covid%2019%20cope%20with%20worry.pdf?fbclid=IwAR1vT4r3SNdJvB6amponusQ3vFIXEqYYOx9HE2851gIQ74sUKFzI4ZyXTG0" target="_blank">NCCP Coping Skills</a></p>
                     </div>
                 </div>
             </div>

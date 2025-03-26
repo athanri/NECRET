@@ -119,15 +119,12 @@
                     </div>
                     <div class="p-5 div col col-sm-12 col-12 col-md-6 col-lg-4 col-xl-4 d-flex text-center mb-3">
                         <div class="card navyCard flex-fill">
-                            <img class="card-img-top" src="./img/pbh.webp" alt="Covid-19">
+                            <img class="card-img-top soh" width="533" height="380" src="./img/NECRETEaster.jpg" alt="Research">
                             <div class="card-body navyCardBody d-flex flex-column">
-                                <h5 class="card-title navyCardTitle">NECRET Supported COVID-19 Study</h5>
-                                <p class="card-text navyCardText">COVID-19 presents a higher risk of a serious complication for various groups in our society, including people with cancer or those currently receiving cancer treatment as they may have a compromised or weaker immune system.</p>  
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample1">Easier and more effective methods of identifying the virus could only be a positive development as the world seeks to combat it. To that end, NECRET were pleased to support cutting edge research into a new effective, non-invasive test that may increase detection of COVID-19 infection.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample1">The study, also supported by Science Foundation Ireland and led by Prof. Bryan Hennessy of NECRET and RCSI University of Medicine and Health Sciences, is published in the current edition of the medical journal Thorax.  The researchers collected breath samples from patients admitted to Beaumont Hospital who tested negative with nasal swab tests but had a clinical diagnosis of COVID-19. They found that breath samples were able to detect the virus and that testing multiple genes increases detection.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample1">Further research to bring about a more reliable and a more comfortable test to the nasal swab, which can be an unpleasant experience for people receiving it, is only to be welcomed.</p>
-                                <p class="card-text navyCardText collapse multi-collapse multiCollapseExample1">You can read further about this research at the below link: <a href="https://thorax.bmj.com/content/early/2020/10/23/thoraxjnl-2020-215705?fbclid=IwAR0DX7uIEAdCH3Aoh11U8tTSAd5WWC2liVLQgiBuDdQ0twGF8joLRbw0Z48">https://thorax.bmj.com/content/early/2020/10/23/thoraxjnl-2020-215705?fbclid=IwAR0DX7uIEAdCH3Aoh11U8tTSAd5WWC2liVLQgiBuDdQ0twGF8joLRbw0Z48</a></p>
-                                <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="fa fa-hand-holding-medical"></i> Read More</a>
+                                <h5 class="card-title navyCardTitle mb-4">Easter Family Fun Day in aid of NECRET </h5>
+                                <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a>
+                                <p class="card-text navyCardText mb-5">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.
+                                All funds raised on the day will go to NECRET.
                             </div>
                         </div>
                     </div>
@@ -251,7 +248,7 @@
                                 <p class="card-text navyCardText">Many, many thanks to Sandra Rogers for bravely doing a sponsored head shave in our aid. It is greatly appreciated by all at NECRET and the Oncology Team. We wish her all the best on December 21st.</p>
                                 <p class="card-text navyCardText">If you can at all support Sandra the iDonate page link is <a href="www.idonate.ie/sandraheadshave" target="_blank">www.idonate.ie/sandraheadshave</a></p>
                                 <p class="card-text navyCardText collapse multi-collapse multiCollapseExample31"> Necret is a charity set up to raise funds for equipment, cancer research and training at the North East Oncology Unit based in Our Lady of Lourdes Hospital, Drogheda.
-                                    I normally participate in Necret's largest annual fundraiser in the north-east - the Dip in the Nip. Unfortunately due to Covid-19 restrictions, this year's event was cancelled.
+                                    I normally participate in Necret's largest annual fundraiser in the north-east - the Dip in the Nip.
                                     To co-inside with the Winter Solstice, I will be shaving my head for charity at dawn on 21st December 2020, which will be streamed live on my Facebook page.
                                     Christmas can be a demanding time of year financially. But if you could please dig deep and sponsor me if you can, I would be very appreciative.
                                     Thank you, Sandra."</p>
@@ -336,7 +333,7 @@
                                 <img class="card-img-top" src="./img/DipSm.jpg" alt="Dip N Nip">
                                 <div class="card-body navyCardBody d-flex flex-column">
                                     <h5 class="card-title navyCardTitle">NorthEast Dip in the Nip 2021</h5>
-                                    <p class="card-text navyCardText">We have exciting news!! Our NorthEast Dip in the Nip Returns.. September, Sunday 5th. This year with limited numbers of only 200 which is in line with HSE Covid 19 Regulations. You know we’d love to have you so don’t delay register today. Come on girls we all need a little bit of fun while still fundraising or our worthy cause.</p>
+                                    <p class="card-text navyCardText">We have exciting news!! Our NorthEast Dip in the Nip Returns.. September, Sunday 5th. You know we’d love to have you so don’t delay register today. Come on girls we all need a little bit of fun while still fundraising or our worthy cause.</p>
                                     <p class="card-text navyCardText">This year will be extra special as it amazingly will be our 10th year.</p>
                                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample16">The gig will take place from 8pm to 10pm at <a href="https://www.facebook.com/EddieQuinnMusic/" target="_blank">here</a></p>
                                     <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample16" role="button" aria-expanded="false" aria-controls="multiCollapseExample16"><i class="fa fa-hand-holding-medical"></i> Read More</a>
@@ -420,15 +417,7 @@
                             </div>
                         </div>
                         <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
-                            <div class="card navyCard flex-fill">
-                                <img class="card-img-top soh" width="533" height="380" src="./img/NECRETEaster.jpg" alt="Research">
-                                <div class="card-body navyCardBody d-flex flex-column">
-                                    <h5 class="card-title navyCardTitle mb-4">Easter Family Fun Day in aid of NECRET </h5>
-                                    <p class="card-text navyCardText">The Crowne Plaza Hotel in Dundalk will host an Easter Family Fun Day in our aid next Sunday April 9th. More details can be found at their event page <a target="_blank" href="https://fb.me/e/2OKq6chq0">here (Facebook)</a>
-                                    <p class="card-text navyCardText mb-5">There will also be their traditional guess the egg, that is run memory of their late colleague and friend Aoife.
-                                    All funds raised on the day will go to NECRET.
-                                </div>
-                            </div>
+     
                         </div>
                         <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                             <div class="card navyCard flex-fill">

@@ -95,7 +95,6 @@
             <a class="dropdown-item" href="nominate.php">Nominate NECRET Charity Of The Year</a>
             <a class="dropdown-item" href="getinvolved.php">Get Involved at School / College</a>
             <a class="dropdown-item" href="event.php">Hold an Event</a>
-            <a class="dropdown-item" href="virtual.php">Run a Virtual Event</a>
             </div>
         </li>
         </ul>

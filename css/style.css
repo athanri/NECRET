@@ -16,10 +16,6 @@
     font-size: small;
 }
 
-#covidBtn {
-    width: 200px;
-}
-
 .greyCardTitle {
     text-decoration: none!important;
 }
@@ -605,11 +601,6 @@ li>a:hover>i {
     border-color: #cccccc;
     color: #cccccc !important;
     background-color: #00436b;
-}
-
-.covidEx {
-    padding-left: 1em;
-    padding-right: 1em;
 }
 
 .right {

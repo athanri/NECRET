@@ -15,7 +15,7 @@
                     </div>
 
                     <div id="liveText" class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-5">
-                        <p>Prior to Covid every July the famous Kilmoon Barn Dance was an established fixture for country and western fans from far and wide and very much looked forward too. Held in the Cushinstown Athletic Club it was always a guaranteed great night out with a fabulous line up of entertainment for the near three thousand who flocked to the event.</p>
+                        <p>Every July the famous Kilmoon Barn Dance was an established fixture for country and western fans from far and wide and very much looked forward too. Held in the Cushinstown Athletic Club it was always a guaranteed great night out with a fabulous line up of entertainment for the near three thousand who flocked to the event.</p>
                         <br>
                         <p>NECRET and the Northeast Oncology and Haematology Unit in Our Lady of Lourdes Hospital are deeply appreciative to the Fox & Kerins families who are the organisers of this wonderful event and who very generously dedicated two-thirds of ticket sales towards their core mission of improving the treatment and outcomes of people with cancer.</p>
                         <br>

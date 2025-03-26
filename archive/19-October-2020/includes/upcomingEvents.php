@@ -42,7 +42,6 @@
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle mb-4">2020 Dip 'Not as you know it'</h5>
                     <p class="card-text navyCardText">Dippers” keep your clothes on ! 2020 Dip in the nip still to go ahead but not as you know it! ’ </p>
-                    <p class="card-text navyCardText">Not to be deterred by the unfortunate events of this year and on what would remarkably have been our 9th year since the North East Dip in the Nip started, we felt that this memorable occasion should not have to be cancelled or postponed because of Covid restrictions...</p>
                     <p class="card-text navyCardText">So We have had to put our thinking caps on and come up with an alternative  to our memorably Dip in the Nip something that both you and your family can safely participate in.</p>
                     <p class="card-text navyCardText">So Dippers please keep your fundraising hat on and watch this space!!</p>
                     <p class="card-text navyCardText">Next step - please tag your fellow Dippers here. Some amazing photos and videos of last and previous years Dip Events will be posted soon along with the odd competition.</p>
