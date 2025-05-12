@@ -25,32 +25,147 @@
                         </div>
                     </div>
 
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <h4>HOW TO REGISTER FOR OUR 14TH NORTHEAST DIP IN THE NIP</h4>
-                        <p>Simply fill in the form below and we will post a Registration Form and Sponsorship Card to you within a few days. Please complete this form and send back to us by post or email.</p>
-                        <p>If you are intending to organize a Group to Dip together and have 5 or more ladies, please email <a class="dipEmail" href="mailto:dipnortheast@gmail.com">dipnortheast@gmail.com</a> or text <a class="dipEmail" href="tel:00353874054835">0874054835</a> with your name, address and the names in your group. We also ask that your group has a name – we had some brilliant names over the years.</p>
-                        <p>We have a different coloured registration form for groups which we can group post out to you along with the individual sponsorship cards or send to each group member.</p>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center dip">
+                        <i class="fa-brands fa-brave fa-5x mb-4"></i>
+                        <h4>WILL YOU BE BRAVE ENOUGH TO DIP?</h4>
+                        <h5>The 14th <i>Northeast Dip in the Nip</i> – 7th September  2025</h5>
+                        <p>This is not just a swim.</p>
+                        <p>It’s a moment of madness for a great cause. A morning of magic for your self-belief.</p>
+                        <p>And a memory that will stay with you forever.</p>
+                        <p>We’re calling on <b><u>women over the age of 18</u></b> to take part in the 14th annual Dip in the Nip – a powerful and emotional fundraiser supporting NECRET, helping cancer patients right here in Our Lady of Lourdes Oncology unit in the North East.</p>
+                        <p>Whether you're deciding to do it  for someone you’ve lost, someone who’s fighting, or just to prove to yourself that you can – <b><u>this dip changes people.</u></b> And this year, we’ve made it easier than ever to join in.</p>
                     </div>
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <h4>WHAT TO EXPECT!</h4>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center dip">
+                        <i class="fa-solid fa-water fa-5x mb-4"></i>
+                        <h4>WHAT DOES IT FEEL LIKE TO DIP?</h4>
                         <p>We promise you will feel energised and fulfilled but if you don't believe us take time to read Brenda's recap of her experience last year:</p>
-                        <p><i class="fa fa-quote-left fa-2x"></i> <em>I had a feeling of excitement and nerves and pure adrenalin rushing through my body waiting on the beach to run into the sea. We all held hands and 
-                            I can remember as I reached the water thus wave of indescribable emotion and calm coming over me. I was the only cancer survivor in our group 
-                            so the girls hugged me and cried with me and I stood in the middle of a circle of these amazing supportive strong women and I dunked myself under the water!! 
-                            When I came up we all cried and I don't think I have ever and ever will experience the feeling of empowerment...calmness....love...strength...and pure joy I felt. 
-                            There are no words to genuinely describe how truly amazing I felt. I still almost a year later get a wave of emotions when I think about it. 
-                            There were women of all ages, shapes and sizes on that beach that day and it didn’t matter what anyone looked like. It was quite remarkable. 
-                            I honestly can't wait to run into that sea again and meet more strong beautiful women and raise money for what is such an amazing cause</em> <i class="fa fa-quote-right fa-2x"></i></p>
+                        <p class="text-start"><i class="fa fa-quote-left fa-2x"></i> <em>You’ll be nervous. You’ll be giddy. You’ll laugh and maybe cry. And then you’ll run into the sea — and something shifts. 
+                            There was adrenaline. There was excitement. And yes, there were tears.
+                            As a cancer survivor, I stood on that beach surrounded by women I’d only just met — and yet I felt completely held, physically and emotionally.
+                            The moment we hit the water, a strange calm washed over me. It was powerful, peaceful… overwhelming in the best way.
+                            I can’t fully describe it — but I’ll never forget it.
+                            It was raw. It was real. It was magic.</em> <i class="fa fa-quote-right fa-2x"></i></p>
+                            <p class="text-start">-Brenda</p>
+                            <p>This is what the Dip is about. Not just the cold splash — but the warmth of connection, courage, and community.</p>
+                            <i>One sea. One cause. One unforgettable moment.</i>
                     </div>
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <h4>BY THE WAY… WHAT IS NECRET?</h4>
-                        <p>It’s our secret weapon in the fight against cancer. Spearheaded by one of Ireland leading cancer specialists Professor Bryan Hennessy, <strong>NECRET</strong> provides funding for focused activities that will improve the treatment and outcomes of people with cancer – keeping it at the very cutting edge.</p>
-                        <p>This is what we do with the money raised by the <strong>Dip In The Nip:</strong></p>
-                        <p>Funding state of the art equipment to help our clinicians remain at the very forefront of the fight against cancer.</p>
-                        <p>Conducting and contributing to much needed clinical cancer research into new treatment methodologies.</p>
-                        <p>Supporting top quality training to help our medical staff treating cancer patients be the very best they can be.</p>
-                        <p>Enhancing the support and care provided to cancer patients by the Unit to make their stay as comfortable as possible including chairs, heat blankets and other things that help to improve quality of care for cancer patients.</p>
-                        <p>For any queries about the event please should you like to join a ready made small group of ladies we can put you in touch with them.</p>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-5 pb-3 text-center dip">
+                        <i class="fa-solid fa-user-pen fa-5x mb-4"></i>
+                        <h4>HOW TO REGISTER</h4>
+                        <p>We’ve made things simple:</p>
+                        <p>Just <b><u>fill in the online form</u></b>, and we’ll post you a full <b><u>Registration Pack</u></b> that includes:</p>
+                        <span class="text-start">
+                            <ul class="dipUL ms-3 ps-3 mb-3">
+                                <li>Your <b><u>Official REGISTRATION NUMBER</u></b> – this is your free raffle ticket and entry ticket on the day and must be used in all correspondence</li>
+                                <li>Your <b><u>Sponsorship Cards</u></b></li>
+                                <li>Eye-catching <b><u>posters</b></u> to help you raise funds</li>
+                            </ul>
+                        </span>
+                        <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-2 pt-2 mb-5 d-flex">
+                        <div class="card border-0 flex-fill">
+                            <div class="card-body contactCard text-center d-flex flex-column">
+                                <i class="fa fa-5x mb-3 fa-book faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                <h4 class="text-uppercase mb-5">Terms & Conditions</h4>
+                                <div>
+                                    <a class="btn btn-primary col-md-4" target="_blank" href="./docs/T&C_2025.pdf">Please Read</a>
+                                    <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295086186060">Please Sign (Digitally)</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card border-0 flex-fill">
+                            <div class="card-body contactCard text-center d-flex flex-column">
+                                <i class="fa fa-5x mb-3 fa-signature faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                <h4 class="text-uppercase mb-5">Registration Form</h4>
+                                <div>
+                                    <a class="btn btn-primary col-md-4" target="_blank" href="./docs/DipNNip_RegistrationForm_2025.pdf">Please Read</a>
+                                    <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295663417058">Please Sign (Digitally)</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <h4>REGISTERING ON YOUR OWN OR WITH FRIENDS?</h4>
+                        <p><b><u>Thinking of signing up solo? You won’t be alone — lots of women do!</u></b></p>
+                        <p>Every year, many brave ladies take the plunge on their own, and it’s one of the most powerful and inspiring parts of the whole event. 
+                            We’ll place you into a group of 10 with other fantastic women and assign a group captain closer to the day. You’ll be given a group name, 
+                            and together you’ll choose your <b><u>dress-up theme</u></b> — it’s a great way to connect, have a laugh, and soak up the full Dip experience. 
+                            (See our FAQ section below for fun theme ideas!)</p>
+                        <div class="col-md-6 col-6 col-lg-6 col-xl-6 offset-3 col-sm-12 mt-2 pt-2 mb-5 d-flex">
+                            <div class="card border-0 flex-fill">
+                                <div class="card-body contactCard text-center d-flex flex-column">
+                                    <i class="fa fa-5x mb-3 fa-question faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-5">FAQ</h4>
+                                    <a class="btn btn-secondary" target="_blank" href="./docs/DipNNip_FAQ_2025.pdf">FAQ</a>
+                                </div>
+                            </div>
+                        </div>
+                        <p><b><u>Prefer to dip with your own gang? Go for it!</u></b></p>
+                        <p>If your group has <b><u>6 or more dippers</u></b>, you can register together and stay as your own team. Just make sure 
+                            all your members use the same <b><u>group name</u></b> and <b><u>captain’s name</u></b> on their registration form. 
+                            You’ll get to pick your <b><u>own group name</u></b> and choose a <b><u>dress-up theme</u></b> that suits your crew — 
+                            and trust us, the outfits are half the fun! (Check out the FAQ above for inspiration.)</p>
+                        <p>If your group has <b><u>fewer than 6</u></b>, we may need to add a few extra lovely ladies to bring it up to 10 — but we’ll always let you know in advance and make sure the group spirit stays strong.</p>
+                        <h5>PLEASE NOTE – NEW FOR THIS YEAR!</h5>
+                        <p>No matter how you join — whether on your own, with friends, or as part of a group —
+                            <b><u>every single participant must complete the online registration form</u></b>
+                            to be officially registered and receive their Registration Pack.</p>
+                    </div>
+                    </div>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 pb-3 text-center dip">
+                        <i class="fa-solid fa-hand-holding-heart fa-5x mb-4"></i>
+                        <h4>WHERE DOES THE MONEY GO?</h4>
+                        <p>Every cent you raise goes to NECRET (North East Cancer Research and Education Trust) 
+                            — funding real improvements in the lives of real patients in our region.</p>
+                        <p>Together, we help NECRET:</p>
+                        <img src="./img/logo.webp" class="mb-3 mt-3" alt="Logo">
+                        <span class="text-start">
+                            <ul class="dipUL ms-3 ps-3 mb-3">
+                                <li>Buy life-saving cancer treatment equipment</li>
+                                <li>Fund groundbreaking research</li>
+                                <li>Train staff to deliver the best care possible</li>
+                                <li>Bring comfort to patients through heated blankets, specialist chairs, and other thoughtful supports</li>
+                            </ul>
+                        </span>
+                    </div>
+                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 pt-2 pb-3 text-center dip">
+                        <h4> So… Will You Be One of the Brave Ones?</h4>
+                        <i class="fa-solid fa-question fa-question fa-5x mb-4"></i>
+                        <i class="fa-solid fa-question fa-question fa-5x mb-4"></i>
+                        
+                        <p>It takes ten seconds of courage.</p>
+                        <p>And it will mean the world to someone.</p>
+                        <p>Take the plunge. Raise vital funds. And feel truly alive.</p>
+                        <p>[REGISTER ONLINE NOW]</p>
+                        <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-2 pt-2 mb-5 d-flex">
+                            <div class="card border-0 flex-fill">
+                                <div class="card-body contactCard text-center d-flex flex-column">
+                                    <i class="fa fa-5x mb-3 fa-book faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-5">Terms & Conditions</h4>
+                                    <div>
+                                        <a class="btn btn-primary col-md-4" target="_blank" href="./docs/T&C_2025.pdf">Please Read</a>
+                                        <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295086186060">Please Sign (Digitally)</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card border-0 flex-fill">
+                                <div class="card-body contactCard text-center d-flex flex-column">
+                                    <i class="fa fa-5x mb-3 fa-signature faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-5">Registration Form</h4>
+                                    <div>
+                                        <a class="btn btn-primary col-md-4" target="_blank" href="./docs/DipNNip_RegistrationForm_2025.pdf">Please Read</a>
+                                        <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295663417058">Please Sign (Digitally)</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-4 col-lg-6 col-xl-6 col-sm-12 mt-2 pt-2 mb-5 d-flex offset-3">
+                            <div class="card border-0 flex-fill">
+                                <div class="card-body contactCard text-center d-flex flex-column">
+                                    <i class="fa fa-5x mb-3 fa-money-bill-trend-up faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-5">Boost Sponsorship</h4>
+                                    <a class="btn btn-secondary btnDip" target="_blank" href="./docs/BoostSponsorship.pdf">Ideas</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -60,19 +175,6 @@
         <div id="cuttingEdge" class="container-fluid">
             <div class="container">
                 <div class="row pt-2">
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <h4>TODAY:</h4>
-                        <p>After you fill in the contact box above we will then post out your registration form and sponsorship card in the next week or so.</p>
-                    </div>
-                    <div class="col-md-12 col-12 col-lg-6 col-xl-6 col-sm-12 offset-md-3 mt-2 pt-2 mb-5 d-flex">
-                        <div class="card border-0 flex-fill">
-                            <div class="card-body contactCard text-center d-flex flex-column">
-                                <i class="fa fa-5x mb-3 fa-question faq" width="80px" height="100px" aria-hidden="true"></i>
-                                <h4 class="text-uppercase mb-5">FAQ</h4>
-                                <a class="btn btn-secondary" target="_blank" href="./docs/FAQDipIntheNip2023.pdf">FAQ</a>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3">
                         <div class="embed-responsive embed-responsive-16by9">
                             <video  class="embed-responsive-item" controls>

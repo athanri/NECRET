@@ -1,6 +1,7 @@
 <div id="contactForm" class="container-fluid">
     <div class="container">
         <form method="POST" action=".\php\send">
+            <h3 class="text-center pt-2">Please feel free to contact us here</h3>
             <div class="form-group">
                 <label for="name" class="form-label">Your Name*:</label>
                 <input type="text" name="fName" class="form-control" tabindex="1" placeholder="Enter Your Full Name" required/>
@@ -21,7 +22,7 @@
                 <input type="text" name="subject" class="form-control" tabindex="4" placeholder="Enter Your Subject" required/>
             </div>
             
-            <div>
+            <div class="pb-3">
                 <label for="message" class="form-label">Message*:</label>
                 <textarea cols="40" rows="5" name="message" class="form-control" tabindex="5" placeholder="Feel free to send us a message here..." required></textarea>
                 <input type="submit" value="Send" class="btn btn-primary" />

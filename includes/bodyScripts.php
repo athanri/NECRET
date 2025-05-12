@@ -9,3 +9,10 @@
 
 <!-- Custom JS -->
 <script src="./js/script.js"></script>
+
+<script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
+
+<script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-251295086186060']", "https://form.jotform.com/")</script>
+
+<script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-251295663417058']", "https://form.jotform.com/")</script>
+

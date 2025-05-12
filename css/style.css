@@ -1398,7 +1398,17 @@ th>a {
     background-color: #00436b;
     color: #cccccc;
 }
+.formFooter-heightMask {
+    display: none !important;
+}
 
+.dip {
+    background-color: #00436b;
+}
+
+.formFooter {
+    display: none !important;
+}
 .list-group-item.ovListGrey {
     border: solid 1px #9b9b9b;
 }
@@ -1528,6 +1538,14 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px
+}
+
+.dipUL {
+    list-style-type: disc;
+    list-style:inside;
+    display: block;
+    margin: 0px;
+    padding: 0px
 }
 
 #pagin a {
