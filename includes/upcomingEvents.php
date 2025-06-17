@@ -30,15 +30,19 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/thanks.PNG" alt="Volunteer Thank You Night">
+                <img class="card-img-top" src="./img/tlc.jpg" alt="TLC Cancer Conference 2025">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Date for Diary – Volunteer Thank You Night</h5>
-                    <p class="card-text navyCardText">NECRET would like to invite our volunteers to a thank you night on Friday January 27th in the Black Bull Inn, Drogheda. Arrival from 7.30pm.</p>
-                    <p class="card-text navyCardText">Please RSVP by midday on Wednesday January 25th to ciaran@necret.ie</p>
-                    <p class="card-text navyCardText">This evening is supported by the Black Bull Inn.</p>
+                    <h5 class="card-title navyCardTitle">TLC Cancer Conference 2025</h5>
+                    <p class="card-text navyCardText">We are looking forward to our annual TLC Cancer taking place on the afternoon of September 20th
+                         in the CityNorth Hotel & Conference Centre .</p>
+                    <p class="card-text navyCardText">This Free Public Cancer Information Support Day is FOR YOU, YOUR 
+                        FAMILY AND YOUR FRIENDS.</p>
+                    <p class="card-text navyCardText">The afternoon will include workshops, refreshments, complimentary therapies, a free prize draw and of course 
+                        our Fab Goody Bags.</p>
                 </div>
             </div>
         </div>
+
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/SeanBoylan.webp" alt="Sean Boylan">
