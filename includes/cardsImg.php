@@ -4,12 +4,15 @@
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <a href="./docs/NECRET_Newsletter_Dec_2024.pdf" target="_blank"><img class="card-img-top" src="./img/Newsletter2024.png" alt="Forum"></a>
-                    <h5 class="card-title navyCardTitle">NECRET Summer News Letter</h5>
-                    <p class="card-text navyCardText mb-5">The Summer Newsletter of NECRET is now available, where you can read all the latest
-                        charity news and developments. It is also importantly captures some of the ways NECRET 
-                        is contributing to improving cancer treatment and care for this impacted by cancer.</p>
-                        <a class="btn btn-primary btn-upcoming mt-auto" href="./docs/NECRET_Newsletter_Dec_2024.pdf"><i class="fa fa-newspaper"></i> Read Newsletter</a>
+                    <a href="./docs/NECRET_Newsletter_Dec_2024.pdf" target="_blank"><img class="card-img-top" src="./img/pic3.jpg" alt="Forum"></a>
+                    <h5 class="card-title navyCardTitle">Big Congratulations to Dr. David O'Reilly</h5>
+                    <p class="card-text navyCardText">We’re delighted to share that Dr. David O'Reilly recently received the prestigious Young Investigator Award from
+                        the American Society of Clinical Oncology (ASCO) — a huge honour recognising the NECRET-supported breath research into the early detection, 
+                        diagnosis and monitoring of lung cancer.</p>
+                        <p class="card-text navyCardText">ASCO is one of the world’s leading cancer organisations, with its annual conference in Chicago attended by 
+                            over 45,000 oncology professionals from across the globe.</p>
+                        <p>A special mention also to Prof. Bryan Hennessy, who has spearheaded this groundbreaking initiative and continues to drive innovation in cancer research.</p>
+                        <p class="card-text navyCardText">Pictured (L-R): Prof. Bryan Hennessy, Dr. David O'Reilly, Prof. Jarushka Naidoo.</p>
                 </div>
             </div>
         </div>
