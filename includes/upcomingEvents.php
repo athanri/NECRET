@@ -30,7 +30,7 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/tlc.jpg" alt="TLC Cancer Conference 2025">
+                <img class="card-img-top" src="./img/tlcTL.jpg" alt="TLC Cancer Conference 2025">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">TLC Cancer Conference 2025</h5>
                     <p class="card-text navyCardText">We are looking forward to our annual TLC Cancer taking place on the afternoon of September 20th
