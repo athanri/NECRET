@@ -16,6 +16,29 @@
                 </div>
             </div>
         </div>
+                
+        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
+                <a><img class="card-img-top" src="./img/carshow.jpg" alt="Car Show"></a>
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">Big Announcement</h5>
+                    <p class="card-text navyCardText">We’re absolutely thrilled to be named the official Charity Partner for 
+                        the 2025 Drogheda Motor Show — celebrating 15 years of this fantastic community event!</p>
+                    <p class="card-text navyCardText">NECRET – North East Cancer Research & Education Trust is dedicated to transforming cancer care in our region supporting:</p>
+                    <ul class="dipUL mb-2">
+                        <li>Groundbreaking clinical research</li>
+                        <li>State-of-the-art equipment</li>
+                        <li>Enhancing our oncology unit</li>
+                        <li>Staff Education</li>
+                        <li>Raising community awareness & education</li>
+                    </ul>
+                    <p class="card-text navyCardText">To show your support of NECRET’s mission, please give us a <i class="fa fa-heart"></i></p>
+                    <p class="card-text navyCardText">If you are visiting the Drogheda Motor Show, do be sure to stop by NECRET’s stand!
+                        See how your support helps drive better cancer research, care, and education for families right across the north-east.</p>
+                </div>
+            </div>
+        </div>
+
         <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -44,20 +67,6 @@
                     <p class="card-text navyCardText collapse multi-collapse multiCollapseExample001">#FightingCancerEveryday</p>
                     <a href="https://www.linkedin.com/pulse/necret-supporting-cancer-research-?fbclid=IwAR3Vn_Ah6SvZf-Vv1VrcasIjDYAjDTMNCswVEEYnsHK1HwpK4_icz-jyqkw" target="_blank" class="mb-5 card-text navyCardText collapse multi-collapse multiCollapseExample001">NECRET Supporting Cancer Research</a>
                     <a class="btn btn-primary btn-upcoming mt-auto" data-bs-toggle="collapse" href=".multiCollapseExample001" role="button" aria-expanded="false" aria-controls="multiCollapseExample001"><i class="fa fa-microscope"></i> Show More Info</a>
-                </div>
-            </div>
-        </div>
-
-        
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
-                <a><img class="card-img-top" src="./img/JEAFOC.webp" alt="Forum"></a>
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Joint Euro-American Forum on Cancer</h5>
-                    <p class="card-text navyCardText">As a key supporter of the All-Island Cancer Research Institute, NECRET were delighted to recently support the Joint Euro-American Forum on Cancer that took place in Ireland's Official State Residence Farmleigh House, Dublin on April 25th and 26th.</p>
-                    <p class="card-text navyCardText">This landmark event brought together globally recognised clinical and academic leaders and key relevant policy makers, political figures, and patient advocates, who will shape a transatlantic cancer beating agenda and deliver a series of recommendations to address the impending cancer challenge that is rapidly approaching. More details on the Forum can be found at <a href="https://www.euroamericanforumoncancer.org/" target="_blank">www.euroamericanforumoncancer.org</p>
-                    <p class="card-text navyCardText">#CancerHasNoBorders #TogetherStronger</p>
-                    <a href="https://www.euroamericanforumoncancer.org/" target="_blank" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-globe"></i> Visit Site</a>
                 </div>
             </div>
         </div>
