@@ -19,7 +19,7 @@
                         <br>
                         <p>NECRET and the Northeast Oncology and Haematology Unit in Our Lady of Lourdes Hospital are deeply appreciative to the Fox & Kerins families who are the organisers of this wonderful event and who very generously dedicated two-thirds of ticket sales towards their core mission of improving the treatment and outcomes of people with cancer.</p>
                         <br>
-                        <p>The previous eight Barndances have raised over an incredible €500,000 in funds donated to cancer research and local charities Oesophageal Cancer, Drogheda Homeless Aid, SOSAD, Meath River Rescue, Meath Hospice and the Laffey Trust.</p>
+                        <p>The previous eleven Barndances have raised over an incredible €800,000 in funds donated to cancer research and local charities Oesophageal Cancer, Drogheda Homeless Aid, SOSAD, Meath River Rescue, Meath Hospice and the Laffey Trust.</p>
                         <br>
                     </div>
 
@@ -29,6 +29,10 @@
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-xs-6 thumb">
+                            <img class="img-thumbnail" src="./img/kilmoon_2.jpg" alt="Kilmoon Barn Dance">
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-6 offset-md-3 thumb">
                             <img class="img-thumbnail" src="./img/kilmoon2.jpg" alt="Kilmoon Barn Dance">
                         </div>
                     </div>

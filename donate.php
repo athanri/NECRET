@@ -35,7 +35,7 @@
                         <div class="col-md-12 col-12 col-lg-4 col-xl-4 col-sm-12 mt-2 pt-2 mb-3 d-flex">
                             <div class="card border-0 flex-fill">
                                 <div class="card-body contactCard text-center d-flex flex-column">
-                                    <img src="./img/iDonate.png" class="mx-auto" width="80px" height="100px" aria-hidden="true">
+                                    <img src="./img/iDonate2.png" class="mx-auto" width="80px" height="100px" aria-hidden="true">
                                     <h4 class="text-uppercase mb-5">iDonate</h4>
                                     <a class="btn btn-success" target="_blank" href="https://www.idonate.ie/5814_necret.html">More Info</a>
                                     <br>

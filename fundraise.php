@@ -13,7 +13,7 @@
                     <div class="col-md-12 mb-3 mt-5 text-center">
                        <h2>Fundraising Ideas for NECRET</h2>
                        <br>
-                       <a href="//widgets.justgiving.com/Button/Redirect?p=eyJJZCI6IjNhNDQwOGZmLWE2YTEtNGI0Mi04NDRmLWQ3NDY5ODg0ZWUxNCIsIkNoYXJpdHlJZCI6MzA1NjUwNCwiU2l6ZSI6ImwiLCJSZWZlcmVuY2UiOiIiLCJUeXBlIjoiRnVuZHJhaXNpbmcifQ=="><img src="//widgets.justgiving.com/Button?p=eyJJZCI6IjNhNDQwOGZmLWE2YTEtNGI0Mi04NDRmLWQ3NDY5ODg0ZWUxNCIsIkNoYXJpdHlJZCI6MzA1NjUwNCwiU2l6ZSI6ImwiLCJSZWZlcmVuY2UiOiIiLCJUeXBlIjoiRnVuZHJhaXNpbmcifQ==" /></a>
+                       <a href="https://www.idonate.ie/cause/Necret" target="_blank"><img src="./img/iDonate.png" /></a>
                     </div>
 
 
@@ -40,7 +40,7 @@
                     </div>
 
                     <div class="funText col-md-12 col-sm-12 col-lg-12 col-xl-12 col-md-12 pt-2 mb-3 mt-5">
-                       <h4>Marathons & Races 2021</h4>
+                       <h4>Marathons & Races 2025</h4>
                        <p>Take part in an event of your choice or another location in Ireland or abroad and make a big difference in our fight against cancer! Check out the options below.</p>
                        <table class="funText table">
                             <thead>
@@ -52,31 +52,31 @@
                             <tbody>
                                 <tr>
                                     <th scope="row"><a href="http://runamuckchallenge.ie/" target="_blank">RunaMuck</a></th>
-                                    <td>Saturday 5th March 2022</td>
+                                    <td>Saturday 28th February 2026</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.connemarathon.com/" target="_blank">Connemarathon</a></th>
-                                    <td>Sunday 24th April 2022</td>
+                                    <td>Sunday 19th April 2026</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.facebook.com/Drogheda10k/" target="_blank">Drogheda10K</th>
-                                    <td>Sunday May 1st 2022</td>
+                                    <td>Sunday May 4th 2025</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="http://www.corkcitymarathon.ie/" target="_blank">Cork City Marathon</a></th>
-                                    <td>Sunday 5th June 2022</td>
+                                    <td>Sunday 31st May 2026</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.vhiwomensminimarathon.ie/" target="_blank">Women’s Mini Marathon</a></th>
-                                    <td>Sunday 5th June 2022</td>
+                                    <td>Sunday 1st June 2025</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="https://www.hellandback.ie/" target="_blank">Hell & Back</a></th>
-                                    <td>Sunday 5th June 2022</td>
+                                    <td>Sunday 7th June 2025</td>
                                 </tr>
                                 <tr>
                                     <th scope="row"><a href="http://kbcdublinmarathon.ie/" target="_blank">Dublin City Marathon</a></th>
-                                    <td>Sunday 30th October 2022</td>
+                                    <td>Sunday 26th October 2025</td>
                                 </tr>
                             </tbody>
                             </table>

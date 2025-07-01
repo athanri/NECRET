@@ -1482,28 +1482,6 @@ th>a {
     background-color: #00436b;
 }
 
-/* Annual Christmas Raffle Page */
-
-#chrisRaff {
-    background-color: #406e99 !important;
-    color: #cccccc;
-}
-
-.chrisRaffText {
-    background-color: #00436b;
-    text-align: center;
-}
-
-.cr1 {
-    margin-top: 150px;
-    margin-bottom: 0px;
-    margin-left: 30px;
-}
-.cr2 {
-    margin-top: 150px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-}
 /* Governance Page */
 .govText {
     background-color: #00436b !important;

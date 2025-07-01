@@ -59,7 +59,6 @@
             <a class="dropdown-item" href="../../crfwalk.php">Celine Reilly Flynn Walk</a>
             <a class="dropdown-item" href="../../dipNip.php">Dip in the Nip</a>
             <!-- <a class="dropdown-item" href="wmenmini.php">Womens Mini Marathon</a> -->
-            <a class="dropdown-item" href="../../christmas.php">Annual Christmas Raffle</a>
             <a class="dropdown-item" href="../../tullyallen.php">Tullyallen Tractor Run</a>
             <!-- <a class="dropdown-item" href="dubmarathon.php">Dublin Marathon</a> -->
             <a class="dropdown-item" href="../../livingConf.php">Living With Cancer Conference</a>
