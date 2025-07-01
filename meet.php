@@ -20,7 +20,6 @@
                     <div id="meetText" class="col-md-12 col-12 col-lg-7 col-xl-7 col-sm-12 mt-3 pt-2 mb-5">
                         <p>This Oncology Unit at Our Lady of Lourdes Hospital Drogheda has a multi-disciplinary team including doctors, nurses, pharmacist, social workers, dieticians, support workers, health care assistance and clerical officers. Their sole aim is to deliver high quality care to all patients and their families in a friendly environment.</p>
                         <p>They never underestimate the importance of treating patients and their families at such a difficult time. The Oncology Team is led by Consultant Medical Oncologist Dr Bryan Hennessy who is also Adjunct Professor in the Division of Cancer Medicine at the University of Texas, M.D. Anderson Cancer Center;</p>
-                        <p>Part of the team also is Dr. David Easty, MD PhD MRCP who is the Oncology Unit Registrar since April 2015; Dr. Easty has special interest in melanoma and pancreatic cancer.</p>
                     </div>
                 </div>
                 <div class="row pt-2">
