@@ -15,7 +15,7 @@
                     </div>
                     
                     <div class="col-md-12 col-12 col-lg-5 col-xl-5 col-sm-12 mt-3 mb-5">
-                        <img id="imgMeet" src="./img/MeetTeam.jpg" alt="Meet Our Team">
+                        <img id="imgMeet" src="./img/Team_New.jpg" alt="Meet Our Team">
                     </div>
                     <div id="meetText" class="col-md-12 col-12 col-lg-7 col-xl-7 col-sm-12 mt-3 pt-2 mb-5">
                         <p>This Oncology Unit at Our Lady of Lourdes Hospital Drogheda has a multi-disciplinary team including doctors, nurses, pharmacist, social workers, dieticians, support workers, health care assistance and clerical officers. Their sole aim is to deliver high quality care to all patients and their families in a friendly environment.</p>
