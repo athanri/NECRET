@@ -1406,6 +1406,11 @@ th>a {
     background-color: #00436b;
 }
 
+.dipBtn {
+    height: 75px !important;
+    padding-top: 25px !important;
+}
+
 .formFooter {
     display: none !important;
 }
