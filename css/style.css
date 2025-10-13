@@ -1408,7 +1408,7 @@ th>a {
 
 .dipBtn {
     height: 75px !important;
-    padding-top: 25px !important;
+    padding-top: 18px !important;
 }
 
 .formFooter {
@@ -1668,6 +1668,7 @@ span {
 
 .contactCard {
     background-color: #00436b;
+    color: #cccccc;
 }
 
 #contact, #contactMap {
@@ -1854,3 +1855,82 @@ span {
         display: none !important;
     }
  }
+
+ .btnHover:hover {
+    background-color: #cccccc !important;
+    color: #00436b !important;
+ }
+
+ .search-form {
+  display: flex;
+  gap: 6px;
+  margin-left: 5px;
+}
+
+.search-form input[type="text"] {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+/* 
+.search-form button {
+  padding: 8px 12px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+} */
+/* 
+.search-form button:hover {
+  background-color: #0056b3;
+} */
+
+.searchUL {
+  background-color: #00436b;
+  color: #cccccc;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-top: 5px;
+  list-style-type: none;       /* remove bullets */
+  display: block !important;              /* force vertical layout */
+}
+
+.searchUL .searchLI {
+  padding: 8px;
+  display: block !important;              /* force vertical layout */
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 5px;
+}
+
+/* Make links look nice */
+.searchUL .searchLI a {
+  font-size: 1.1em;
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.searchUL .searchLI a:hover {
+    text-decoration: underline;
+}
+
+.searchLI:hover {
+  background-color: #f0f0f0;
+}
+
+/* Style snippets (small text) */
+.searchUL .searchLI small {
+  color: #cccccc;
+  display: block !important;              /* ensure snippet sits below title */
+  margin-top: 4px;
+  line-height: 1.4;
+}
+
+mark {
+  background-color: #ffea8a;
+  color: #000;
+  padding: 0 3px;
+  border-radius: 3px;
+}

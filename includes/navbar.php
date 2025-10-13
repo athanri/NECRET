@@ -6,17 +6,20 @@
         </button>
       
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
+        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+            <form action="search.php" method="GET" class="search-form">
+                <input type="text" class="search" name="q" placeholder="Search Term..." required>
+                <button type="submit" class="btn btn-outline-light my-2 my-sm-0 btnHover">Search <i class="fa fa-search btnHover"></i></button>
+            </form>
         </ul>
         <form class="d-flex">
             <a class="social-icon" target="_blank" id="facebookSI" href="https://www.facebook.com/NECRET/"><i class="icon fa fa-facebook"></i></a>
             <a class="social-icon" target="_blank" id="linkedinSI" href="https://www.linkedin.com/in/necret/"><i class="icon fa fa-linkedin"></i></a>
             <a class="social-icon" target="_blank" id="youtubeSI" href="https://www.youtube.com/channel/UC-b5wfquKcAwz81uZGvd4NQ"><i class="icon fa fa-youtube"></i></a>
             <a class="social-icon" target="_blank" id="twitterSI" href="https://twitter.com/Drogheda_Oncol"><i class="icon fa fa-twitter"></i></a>
-            <a class="btn btn-outline-light my-2 my-sm-0" href="donate.php">Donate <i class="fa fa-heart"></i></a>
+            <a class="btn btn-outline-light my-2 my-sm-0 btnHover" href="donate.php">Donate <i class="fa fa-heart btnHover"></i></a>
         </form>
-        <button class="btn btn-outline-light my-2 my-sm-0 ms-1" data-bs-toggle="modal" data-bs-target="#videoModal">Impact <i class="fa fa-video"></i></button>
+        <button class="btn btn-outline-light my-2 my-sm-0 ms-1 btnHover" data-bs-toggle="modal" data-bs-target="#videoModal">Impact <i class="fa fa-video btnHover"></i></button>
     </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">      

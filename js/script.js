@@ -13,6 +13,7 @@ function GetCookie(name) {
   }
   return null;
 }
+
 function testFirstCookie(){
 	var offset = new Date().getTimezoneOffset();
 	if ((offset >= -180) && (offset <= 0)) { // European time zones

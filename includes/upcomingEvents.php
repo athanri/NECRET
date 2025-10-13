@@ -4,19 +4,6 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/camino.jpg" alt="Camino">
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Boyne Valley, Camino</h5>
-                    <p class="card-text navyCardText">Interested in a fun challenge of an amazing 25km walk and ramble through the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes of people with cancer.</p>
-                    <p class="card-text navyCardText">Starting from St Peter’s Church led by wonderfully experienced tour leaders who have very kindly volunteered their services, the trail follows the River Boyne before gaining the woodlands of the Townley Estate and then meandering quiet lanes to Mellifont, where there will be an opportunity for that much earned packed lunch or other refreshments. A separate return route gives a total walk of 25km.</p>
-                    <p class="card-text navyCardText">To receive your registration form please email <a class="dipEmail">necret.info@gmail.com</a> necret.info@gmail.com or text <a href="sms:00353867773294">+353 86 777 3294</a> with your full name, address, and mobile number. To participate completed registration forms must be received no later than midday on Friday July 11th.</p>
-                    <p class="card-text navyCardText">To get started with fundraising on Necret’s online fundraising page, please click on the following link: <a target="_blank" href="https://www.idonate.ie/5814_necret.html">https://www.idonate.ie/5814_necret.html</a></p>
-                    <p class="card-text navyCardText">Sponsorship cards are also available if required on request.</p>
-                </div>
-            </div>
-        </div>
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/dip2025.jpg" alt="Dip 2025">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">Northeast Dip in the Nip 2025</h5>
@@ -24,6 +11,19 @@
                     <p class="card-text navyCardText">We again hope to have hundreds of amazing women join for this year’s Dip in the Nip which is amazingly our 14th!! whilst helping Necret in its everyday fight against cancer.</p>
                     <p class="card-text navyCardText">We will have a new registration process this year. To register your interest please complete the contact form @ <a class="dipEmail" href="./dipintheNip.php">https://www.necret.ie/dipintheNip</a> or email <a href = "mailto: dipnortheast@gmail.com">dipnortheast@gmail.com</a> with your full name, postal address, and contact number and a member of our volunteer team will get back in touch.</p>
                     <p class="card-text navyCardText"><a class="dipEmail" href="./dipintheNip.php">More Info</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
+                <img class="card-img-top" src="./img/Newsletter_2025.png" alt="Newsletter 2025">
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">Necret Newsletter Summer 2025</h5>
+                    <p class="card-text navyCardText">The Summer Newsletter of NECRET is now available, where you can read all the latest
+                    charity news and developments. It is also importantly captures some of the ways NECRET is contributing to improving cancer 
+                    treatment and cares for this impacted by cancer.</p>
+                    <a href="./docs/NECRET_Newsletter_Summer_2025.pdf">Read Here</a>
                 </div>
             </div>
         </div>

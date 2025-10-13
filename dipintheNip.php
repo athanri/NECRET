@@ -1,6 +1,24 @@
 <!doctype html>
 <html lang="en">
     <head>
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', 2207854056334548);
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+        <img height="1" width="1" style="display:none" 
+            src="https://www.facebook.com/tr?id=2207854056334548&ev=PageView&noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
         <?php include 'includes/head.php'; ?>
     </head>
 
@@ -14,18 +32,19 @@
                         <h2 style="text-align: center;">Northeast Dip In the Nip</h2>
                     </div>
                     <div class="col-md-12 mt-2 text-center">
-                        <a class="btn btn-primary col-md-3 dipBtn" target="_blank" href="https://form.jotform.com/251295663417058">Please Register Here</a>
+                        <a class="btn btn-warning col-md-3 dipBtn fs-3 fw-bolder" target="_blank" href="https://form.jotform.com/251295663417058">Sign Up</a>
                     </div>
                     
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
                         <img class="img-fluid" src="./img/dip2024.jpg" alt="Dip In the Nip">
                     </div>
                    
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <video  class="embed-responsive-item" controls>
+                    <div class="col-12 mt-3 pt-2 mb-3 text-center">
+                        <div class="ratio ratio-16x9">
+                            <video class="w-100" controls>
                                 <source src="./vid/dipNnip.mp4" type="video/mp4">
-                            </vidoe>
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </div>
 
@@ -38,6 +57,7 @@
                         <p>And a memory that will stay with you forever.</p>
                         <p>We’re calling on <b><u>women over the age of 18</u></b> to take part in the 14th annual Dip in the Nip – a powerful and emotional fundraiser supporting NECRET, helping cancer patients right here in Our Lady of Lourdes Oncology unit in the North East.</p>
                         <p>Whether you're deciding to do it  for someone you’ve lost, someone who’s fighting, or just to prove to yourself that you can – <b><u>this dip changes people.</u></b> And this year, we’ve made it easier than ever to join in.</p>
+                        <a class="btn btn-warning col-md-3 dipBtn fs-3 fw-bolder mt-2 mb-2" target="_blank" href="https://form.jotform.com/251295663417058">Sign Up</a>
                     </div>
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center dip">
                         <i class="fa-solid fa-water fa-5x mb-4"></i>
@@ -68,21 +88,8 @@
                         <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-2 pt-2 mb-5 d-flex">
                         <div class="card border-0 flex-fill">
                             <div class="card-body contactCard text-center d-flex flex-column">
-                                <i class="fa fa-5x mb-3 fa-book faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
-                                <h4 class="text-uppercase mb-5">Terms & Conditions</h4>
                                 <div>
-                                    <a class="btn btn-primary col-md-4" target="_blank" href="./docs/T&C_2025.pdf">Please Read</a>
-                                    <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295086186060">Please Sign (Digitally)</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card border-0 flex-fill">
-                            <div class="card-body contactCard text-center d-flex flex-column">
-                                <i class="fa fa-5x mb-3 fa-signature faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
-                                <h4 class="text-uppercase mb-5">Registration Form</h4>
-                                <div>
-                                    <a class="btn btn-primary col-md-4" target="_blank" href="./docs/DipNNip_RegistrationForm_2025.pdf">Please Read</a>
-                                    <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295663417058">Please Sign (Digitally)</a>
+                                    <a class="btn btn-warning col-md-3 dipBtn fs-3 fw-bolder" target="_blank" href="https://form.jotform.com/251295663417058">Sign Up</a>
                                 </div>
                             </div>
                         </div>
@@ -130,43 +137,26 @@
                             </ul>
                         </span>
                     </div>
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 pt-2 pb-3 text-center dip">
+                    <div class="col-12 pt-2 pb-3 text-center dip">
                         <h4> So… Will You Be One of the Brave Ones?</h4>
-                        <i class="fa-solid fa-question fa-question fa-5x mb-4"></i>
-                        <i class="fa-solid fa-question fa-question fa-5x mb-4"></i>
+                        <i class="fa-solid fa-question fa-5x mb-4"></i>
+                        <i class="fa-solid fa-question fa-5x mb-4"></i>
                         
                         <p>It takes ten seconds of courage.</p>
                         <p>And it will mean the world to someone.</p>
                         <p>Take the plunge. Raise vital funds. And feel truly alive.</p>
                         <p>[REGISTER ONLINE NOW]</p>
-                        <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-2 pt-2 mb-5 d-flex">
-                            <div class="card border-0 flex-fill">
+                        <div class="d-flex flex-column align-items-center gap-3 mt-2 pt-2 mb-5">
+                            <div class="card border-0" style="width:100%;max-width:400px;">
                                 <div class="card-body contactCard text-center d-flex flex-column">
-                                    <i class="fa fa-5x mb-3 fa-book faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
-                                    <h4 class="text-uppercase mb-5">Terms & Conditions</h4>
-                                    <div>
-                                        <a class="btn btn-primary col-md-4" target="_blank" href="./docs/T&C_2025.pdf">Please Read</a>
-                                        <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295086186060">Please Sign (Digitally)</a>
-                                    </div>
+                                    <a class="btn btn-warning w-100 dipBtn fs-4 fw-bolder" target="_blank" href="https://form.jotform.com/251295663417058">Sign Up</a>
                                 </div>
                             </div>
-                            <div class="card border-0 flex-fill">
+                            <div class="card border-0" style="width:100%;max-width:400px;">
                                 <div class="card-body contactCard text-center d-flex flex-column">
-                                    <i class="fa fa-5x mb-3 fa-signature faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
-                                    <h4 class="text-uppercase mb-5">Registration Form</h4>
-                                    <div>
-                                        <a class="btn btn-primary col-md-4" target="_blank" href="./docs/DipNNip_RegistrationForm_2025.pdf">Please Read</a>
-                                        <a class="btn btn-secondary col-md-4" target="_blank" href="https://form.jotform.com/251295663417058">Please Sign (Digitally)</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-4 col-lg-6 col-xl-6 col-sm-12 mt-2 pt-2 mb-5 d-flex offset-3">
-                            <div class="card border-0 flex-fill">
-                                <div class="card-body contactCard text-center d-flex flex-column">
-                                    <i class="fa fa-5x mb-3 fa-money-bill-trend-up faq mx-auto" width="80px" height="100px" aria-hidden="true"></i>
-                                    <h4 class="text-uppercase mb-5">Boost Sponsorship</h4>
-                                    <a class="btn btn-secondary btnDip" target="_blank" href="./docs/BoostSponsorship.pdf">Ideas</a>
+                                    <i class="fa fa-5x mb-3 fa-money-bill-trend-up faq mx-auto" aria-hidden="true"></i>
+                                    <h4 class="text-uppercase mb-4">Boost Sponsorship</h4>
+                                    <a class="btn btn-secondary w-100 btnDip" target="_blank" href="./docs/BoostSponsorship.pdf">Ideas</a>
                                 </div>
                             </div>
                         </div>
@@ -179,11 +169,12 @@
         <div id="cuttingEdge" class="container-fluid">
             <div class="container">
                 <div class="row pt-2">
-                    <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3">
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <video  class="embed-responsive-item" controls>
+                    <div class="col-12 mt-3 pt-2 mb-3 text-center">
+                        <div class="ratio ratio-16x9">
+                            <video class="w-100" controls>
                                 <source src="./vid/dipNnip2.mp4" type="video/mp4">
-                            </vidoe>
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </div>
                 </div>
