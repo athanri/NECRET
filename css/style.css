@@ -388,6 +388,11 @@ body {
     background: #bb0000;
     color: white;
   }
+
+  .search {
+    background: #001d40;
+    color: white;
+  }
   
   .content {
     margin-left: 75px;
@@ -1140,30 +1145,66 @@ ol li{
     text-decoration: none;
     cursor: pointer;
   }
-  @media only screen and (max-width:767px){			
-      .bottom_image{
-          text-align: center;
-      }
-      .bottom_image img{
-          float:unset !important;
-          text-align: center;
-      }
-      .logout_btn_front{
-          width:100%;
-          padding-bottom:10px;
-      }
-      .extra-row-middle{
-          padding-top: 32px;
-      }
-      ul{
-          padding-left: 18px;
-      }
-      ol {
-          padding-left: 15px;
-      }
+
+@media only screen and (max-width:767px){			
+    .bottom_image{
+        text-align: center;
+    }
+    .bottom_image img{
+        float:unset !important;
+        text-align: center;
+    }
+    .logout_btn_front{
+        width:100%;
+        padding-bottom:10px;
+    }
+    .extra-row-middle{
+        padding-top: 32px;
+    }
+    ul{
+        padding-left: 18px;
+    }
+    ol {
+        padding-left: 15px;
+    }
+    .connect {
+        width: 94% !important;
+        height: 110% !important;
+    }
+    .connect-form {
+        width: 90% !important;
+        height: 90% !important;
+        margin-bottom: 10px !important;
+        margin-left: 15px !important;
+    }
+    .social-icons a {
+        font-size: 1.0rem !important;
+    /* You can adjust the size as needed */
+    }
+    .card-header.rounded-circle {
+        width: 80% !important;
+        height: 50% !important;
+        border-radius: 50%;
+        font-size: 1rem;
+    }
+}
+  
+  .card-header.rounded-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    color: #cccccc;
+    margin: 0 auto 1rem auto;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    /* Remove any padding/margin that may affect centering */
+    padding: 0;
   }
-  
-  
   
   input::-webkit-outer-spin-button,
   input::-webkit-inner-spin-button {

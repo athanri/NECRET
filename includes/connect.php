@@ -1,16 +1,10 @@
-<div class="container">
-	<div class="row">
-        <div class="span12">
-    		<div class="thumbnail center well well-small text-center">
-                <h2 class="mt-2">Connect with Us</h2>
-                <form action=".\php\connect" method="POST">
-                    <div class="input-prepend"><span class="add-on"><i class="fa fa-envelope"></i></span>
-                        <input type="text" id="" name="email" placeholder="your@email.com" required />
-                    </div>
-                    <br />
-                    <input type="submit" value="Connect" class="btn btn-small btn-outline-light" />
-              </form>
-            </div>    
-        </div>
-	</div>
-</div>
+<form action="./php/connect" class="w-100 mt-1 connect-form" method="POST">
+  <h2 class="w-100 text-center">Connect with Us</h2>
+  <div class="input-group mb-2">
+      <span class="input-group-text">
+        <i class="fa fa-envelope"></i>
+      </span>
+      <input type="email" name="email" class="form-control" placeholder="your@email.com" required />
+  </div>
+  <button type="submit" class="btn btn-warning w-100 pb-2">Connect</button>
+</form>

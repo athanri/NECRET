@@ -435,6 +435,92 @@
                 </div>
             </div>
         </div>
+        <style>
+            /* Add this to your <head> or main CSS file for improved card appearance */
+            .navyCard {
+                border-radius: 18px;
+                box-shadow: 0 4px 24px rgba(0,67,107,0.10);
+                border: none;
+                background: linear-gradient(120deg, #001d40 85%, #406e99 100%);
+                color: #fff;
+                transition: box-shadow 0.18s, transform 0.18s;
+                overflow: hidden;
+            }
+            .navyCard:hover {
+                box-shadow: 0 8px 32px rgba(0,67,107,0.18);
+                transform: translateY(-4px) scale(1.03);
+            }
+            .navyCardTitle {
+                color: #ffba55;
+                font-weight: 700;
+                font-size: 1.25rem;
+                margin-bottom: 1rem;
+                letter-spacing: 0.5px;
+            }
+            .navyCardBody {
+                background: transparent;
+                color: #fff;
+                border-radius: 0 0 18px 18px;
+                padding: 1.2rem 1rem 1rem 1rem;
+                flex: 1 1 auto;
+                display: flex;
+                flex-direction: column;
+            }
+            .navyCardText {
+                color: #e9ecef;
+                font-size: 1.05rem;
+                margin-bottom: 0.7rem;
+                text-align: left;
+            }
+            .card-img-top, .soh {
+                object-fit: cover;
+                width: 100%;
+                height: 220px;
+                border-top-left-radius: 18px;
+                border-top-right-radius: 18px;
+                background: #f8f9fa;
+            }
+            .btn-upcoming {
+                border-radius: 8px;
+                font-weight: 600;
+                background: #ffba55;
+                color: #00436b;
+                border: none;
+                transition: background 0.18s, color 0.18s;
+                margin-top: 1rem;
+                box-shadow: 0 1px 4px rgba(0,67,107,0.06);
+            }
+            .btn-upcoming:hover, .btn-upcoming:focus {
+                background: #fda016;
+                color: #001d40;
+            }
+            .card-group .card {
+                margin-bottom: 2rem;
+            }
+            @media (max-width: 991.98px) {
+                .card-img-top, .soh {
+                    height: 160px;
+                }
+                .navyCard {
+                    border-radius: 12px;
+                }
+                .navyCardBody {
+                    border-radius: 0 0 12px 12px;
+                    padding: 1rem 0.7rem 0.7rem 0.7rem;
+                }
+            }
+            @media (max-width: 575.98px) {
+                .card-img-top, .soh {
+                    height: 110px;
+                }
+                .navyCardTitle {
+                    font-size: 1.05rem;
+                }
+                .navyCardBody {
+                    padding: 0.7rem 0.5rem 0.5rem 0.5rem;
+                }
+            }
+        </style>
 
         <?php include 'includes/iconBar.php'; ?>
         

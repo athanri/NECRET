@@ -105,3 +105,24 @@
   <hr>
   <div class="copyright col-md-6 barlow">© Copyright <script>document.write(new Date().getFullYear());</script> |   NECRET   |   All Rights Reserved | Created By <a href="https://piercej.com/" target="_blank"><span class="text-danger">PierceJ</span></a> </div>
 </div>
+
+<style>
+  @media (max-width: 768px) {
+    #footer .col-lg-4:nth-child(2) {
+      text-align: center;
+    }
+
+    #footer .col-lg-4:nth-child(2) .row {
+      justify-content: center;
+    }
+
+    #footer .col-lg-4:nth-child(2) a {
+      display: inline-block;
+      margin: 0.3rem 0.6rem;
+    }
+
+    #footer .col-lg-4:nth-child(2) h6 {
+      text-align: center;
+    }
+  }
+</style>
