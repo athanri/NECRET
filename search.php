@@ -53,7 +53,7 @@
                                 'chy3-form.php' => 'Tax Relief Form',
                                 'crfwalk.php' => 'Celine Reilly Flynn Walk',
                                 'contact.php' => 'Contact Us',
-                                'cuttingedge.php' => 'Cutting Edge',
+                                'cuttingEdge.php' => 'Cutting Edge Care',
                                 'dubmarathon.php' => 'Dublin Marathon',
                                 'fundraise.php' => 'Fundraising Ideas',
                                 'getinvolved.php' => 'Geting Involved',
