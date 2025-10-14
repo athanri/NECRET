@@ -1,26 +1,44 @@
 <nav class="navbar navbar-expand-lg navbar-primary bg-primary">
-    <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="./img/logo.webp" alt="Logo" width="185px" height="75px"></a>
-        <button id="expandMobile" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+  <div class="container">
+    <a class="navbar-brand" href="index.php">
+      <img src="./img/logo.webp" alt="Logo" width="185" height="75">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+      data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-between align-items-center" id="navbarMain">
+
+      <!-- Search -->
+      <form action="search.php" method="GET" class="d-flex search-form mb-0">
+        <input type="text" class="form-control me-2" name="q" placeholder="Search Term..." required>
+        <button type="submit" class="btn btn-outline-light btnHover">
+          Search <i class="fa fa-search btnHover"></i>
         </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
-            <form action="search.php" method="GET" class="search-form">
-                <input type="text" class="search" name="q" placeholder="Search Term..." required>
-                <button type="submit" class="btn btn-outline-light my-2 my-sm-0 btnHover">Search <i class="fa fa-search btnHover"></i></button>
-            </form>
-        </ul>
-        <form class="d-flex">
-            <a class="social-icon" target="_blank" id="facebookSI" href="https://www.facebook.com/NECRET/"><i class="icon fa fa-facebook"></i></a>
-            <a class="social-icon" target="_blank" id="linkedinSI" href="https://www.linkedin.com/in/necret/"><i class="icon fa fa-linkedin"></i></a>
-            <a class="social-icon" target="_blank" id="youtubeSI" href="https://www.youtube.com/channel/UC-b5wfquKcAwz81uZGvd4NQ"><i class="icon fa fa-youtube"></i></a>
-            <a class="social-icon" target="_blank" id="twitterSI" href="https://twitter.com/Drogheda_Oncol"><i class="icon fa fa-twitter"></i></a>
-            <a class="btn btn-outline-light my-2 my-sm-0 btnHover" href="donate.php">Donate <i class="fa fa-heart btnHover"></i></a>
-        </form>
-        <button class="btn btn-outline-light my-2 my-sm-0 ms-1 btnHover" data-bs-toggle="modal" data-bs-target="#videoModal">Impact <i class="fa fa-video btnHover"></i></button>
+      </form>
+
+      <!-- Social Icons -->
+      <div class="d-flex social-icons ms-3">
+        <a class="social-icon mx-1" id="facebookSI" target="_blank" href="https://www.facebook.com/NECRET/"><i class="fa fa-facebook"></i></a>
+        <a class="social-icon mx-1" id="linkedinSI" target="_blank" href="https://www.linkedin.com/in/necret/"><i class="fa fa-linkedin"></i></a>
+        <a class="social-icon mx-1" id="youtubeSI" target="_blank" href="https://www.youtube.com/channel/UC-b5wfquKcAwz81uZGvd4NQ"><i class="fa fa-youtube"></i></a>
+        <a class="social-icon mx-1" id="twitterSI" target="_blank" href="https://twitter.com/Drogheda_Oncol"><i class="fa fa-twitter"></i></a>
+      </div>
+
+      <!-- Buttons -->
+      <div class="d-flex ms-3">
+        <a href="donate.php" class="btn btn-outline-light me-2 btnHover">
+          Donate <i class="fa fa-heart btnHover"></i>
+        </a>
+        <button class="btn btn-outline-light btnHover" data-bs-toggle="modal" data-bs-target="#videoModal">
+          Impact <i class="fa fa-video btnHover"></i>
+        </button>
+      </div>
     </div>
+  </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">      
     <div class="collapse center navbar-collapse" id="navbarSupportedContent">
@@ -133,3 +151,38 @@
     </div>
 </div>
 <!-- End of Impact Modal -->
+
+<style>
+    /* Default: all in one row (desktop/tablet) */
+
+@media (max-width: 768px) {
+  #navbarMain {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center;
+  }
+
+  .search-form {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .search-form input {
+    width: 70%;
+  }
+
+  .social-icons {
+    margin-bottom: 0.75rem;
+  }
+
+  .social-icons a {
+    display: inline-block;
+    font-size: 1.5rem;
+  }
+
+  .btnHover {
+    margin-bottom: 0.25rem;
+  }
+}
+</style>

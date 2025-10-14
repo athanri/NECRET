@@ -132,18 +132,22 @@ p, h1, h2, h3, h4, h5, h6, a {
 #twitterSI {
     background-color: #1da1f2;
     margin-right: 50px;
+    color: white;
 }
 
 #facebookSI {
     background-color: #385898;
+    color: white;
 }
 
 #linkedinSI {
     background-color: #0077b5;
+    color: white;
 }
 
 #youtubeSI {
     background-color: #ff0000;
+    color: white;
 }
 
 #facebookSI:hover {
