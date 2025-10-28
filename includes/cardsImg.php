@@ -1,6 +1,41 @@
 <div id="news" class="section-5 container-fluid">
     <h2 class="fontNavy">News</h2>
     <div class="row text-center">
+        <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./img/TLC_01.jpg" class="d-block carousleDBlock w-100" alt="Group">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/TLC_02.jpg" class="d-block carousleDBlock w-100" alt="TLC01">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/TLC_03.jpg" class="d-block carousleDBlock w-100" alt="TLC02">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/TLC_04.jpg" class="d-block carousleDBlock w-100" alt="TLC03">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./img/TLC_05.jpg" class="d-block carousleDBlock w-100" alt="TLC04">
+                    </div>
+                </div>
+                </div>
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">TLC Cancer Support Day</h5>
+                    <p class="card-text navyCardText mb-5">NECRET would like to take the opportunity to sincerely thank everybody who made yesterdays TLC event such a 
+                        truly wonderful occasion typified by the great level of engagement and interaction between our excellent facilitators and the many people who 
+                        attended – this is one of the primary objectives behind our information and support day for those impacted by cancer.</p>
+                    <p class="card-text navyCardText mb-5">As so many people contributed there is way too many names to mention. However, it includes our facilitators, 
+                        audience, our prize and goody bag sponsors, our exhibitors, those who provided complementary therapies and our NECRET Board and volunteers.</p>
+                    <p class="card-text navyCardText mb-5">To everyone we are deeply appreciative.</p>
+                    <p class="card-text navyCardText mb-5">If you have any feedback from this year or suggestions for next year we would be delighted to hear.</p>
+                    <p class="card-text navyCardText mb-5">Many thanks also to our amazing volunteer photographer Karen Smyth, the City North Hotel team and Jamie Carolan of North- East Audio.</p>
+                </div>
+            </div>
+        </div>
+                
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
                 <div class="card-body navyCardBody d-flex flex-column">
@@ -13,28 +48,6 @@
                             over 45,000 oncology professionals from across the globe.</p>
                         <p>A special mention also to Prof. Bryan Hennessy, who has spearheaded this groundbreaking initiative and continues to drive innovation in cancer research.</p>
                         <p class="card-text navyCardText">Pictured (L-R): Prof. Bryan Hennessy, Dr. David O'Reilly, Prof. Jarushka Naidoo.</p>
-                </div>
-            </div>
-        </div>
-                
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
-                <a><img class="card-img-top" src="./img/carshow.jpg" alt="Car Show"></a>
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Big Announcement</h5>
-                    <p class="card-text navyCardText">We’re absolutely thrilled to be named the official Charity Partner for 
-                        the 2025 Drogheda Motor Show — celebrating 15 years of this fantastic community event!</p>
-                    <p class="card-text navyCardText">NECRET – North East Cancer Research & Education Trust is dedicated to transforming cancer care in our region supporting:</p>
-                    <ul class="dipUL mb-2">
-                        <li>Groundbreaking clinical research</li>
-                        <li>State-of-the-art equipment</li>
-                        <li>Enhancing our oncology unit</li>
-                        <li>Staff Education</li>
-                        <li>Raising community awareness & education</li>
-                    </ul>
-                    <p class="card-text navyCardText">To show your support of NECRET’s mission, please give us a <i class="fa fa-heart"></i></p>
-                    <p class="card-text navyCardText">If you are visiting the Drogheda Motor Show, do be sure to stop by NECRET’s stand!
-                        See how your support helps drive better cancer research, care, and education for families right across the north-east.</p>
                 </div>
             </div>
         </div>

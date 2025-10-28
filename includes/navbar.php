@@ -122,6 +122,7 @@
       </div>
       <div class="modal-body">
         <iframe
+          allow
           width="100%"
           height="300"
           src="https://www.youtube.com/embed/PLqBewXZXIw"

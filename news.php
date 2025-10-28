@@ -217,7 +217,7 @@
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                     <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                         <div class="card navyCard flex-fill">
-                        <iframe class="card-img-top soh" width="533" height="380" src="https://www.youtube.com/embed/3_cMQS7AWcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="card-img-top soh" width="533" height="380" allow src="https://www.youtube.com/embed/3_cMQS7AWcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card-body navyCardBody d-flex flex-column">
                                 <h5 class="card-title navyCardTitle">Annual Service of Hope</h5>
                                 <p class="card-text navyCardText">Many thanks to you all for your very kind and generous messages that have been coming in over the last week regarding our first virtual Service of Hope. They are greatly appreciated. We would also like to take the opportunity to sincerely thank everyone who so wonderfully contributed to its production. You were all amazing.</p>

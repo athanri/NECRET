@@ -4,13 +4,16 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/dip2025.jpg" alt="Dip 2025">
+                <img class="card-img-top" src="./img/GLBCA.jpg" alt="breast Cancer Awareness">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Northeast Dip in the Nip 2025</h5>
-                    <p class="card-text navyCardText">The North-East’s biggest and best “DIP” for women is back on Sunday 7th of September and we’d love YOU to be part of it!!</p>
-                    <p class="card-text navyCardText">We again hope to have hundreds of amazing women join for this year’s Dip in the Nip which is amazingly our 14th!! whilst helping Necret in its everyday fight against cancer.</p>
-                    <p class="card-text navyCardText">We will have a new registration process this year. To register your interest please complete the contact form @ <a class="dipEmail" href="./dipintheNip.php">https://www.necret.ie/dipintheNip</a> or email <a href = "mailto: dipnortheast@gmail.com">dipnortheast@gmail.com</a> with your full name, postal address, and contact number and a member of our volunteer team will get back in touch.</p>
-                    <p class="card-text navyCardText"><a class="dipEmail" href="./dipintheNip.php">More Info</a></p>
+                    <h5 class="card-title navyCardTitle">Global Lobular Breast Cancer Awareness Day 2025</h5>
+                    <h6 class="card-title navyCardTitle">October 15th, 2–4 pm | Millmount, Drogheda</h6>
+                    <p class="card-text navyCardText">The Lobular Breast Cancer Alliance will be hosting events around the world on this day — and thanks to Ciara Mohan
+                         Gustafson, Drogheda local and international advocate, it’s wonderful to have Drogheda now added to the global map for 2025!</p>
+                    <p class="card-text navyCardText">A short talk about Lobular Breast Cancer will take place in the Martello Room at 2:30 pm.</p>
+                    <p class="card-text navyCardText">Millmount will also be lit up in honour of Lobular Awareness Day.</p>
+                    <p class="card-text navyCardText">Everyone is welcome — come learn, connect, and show support for this important cause.</p>
+                    <p class="card-text navyCardText">For more information, please contact <a href="mailto:cmohanfriesians@hotmail.com">cmohanfriesians@hotmail.com</a>.</p>
                 </div>
             </div>
         </div>
