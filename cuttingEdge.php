@@ -29,6 +29,44 @@
                         <p>Nowadays over the last several years, several new classes of effective drugs for melanoma have been introduced and Irish patients have been able to access these drugs through clinical trials before they were approved for general use.  It is ICORG, the Irish Clinical Oncology Research Group, that is the vehicle through which new drugs and clinical trials are initially brought into Ireland.</p>
                         <p>So clinical trials and clinical research are now regarded routinely as being a central, important aspect to the treatment of people with cancer. Experts now recommend that people with cancer ask routinely of their treating doctors if a clinical trial that is testing new treatments would be available for them. Clinical trials are now seen as one of the best if not the best option for treating cancer nowadays.  New drugs and clinical trials are thus very important for Irish people with cancer. This is why NECRET provides a significant proportion of the funding that it receives to cancer research</p>
                     </div>
+                </div>
+                <div class="row pt-2">
+                    <div id="ceText" class="col-md-12 col-12 col-lg-7 col-xl-7 col-sm-12 mt-3 pt-2 mb-5">
+                        <div class="card-body d-flex flex-column text-center">
+                            <h5>TLC Cancer Support Day</h5>
+                            <p>NECRET would like to take the opportunity to sincerely thank everybody who made yesterdays TLC event such a 
+                                truly wonderful occasion typified by the great level of engagement and interaction between our excellent facilitators and the many people who 
+                                attended – this is one of the primary objectives behind our information and support day for those impacted by cancer.</p>
+                            <p>As so many people contributed there is way too many names to mention. However, it includes our facilitators, 
+                                audience, our prize and goody bag sponsors, our exhibitors, those who provided complementary therapies and our NECRET Board and volunteers.</p>
+                            <p>To everyone we are deeply appreciative.</p>
+                            <p>If you have any feedback from this year or suggestions for next year we would be delighted to hear.</p>
+                            <p>Many thanks also to our amazing volunteer photographer Karen Smyth, the City North Hotel team and Jamie Carolan of North- East Audio.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-12 col-lg-5 col-xl-5 col-sm-12 mt-3 mb-5">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="./img/TLC_04_LG.jpg" class="d-block w-100 h-100" alt="Group">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/TLC_02_LG.jpg" class="d-block w-100 h-100" alt="TLC01">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/TLC_03_LG.jpg" class="d-block w-100 h-100" alt="TLC02">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/TLC_01_LG.jpg" class="d-block w-100 h-100" alt="TLC03">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="./img/TLC_05_LG.jpg" class="d-block w-100 h-100" alt="TLC04">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-2">
                     <div id="ceText" class="text-center col-md-4 col-12 col-lg-4 col-xl-4 col-sm-12 pt-2 mb-5">
                         <img src="./img/DrST.jpg" class="img-fluid" alt="Dr Sinead Toomey">
                         <p>Dr Sinead Toomey</p>
