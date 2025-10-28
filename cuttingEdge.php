@@ -33,34 +33,33 @@
                 <div class="row pt-2">
                     <div id="ceText" class="col-md-12 col-12 col-lg-7 col-xl-7 col-sm-12 mt-3 pt-2 mb-5">
                         <div class="card-body d-flex flex-column text-center">
-                            <h5>TLC Cancer Support Day</h5>
-                            <p>NECRET would like to take the opportunity to sincerely thank everybody who made yesterdays TLC event such a 
-                                truly wonderful occasion typified by the great level of engagement and interaction between our excellent facilitators and the many people who 
-                                attended – this is one of the primary objectives behind our information and support day for those impacted by cancer.</p>
-                            <p>As so many people contributed there is way too many names to mention. However, it includes our facilitators, 
-                                audience, our prize and goody bag sponsors, our exhibitors, those who provided complementary therapies and our NECRET Board and volunteers.</p>
-                            <p>To everyone we are deeply appreciative.</p>
-                            <p>If you have any feedback from this year or suggestions for next year we would be delighted to hear.</p>
-                            <p>Many thanks also to our amazing volunteer photographer Karen Smyth, the City North Hotel team and Jamie Carolan of North- East Audio.</p>
+                            <h5 class="mt-3">NECRET Supporting Cancer Research</h5>
+                            <p>Despite advances and improvements in the treatment of cancer, there is still a long way to go and this is why cancer research is so important. Research is the only way to ensure that new and better cancer treatments and drugs continue to become available for people with cancer.</p>
+                            <p>The evidence also clearly shows that cancer patients treated in research-active hospitals have better outcomes than those who are not. This is why, as part of NECRET’s mission we believe it is important to help support vital clinical cancer research.</p>
+                            <p>Our Lady of Lourdes and Beaumont Hospitals are both sister hospitals within the RSCI Hospital Group that work together in delivering patient care. Members of the NECRET board recently visited the RCSI Oncology Lab on the Beaumont campus, where the research is conducted to receive an update on the very latest developments the charity supports; including approaches to improve the treatment of bowel and lung cancers.</p>
+                            <p>NECRET would like to take the opportunity to thank everyone who has supported its cause and without whom these advances wouldn’t be possible.</p>
+                            <p>The charity is proud to have supported advances across different cancer types including lung, ovarian, breast and bowel which can viewed at <a href="cuttingEdge.php">https://www.necret.ie/cuttingEdge</a></p>
+                            <p>#FightingCancerEveryday</p>
+                            <a href="https://www.linkedin.com/pulse/necret-supporting-cancer-research-?fbclid=IwAR3Vn_Ah6SvZf-Vv1VrcasIjDYAjDTMNCswVEEYnsHK1HwpK4_icz-jyqkw" target="_blank" class="mb-3">NECRET Supporting Cancer Research</a>
                         </div>
                     </div>
                     <div class="col-md-12 col-12 col-lg-5 col-xl-5 col-sm-12 mt-3 mb-5">
                         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="./img/TLC_04_LG.jpg" class="d-block w-100 h-100" alt="Group">
+                                    <img src="./img/CancerResearchGroup.png" class="d-block w-100 h-100" alt="Group">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./img/TLC_02_LG.jpg" class="d-block w-100 h-100" alt="TLC01">
+                                    <img src="./img/CancerResearch01.png" class="d-block w-100 h-100" alt="TLC01">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./img/TLC_03_LG.jpg" class="d-block w-100 h-100" alt="TLC02">
+                                    <img src="./img/CancerResearch02.png" class="d-block w-100 h-100" alt="TLC02">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="./img/TLC_01_LG.jpg" class="d-block w-100 h-100" alt="TLC03">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="./img/TLC_05_LG.jpg" class="d-block w-100 h-100" alt="TLC04">
+                                    <img src="./img/CancerResearch03.png" class="d-block w-100 h-100" alt="TLC04">
                                 </div>
                             </div>
                         </div>
