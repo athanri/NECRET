@@ -4,9 +4,9 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/golf.jpg" alt="TLC Cancer Conference 2025">
+                <iframe class="mx-auto" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F3214477722026650%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">TLC Cancer Conference 2025</h5>
+                    <h5 class="card-title navyCardTitle">The Ultimate Golf Giveaway</h5>
                     <p class="card-text navyCardText">We are very, VERY excited to announce our brand new fundraiser - <strong>The Ultimate Golf Giveaway</strong></p>
                     <p class="card-text navyCardText"><strong><em>Eight great prizes... one great cause</em></strong></p>
                     <p class="card-text navyCardText">Enjoy the chance to win incredible golf play-and-stay experiences across some of Ireland’s finest resorts, including 

@@ -3,6 +3,28 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
+                <img class="card-img-top" src="./img/golf.jpg" alt="The Ultimate Golf Giveaway">
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">The Ultimate Golf Giveaway</h5>
+                    <p class="card-text navyCardText mb-3">We are very, VERY excited to announce our brand new fundraiser - <strong>The Ultimate Golf Giveaway.</strong></p>
+                    <p class="card-text navyCardText mb-3"><strong><em>Eight great prizes... one great cause</em></strong></p>
+                    <p class="card-text navyCardText mb-3">Enjoy the chance to win incredible golf play-and-stay experiences across some of Ireland’s finest resorts, including 
+                        Doonbeg International Golf Links, The K Club, Druids Glen and more. Each prize includes luxurious accommodation, fine dining and a round of golf at 
+                        world-class courses.</p>
+                    <p class="card-text navyCardText mb-3"><strong>Buy your tickets here -> 
+                        <a href="https://necretfundraisers.ie" target="_blank">https://necretfundraisers.ie</a></strong></p>
+                    <p class="card-text navyCardText mb-3">Every ticket sold helps support NECRET’s vital work in cancer research and care here in the North East.</p>
+                    <h5>Tickets</h5>
+                    <p class="card-text navyCardText">1 Ticket - €20</p>
+                    <p class="card-text navyCardText">3 Tickets - €50</p>
+                    <p class="card-text navyCardText">7 Tickets - €100</p>
+                    <p class="card-text navyCardText">Make your next round count — for yourself and for a cause that changes lives.</p>
+                    <p class="card-text navyCardText"><a href="https://www.facebook.com/hashtag/necretfightingcancereveryday" target="_blank">#NECRETfightingcancereveryday</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/Moondance.jpg" alt="Kilmoon Barn Dance">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">Thank You to the Kilmoon Barn Dance!</h5>
@@ -64,17 +86,6 @@
                             over 45,000 oncology professionals from across the globe.</p>
                         <p>A special mention also to Prof. Bryan Hennessy, who has spearheaded this groundbreaking initiative and continues to drive innovation in cancer research.</p>
                         <p class="card-text navyCardText">Pictured (L-R): Prof. Bryan Hennessy, Dr. David O'Reilly, Prof. Jarushka Naidoo.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/pbh.webp" alt="Virtual Fundraising">
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle mb-3">Lung Cancer Advancement</h5>
-                    <p class="card-text navyCardText mt-2 mb-5">NECRET are very proud and excited to have played a significant role in contributing towards a significant development in lung cancer diagnosis. This new test which was advanced in collaboration by Dr Rob Smyth under Professor Bryan Hennessy will mean that some cases of lung cancer will be able to be monitored from microscopic breath particles. Lung cancer is the cause of approximately a fifth of all cancer deaths in Ireland and unfortunately the number of cases continues to increase by 3% annually.</p>
-                    <a href="lungcanceradvancement.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-hand-holding-medical"></i> Read More</a>
                 </div>
             </div>
         </div>
