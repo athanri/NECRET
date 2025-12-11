@@ -26,16 +26,19 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/GLBCA.jpg" alt="breast Cancer Awareness">
+                <img class="card-img-top" src="./img/SOH2025.jpg" alt="Message of Hope">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Global Lobular Breast Cancer Awareness Day 2025</h5>
-                    <h6 class="card-title navyCardTitle">October 15th, 2–4 pm | Millmount, Drogheda</h6>
-                    <p class="card-text navyCardText">The Lobular Breast Cancer Alliance will be hosting events around the world on this day — and thanks to Ciara Mohan
-                         Gustafson, Drogheda local and international advocate, it’s wonderful to have Drogheda now added to the global map for 2025!</p>
-                    <p class="card-text navyCardText">A short talk about Lobular Breast Cancer will take place in the Martello Room at 2:30 pm.</p>
-                    <p class="card-text navyCardText">Millmount will also be lit up in honour of Lobular Awareness Day.</p>
-                    <p class="card-text navyCardText">Everyone is welcome — come learn, connect, and show support for this important cause.</p>
-                    <p class="card-text navyCardText">For more information, please contact <a href="mailto:cmohanfriesians@hotmail.com">cmohanfriesians@hotmail.com</a>.</p>
+                    <h5 class="card-title navyCardTitle">NECRET Message of Hope</h5>
+                    <h6 class="card-title navyCardTitle">✨ You are warmly invited to join our NECRET Message of Hope ✨</h6>
+                    <p class="card-text navyCardText">On Monday, <strong>22nd December 2025 at 6pm</strong>, we will come together as a community to pause, reflect, 
+                        and share a moment of hope with all our patients, families, and staff at the Oncology & Haematology Department, Our Lady of Lourdes Hospital, Drogheda.</p>
+                    <p class="card-text navyCardText">This annual event reminds us of the strength, courage, and compassion that surround us — and honours all those who continue 
+                        their cancer journey, as well as those we hold in our hearts.</p>
+                    <p class="card-text navyCardText"><strong>How to join:</strong></p>
+                    <p class="card-text navyCardText">📌 NECRET Facebook page: <a href="https://www.facebook.com/NECRET" target="_blank">www.facebook.com/NECRET</a></p>
+                    <p class="card-text navyCardText">📌 Joe Finnegan Media YouTube channel: <a href="https://www.youtube.com/@joefinneganmedia" target="_blank">www.youtube.com/@joefinneganmedia</a></p>
+                    <p class="card-text navyCardText">We hope you will join us and light your candle with us — a small gesture that carries great meaning. 💛</p>
+                    <p class="card-text navyCardText"><strong>Hope is the Dream of Tomorrow.</strong></p>
                 </div>
             </div>
         </div>
