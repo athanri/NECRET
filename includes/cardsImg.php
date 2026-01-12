@@ -3,23 +3,42 @@
     <div class="row text-center">
         <div class="div col col-sm-12 col-12 col-md-7 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/golf.jpg" alt="The Ultimate Golf Giveaway">
+                <img class="card-img-top" src="./img/golfWinners.jpg" alt="The Ultimate Golf Giveaway">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">The Ultimate Golf Giveaway</h5>
-                    <p class="card-text navyCardText mb-3">We are very, VERY excited to announce our brand new fundraiser - <strong>The Ultimate Golf Giveaway.</strong></p>
-                    <p class="card-text navyCardText mb-3"><strong><em>Eight great prizes... one great cause</em></strong></p>
-                    <p class="card-text navyCardText mb-3">Enjoy the chance to win incredible golf play-and-stay experiences across some of Ireland’s finest resorts, including 
-                        Doonbeg International Golf Links, The K Club, Druids Glen and more. Each prize includes luxurious accommodation, fine dining and a round of golf at 
-                        world-class courses.</p>
-                    <p class="card-text navyCardText mb-3"><strong>Buy your tickets here -> 
-                        <a href="https://necretfundraisers.ie" target="_blank">https://necretfundraisers.ie</a></strong></p>
-                    <p class="card-text navyCardText mb-3">Every ticket sold helps support NECRET’s vital work in cancer research and care here in the North East.</p>
-                    <h5>Tickets</h5>
-                    <p class="card-text navyCardText">1 Ticket - €20</p>
-                    <p class="card-text navyCardText">3 Tickets - €50</p>
-                    <p class="card-text navyCardText">7 Tickets - €100</p>
-                    <p class="card-text navyCardText">Make your next round count — for yourself and for a cause that changes lives.</p>
-                    <p class="card-text navyCardText"><a href="https://www.facebook.com/hashtag/necretfightingcancereveryday" target="_blank">#NECRETfightingcancereveryday</a></p>
+                    <p class="card-text navyCardText mb-3">Thank you to everyone who supported the NECRET Ultimate Golf Giveaway Draw, which took place on 19th December 2025. 
+                        Your generosity is contributing to vital cancer research and cancer care through the Oncology & Haematology Unit at Our Lady of Lourdes Hospital.</p>
+                    <p class="card-text navyCardText mb-3">🎥 You can view the full draw here: <a href="https://www.facebook.com/100064918291202/videos/832209432767405">👉 https://www.facebook.com/100064918291202/videos/832209432767405</a></p>
+                    <p class="card-text navyCardText mb-3">🏆 Prize Winners</p>
+                    <p class="card-text navyCardText mb-3">1st Prize – Doonbeg International Golf Links, Co. Clare</p>
+                    <p class="card-text navyCardText mb-3">🏆 Ken Goodwin — Ticket No: f9c_4714768_21894_2</p>
+                    <p class="card-text navyCardText mb-3">2nd Prize – The K Club, Co. Kildare</p>
+                    <p class="card-text navyCardText mb-3">🏆 Peter Marron — Ticket No: 5172</p>
+                    <p class="card-text navyCardText mb-3">3rd Prize – Mount Juliet, Co. Kilkenny</p>
+                    <p class="card-text navyCardText mb-3">🏆 Pat Minogue — Ticket No: f9c_4617063_21894_1</p>
+                    <p class="card-text navyCardText mb-3">4th Prize – Carton House, Co. Kildare</p>
+                    <p class="card-text navyCardText mb-3">🏆 Sandra Kane — Ticket No: f9c_4670809_21892_1</p>
+                    <p class="card-text navyCardText mb-3">5th Prize – Powerscourt Hotel Resort & Spa</p>
+                    <p class="card-text navyCardText mb-3">🏆 Pat Minogue — Ticket No: f9c_4617063_21894_3</p>
+                    <p class="card-text navyCardText mb-3">6th Prize – Druids Glen, Co. Wicklow</p>
+                    <p class="card-text navyCardText mb-3">🏆 Niall McElwee — Ticket No: 397</p>
+                    <p class="card-text navyCardText mb-3">7th Prize – Slieve Russell Hotel Golf & Country Club</p>
+                    <p class="card-text navyCardText mb-3">🏆 Breda Moore — Ticket No: f9c_4716682_21894_1</p>
+                    <p class="card-text navyCardText mb-3">8th Prize – Scholars Townhouse Hotel & County Louth GC</p>
+                    <p class="card-text navyCardText mb-3">🏆 Michael Ward — Ticket No: 754</p>
+                    <p class="card-text navyCardText mb-3">9th Prize – €500 Cash</p>
+                    <p class="card-text navyCardText mb-3">🏆 Ais Ferguson — Ticket No: 1462</p>
+                    <p class="card-text navyCardText mb-3">10th Prize – €300 Cash</p>
+                    <p class="card-text navyCardText mb-3">🏆 H & V Cooney — Ticket No: 43</p>
+                    <p class="card-text navyCardText mb-3">11th Prize – €200 Cash</p>
+                    <p class="card-text navyCardText mb-3">🏆 Emma Ward — Ticket No: 720</p>
+                    <p class="card-text navyCardText mb-3">✔️ Verified by:</p>
+                    <p class="card-text navyCardText mb-3">J. Quinn (Treasurer)</p>
+                    <p class="card-text navyCardText mb-3">11th Prize – €200 Cash</p>
+                    <p class="card-text navyCardText mb-3">D. Gough (Auditor, BW & Co.)</p>
+                    <p class="card-text navyCardText mb-3">👏 A huge thank you once again to everyone who supported the draw. Your support truly makes a difference.</p>
+                    <p class="card-text navyCardText mb-3">Congratulations to all our winners! 💚</p>
+                   
                 </div>
             </div>
         </div>
