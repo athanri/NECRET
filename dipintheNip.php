@@ -36,7 +36,7 @@
                     </div>
                     
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <img class="img-fluid" src="./img/dip2026.jpg" alt="Dip In the Nip">
+                        <img class="img-fluid" src="./img/dipNTheNip2026.jpg" alt="Dip In the Nip">
                     </div>
                    
                     <div class="col-12 mt-3 pt-2 mb-3 text-center">
