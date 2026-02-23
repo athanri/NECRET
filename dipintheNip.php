@@ -36,7 +36,7 @@
                     </div>
                     
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center">
-                        <img class="img-fluid" src="./img/dip2024.jpg" alt="Dip In the Nip">
+                        <img class="img-fluid" src="./img/dip2026.jpg" alt="Dip In the Nip">
                     </div>
                    
                     <div class="col-12 mt-3 pt-2 mb-3 text-center">
@@ -51,11 +51,11 @@
                     <div class="col-md-12 col-12 col-lg-12 col-xl-12 col-sm-12 mt-3 pt-2 mb-3 text-center dip">
                         <i class="fa-brands fa-brave fa-5x mb-4"></i>
                         <h4>WILL YOU BE BRAVE ENOUGH TO DIP?</h4>
-                        <h5>The 14th <i>Northeast Dip in the Nip</i> – 7th September  2025</h5>
+                        <h5>The 15th <i>Northeast Dip in the Nip</i> – 13th September 2026</h5>
                         <p>This is not just a swim.</p>
                         <p>It’s a moment of madness for a great cause. A morning of magic for your self-belief.</p>
                         <p>And a memory that will stay with you forever.</p>
-                        <p>We’re calling on <b><u>women over the age of 18</u></b> to take part in the 14th annual Dip in the Nip – a powerful and emotional fundraiser supporting NECRET, helping cancer patients right here in Our Lady of Lourdes Oncology unit in the North East.</p>
+                        <p>We’re calling on <b><u>women over the age of 18</u></b> to take part in the 15th annual Dip in the Nip – a powerful and emotional fundraiser supporting NECRET, helping cancer patients right here in Our Lady of Lourdes Oncology unit in the North East.</p>
                         <p>Whether you're deciding to do it  for someone you’ve lost, someone who’s fighting, or just to prove to yourself that you can – <b><u>this dip changes people.</u></b> And this year, we’ve made it easier than ever to join in.</p>
                         <a class="btn btn-warning col-md-3 dipBtn fs-3 fw-bolder mt-2 mb-2" target="_blank" href="https://form.jotform.com/251295663417058">Sign Up</a>
                     </div>
