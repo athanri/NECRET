@@ -209,7 +209,7 @@
                         <h5>NECRET Board</h5>
                         <p>NECRET’s Board Members are responsible for the overall control and strategic direction of the charity. They meet regularly to discuss, decide, and review our strategies and policies and receive reports and updates.</p>
                         <p>Our current Board members are</p>
-                        <p>Professor Bryan Hennessy (Chair), Elizabeth Summersby, Anna Harbison Egan, Mary Patricia Meade, Elizabeth Mary McArdle, Professor Reem Salman and Paul Egan</p>
+                        <p>Professor Bryan Hennessy (Chair), Elizabeth Summersby, Anna Harbison Egan, Mary Patricia Meade, Professor Reem Salman, Paul Egan, Mark Doran, Andrea Moore and Karen Healy.</p>
                         <br>
                         <p>The Board of Directors would like to advise their patrons and supporters that they do not receive any financial or other remuneration for their services. All services are provided on a free and voluntary basis. The charity adheres to all statutory obligations with regard to a limited company and annual accounts are submitted and audited as per statutory obligations.</p>
                     </div>
