@@ -13,8 +13,13 @@
             </div>
               <ul id="footList" class="list-group text-center">
                   <li class="list-group-item">© 2026 Copyright: NECRET</li>
-                  <li class="list-group-item"><i class="fas fa-home mr-3"></i>North East Cancer Research & Education Trust, Oncology & Haematology Unit,
-                   Our Lady of Lourdes Hospital, Windmill Road, Drogheda, Co. Louth, A92 VW28.</li>
+                  <li class="list-group-item"><i class="fas fa-home mx-1 px-1"></i>North East Cancer Research & Education Trust,</li>
+                  <li class="list-group-item">Oncology & Haematology Unit,</li>
+                  <li class="list-group-item">Our Lady of Lourdes Hospital,</li>
+                  <li class="list-group-item">Windmill Road, Drogheda,</li>
+                  <li class="list-group-item">Co. Louth,</li>
+                  <li class="list-group-item">A92 VW28.</li>
+                  <hr></hr>
                   <li class="list-group-item"><i class="fas fa-envelope mr-3"></i> info@necret.ie</li>
                   <li class="list-group-item"><i class="fas fa-phone mr-3"></i>+353 41 9874684</li>
                   <li class="list-group-item"><i class="fas fa-mobile mr-3"></i>+353 86 7773294</li>
