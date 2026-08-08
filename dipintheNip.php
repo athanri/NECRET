@@ -42,7 +42,7 @@
                     <div class="col-12 mt-3 pt-2 mb-3 text-center">
                         <div class="ratio ratio-16x9">
                             <video class="w-100" controls>
-                                <source src="./vid/dipNnip.mp4" type="video/mp4">
+                                <source src="./vid/dipnnip.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
@@ -172,7 +172,7 @@
                     <div class="col-12 mt-3 pt-2 mb-3 text-center">
                         <div class="ratio ratio-16x9">
                             <video class="w-100" controls>
-                                <source src="./vid/dipNnip2.mp4" type="video/mp4">
+                                <source src="./vid/dipnnip2.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
