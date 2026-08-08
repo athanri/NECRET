@@ -63,7 +63,7 @@
           <div class="dropdown-menu marginNav" aria-labelledby="navbarDropdown3">
             <a class="dropdown-item" href="donate.php">How to Donate <i class="fa fa-heart"></i></a>
             <a class="dropdown-item" href="legacy.php">Leaving A Legacy</a>
-            <a class="dropdown-item" href="cancerResearcher.php">Sponsor a Cancer Researcher</a>
+            <a class="dropdown-item" href="cancerresearcher.php">Sponsor a Cancer Researcher</a>
             <a class="dropdown-item" href="volunteer.php">Volunteer For NECRET</a>
             <a class="dropdown-item" href="favours.php">Wedding Favours</a>
           </div>

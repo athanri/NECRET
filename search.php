@@ -39,7 +39,7 @@
                                 'awareness.php' => 'Awareness',
                                 'awareness-symptoms.php' => 'Awareness Symptoms',
                                 'donate.php' => 'Donate to NECRET',
-                                'cancerResearcher.php' => 'Cancer Researcher (Sponsor)',
+                                'cancerresearcher.php' => 'Cancer Researcher (Sponsor)',
                                 'cancerSupport.php' => 'Cancer Support',
                                 'governance.php' => 'Governance',
                                 'news.php' => 'News',
