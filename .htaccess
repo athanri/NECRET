@@ -1,22 +1,102 @@
-# 1. FORCE HTTPS
-RewriteEngine On
-RewriteBase /
-RewriteCond %{HTTPS} !=on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,NE,L]
+<IfModule mod_speling.c>
+  CheckSpelling on
+</IfModule>
 
-# 2. FORCE LOWERCASE COMPATIBILITY ROUTING
-# Uses standard server logic loop instead of an external server map function
+<IfModule mod_deflate.c>
+  # Compress HTML, CSS, JavaScript, Text, XML and fonts
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+  AddOutputFilterByType DEFLATE application/x-font
+  AddOutputFilterByType DEFLATE application/x-font-opentype
+  AddOutputFilterByType DEFLATE application/x-font-otf
+  AddOutputFilterByType DEFLATE application/x-font-truetype
+  AddOutputFilterByType DEFLATE application/x-font-ttf
+  AddOutputFilterByType DEFLATE application/x-javascript
+  AddOutputFilterByType DEFLATE application/xhtml+xml
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE font/opentype
+  AddOutputFilterByType DEFLATE font/otf
+  AddOutputFilterByType DEFLATE font/ttf
+  AddOutputFilterByType DEFLATE image/svg+xml
+  AddOutputFilterByType DEFLATE image/x-icon
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/plain
+  AddOutputFilterByType DEFLATE text/xml
+
+  # Remove browser bugs (only needed for really old browsers)
+  BrowserMatch ^Mozilla/4 gzip-only-text/html
+  BrowserMatch ^Mozilla/4\.0[678] no-gzip
+  BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+  Header append Vary User-Agent
+</IfModule>
+
+# BEGIN Expire headers  
+<IfModule mod_expires.c>  
+  # Turn on the module.
+  ExpiresActive on
+  # Set the default expiry times.
+  ExpiresDefault "access plus 2 days"
+  ExpiresByType image/jpg "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/svg+xml "access 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+  ExpiresByType image/ico "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 month"
+  ExpiresByType text/html "access plus 600 seconds"
+</IfModule>  
+# END Expire headers  
+
+RewriteEngine On
 RewriteRule [A-Z] - [E=HASCAPS:TRUE,S=1]
 RewriteRule ![A-Z] - [S=28]
-# ... [Series of RewriteRules to convert A-Z to a-z] ...
+RewriteRule ^([^A]*)A(.*)$ $1a$2
+RewriteRule ^([^B]*)B(.*)$ $1b$2
+RewriteRule ^([^C]*)C(.*)$ $1c$2
+RewriteRule ^([^D]*)D(.*)$ $1d$2
+RewriteRule ^([^E]*)E(.*)$ $1e$2
+RewriteRule ^([^F]*)F(.*)$ $1f$2
+RewriteRule ^([^G]*)G(.*)$ $1g$2
+RewriteRule ^([^H]*)H(.*)$ $1h$2
+RewriteRule ^([^I]*)I(.*)$ $1i$2
+RewriteRule ^([^J]*)J(.*)$ $1j$2
+RewriteRule ^([^K]*)K(.*)$ $1k$2
+RewriteRule ^([^L]*)L(.*)$ $1l$2
+RewriteRule ^([^M]*)M(.*)$ $1m$2
+RewriteRule ^([^N]*)N(.*)$ $1n$2
+RewriteRule ^([^O]*)O(.*)$ $1o$2
+RewriteRule ^([^P]*)P(.*)$ $1p$2
+RewriteRule ^([^Q]*)Q(.*)$ $1q$2
+RewriteRule ^([^R]*)R(.*)$ $1r$2
+RewriteRule ^([^S]*)S(.*)$ $1s$2
+RewriteRule ^([^T]*)T(.*)$ $1t$2
+RewriteRule ^([^U]*)U(.*)$ $1u$2
+RewriteRule ^([^V]*)V(.*)$ $1v$2
+RewriteRule ^([^W]*)W(.*)$ $1w$2
+RewriteRule ^([^X]*)X(.*)$ $1x$2
+RewriteRule ^([^Y]*)Y(.*)$ $1y$2
+RewriteRule ^([^Z]*)Z(.*)$ $1z$2
+RewriteRule [A-Z] - [N]
 RewriteCond %{ENV:HASCAPS} TRUE
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule ^/?(.*) /$1 [R=301,L]
 
-# 3. CLEAN EXTENSIONS (Hide .php in URL)
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,NE]
+
+RewriteEngine On
+RewriteBase /
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
 RewriteRule ^ %1 [R=301,L]
-
-# 4. INTERNAL ROUTING (Maps cleaned URL back to file)
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*?)/?$ $1.php [NC,L]
+

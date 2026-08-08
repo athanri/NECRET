@@ -49,7 +49,7 @@
                                 'ambassadors.php' => 'Ambassadors',
                                 'index.php' => 'Home',
                                 'boc.php' => 'Blankets of Care',
-                                'dipintheNip.php' => 'Dip in the Nip',
+                                'dipinthenip.php' => 'Dip in the Nip',
                                 'chy3-form.php' => 'Tax Relief Form',
                                 'crfwalk.php' => 'Celine Reilly Flynn Walk',
                                 'contact.php' => 'Contact Us',

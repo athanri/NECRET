@@ -242,11 +242,11 @@
                     </div>
                     <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                         <div class="card navyCard flex-fill">
-                        <a href="dipintheNip.php"><img class="card-img-top" src="./img/upcoming_3.webp" alt="Sandra Rogers"></a>
+                        <a href="https://www.idonate.ie/sandraheadshave" target="_blank"><img class="card-img-top" src="./img/upcoming_3.webp" alt="Sandra Rogers"></a>
                             <div class="card-body navyCardBody d-flex flex-column">
                                 <h5 class="card-title navyCardTitle">Head Shave For NECRET</h5>
                                 <p class="card-text navyCardText">Many, many thanks to Sandra Rogers for bravely doing a sponsored head shave in our aid. It is greatly appreciated by all at NECRET and the Oncology Team. We wish her all the best on December 21st.</p>
-                                <p class="card-text navyCardText">If you can at all support Sandra the iDonate page link is <a href="www.idonate.ie/sandraheadshave" target="_blank">www.idonate.ie/sandraheadshave</a></p>
+                                <p class="card-text navyCardText">If you can at all support Sandra the iDonate page link is <a href="https://www.idonate.ie/sandraheadshave" target="_blank">www.idonate.ie/sandraheadshave</a></p>
                                 <p class="card-text navyCardText collapse multi-collapse multiCollapseExample31"> Necret is a charity set up to raise funds for equipment, cancer research and training at the North East Oncology Unit based in Our Lady of Lourdes Hospital, Drogheda.
                                     I normally participate in Necret's largest annual fundraiser in the north-east - the Dip in the Nip.
                                     To co-inside with the Winter Solstice, I will be shaving my head for charity at dawn on 21st December 2020, which will be streamed live on my Facebook page.
@@ -258,7 +258,7 @@
                     </div>
                     <div class="p-5 div col col-sm-12 col-12 col-md-4 col-lg-4 text-center col-xl-4 d-flex mb-3">
                         <div class="card navyCard flex-fill">
-                            <a href="dipintheNip.php"><img class="card-img-top" src="./img/Dip-in-Nip-SM-2021.jpg" alt="dipNNip"></a>
+                            <a href="dipinthenip.php"><img class="card-img-top" src="./img/Dip-in-Nip-SM-2021.jpg" alt="dipNNip"></a>
                             <div class="card-body navyCardBody d-flex flex-column">
                                 <h5 class="card-title navyCardTitle mb-4">The NorthEast Dip in the Nip Returns.. September, Sunday 5th.</h5>
                                 <p class="card-text navyCardText">For those of you that took part previously we don't have to remind you of how this incredible event will empower you as a person and for those that have never done it, come on! what's stopping you?</p>

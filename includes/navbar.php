@@ -74,7 +74,7 @@
           </a>
           <div class="dropdown-menu marginNav" aria-labelledby="navbarDropdown4">
             <a class="dropdown-item" href="news.php">News</a>
-            <a class="dropdown-item" href="dipintheNip.php">Dip in the Nip</a>
+            <a class="dropdown-item" href="dipinthenip.php">Dip in the Nip</a>
             <a class="dropdown-item" href="openday.php">Schools Medical Open Day</a>
             <a class="dropdown-item" href="boc.php">Blankets of Care Appeal</a>
             <a class="dropdown-item" href="tullyallen.php">Tullyallen Tractor Run</a>
