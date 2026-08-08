@@ -59,7 +59,7 @@
                                 'getinvolved.php' => 'Geting Involved',
                                 'kilmoon.php' => 'Kilmoon Barn Dance',
                                 'lungcanceradvancement.php' => 'Lung Cancer Advancement',
-                                'necretTLC.php' => 'NECRET TLC',
+                                'necrettlc.php' => 'NECRET TLC',
                                 'nominate.php' => 'Nominate for charity of the year',
                                 'openday.php' => 'Schools Open Day',
                                 'prevention.php' => 'Prevention',

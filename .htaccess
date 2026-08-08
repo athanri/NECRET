@@ -56,23 +56,24 @@
 # END Expire headers  
 
 RewriteEngine On
-RewriteBase /
+RewriteBase /NECRET/
 
-# Redirect uppercase extensionless routes to lowercase while leaving existing files alone
+# Force HTTPS first
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,NE,L]
+
+# Redirect uppercase extensionless requests to lowercase while skipping static assets
 RewriteCond %{REQUEST_URI} [A-Z]
-RewriteCond %{REQUEST_URI} !\.[^./]+$ [NC]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.(?:jpe?g|png|gif|svg|webp|ico|bmp|tiff|mp4|webm|mkv|mov|avi|flv|wmv|pdf|docx?|xlsx?|pptx?|odt|ods|odp|csv|txt|html|htm|css|js|json|xml|map|php)(?:[?#].*)?$ [NC]
 RewriteRule ^ https://%{HTTP_HOST}${tolower:%{REQUEST_URI}} [R=301,L,NE]
 
-RewriteCond %{HTTPS} !=on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,NE]
+# Redirect .php requests to extensionless URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/NECRET/([^?\s]+)\.php [NC]
+RewriteRule ^ https://%{HTTP_HOST}/NECRET/%1 [R=301,L,NE]
 
-RewriteEngine On
-RewriteBase /
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
-RewriteRule ^ %1 [R=301,L]
+# Internally rewrite extensionless requests to PHP files
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*?)/?$ $1.php [NC,L]
 
