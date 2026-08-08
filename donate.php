@@ -22,7 +22,7 @@
         </script>
         <?php include 'includes/navbar.php'; ?>
 
-        <div id="cuttingEdge" class="container-fluid">
+        <div id="cuttingedge" class="container-fluid">
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-md-12 mt-2">

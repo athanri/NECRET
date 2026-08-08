@@ -7,7 +7,7 @@
     <body>
         <?php include 'includes/navbar.php'; ?>
 
-        <div id="cuttingEdge" class="container-fluid">
+        <div id="cuttingedge" class="container-fluid">
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-md-12 mt-2">
@@ -38,7 +38,7 @@
                             <p>The evidence also clearly shows that cancer patients treated in research-active hospitals have better outcomes than those who are not. This is why, as part of NECRET’s mission we believe it is important to help support vital clinical cancer research.</p>
                             <p>Our Lady of Lourdes and Beaumont Hospitals are both sister hospitals within the RSCI Hospital Group that work together in delivering patient care. Members of the NECRET board recently visited the RCSI Oncology Lab on the Beaumont campus, where the research is conducted to receive an update on the very latest developments the charity supports; including approaches to improve the treatment of bowel and lung cancers.</p>
                             <p>NECRET would like to take the opportunity to thank everyone who has supported its cause and without whom these advances wouldn’t be possible.</p>
-                            <p>The charity is proud to have supported advances across different cancer types including lung, ovarian, breast and bowel which can viewed at <a href="cuttingEdge.php">https://www.necret.ie/cuttingEdge</a></p>
+                            <p>The charity is proud to have supported advances across different cancer types including lung, ovarian, breast and bowel which can viewed at <a href="cuttingedge.php">https://www.necret.ie/cuttingedge</a></p>
                             <p>#FightingCancerEveryday</p>
                             <a href="https://www.linkedin.com/pulse/necret-supporting-cancer-research-?fbclid=IwAR3Vn_Ah6SvZf-Vv1VrcasIjDYAjDTMNCswVEEYnsHK1HwpK4_icz-jyqkw" target="_blank" class="mb-3">NECRET Supporting Cancer Research</a>
                         </div>

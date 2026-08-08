@@ -22,7 +22,7 @@
                             <p class="card-text navyCardText mb-5">NECRET Supported Research Recognised
                             Congratulations to Dr Sinead Toomey and Professor Bryan Hennessy whose study titled ‘Genomic and Transcriptomic Characterisation of Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer’ has been published in the Oncology International Journal called Cancers. 
                             NECRET are delighted to have part funded this important research, which was a collaboration between Ireland’s RCSI and the world-renowned MD Anderson Cancer Center in the US.</p>
-                            <a href="../../cuttingEdge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
+                            <a href="../../cuttingedge.php" class="btn btn-primary btn-upcoming mt-auto"><i class="fa fa-microscope"></i> Read More</a>
                         </div>
                     </div>
                 </div>

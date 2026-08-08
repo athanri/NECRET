@@ -76,9 +76,9 @@
             <a class="dropdown-item" href="../../awareness.php">Awareness</a>
             <a class="dropdown-item" href="../../prevention.php">Prevention</a>
             <a class="dropdown-item" href="../../trials.php">Clinical Trials</a>
-            <a class="dropdown-item" href="../../cuttingEdge.php">Cutting Edge Care</a>
+            <a class="dropdown-item" href="../../cuttingedge.php">Cutting Edge Care</a>
             <a class="dropdown-item" href="../../tips.php">Coping Tips and Advice</a>
-            <a class="dropdown-item" href="../../cancerSupport.php">Cancer Support</a>
+            <a class="dropdown-item" href="../../cancersupport.php">Cancer Support</a>
             </div>
         </li>
         <li class="nav-item dropdown">
