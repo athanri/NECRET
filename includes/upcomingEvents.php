@@ -14,6 +14,7 @@
                     <p class="card-text navyCardText">And a memory that will stay with you forever.</p>
                     <p class="card-text navyCardText">We’re calling on <u>women over the age of 18</u> to take part in the 15th annual Dip in the Nip – 
                         a powerful and emotional fundraiser supporting NECRET, helping cancer patients right here in Our Lady of Lourdes Oncology unit in the North East.</p>
+                    <a href="./dipinthenip.php" class="btn btn-primary">More Info</a>
                 </div>
             </div>
         </div>
@@ -26,7 +27,7 @@
                     <p class="card-text navyCardText">The Summer Newsletter of NECRET is now available, where you can read all the latest
                             charity news and developments. It is also importantly captures some of the ways NECRET 
                             is contributing to improving cancer treatment and care for this impacted by cancer.</p>
-                    <a href="./docs/NECRET_Newsletter_Summer_2026.pdf">Read Here</a>
+                    <a href="./docs/NECRET_Newsletter_Summer_2026.pdf" class="btn btn-primary">Read Here</a>
                 </div>
             </div>
         </div>
@@ -40,7 +41,7 @@
                          the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes 
                          of people with cancer.</p>
                     <p class="card-text navyCardText">To receive your registration pack please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> 
-                    or text <a href="tel:+353867773294"></a> 086 7773294 with your full name, address, and mobile number. To participate completed registration forms 
+                    or text <a href="tel:+353867773294">086 7773294</a> with your full name, address, and mobile number. To participate completed registration forms 
                     must be received no later than midday on Friday July 13th.</p>
                 </div>
             </div>
