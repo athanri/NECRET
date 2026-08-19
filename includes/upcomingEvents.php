@@ -4,21 +4,6 @@
         <br>
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/CaminoBoyne_2026.jpg" alt="Message of Hope">
-                <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Boyne Valley Camino</h5>
-                    <p class="card-title navyCardTitle">Boyne Valley Camino Challenge Registration Open Interested in a fun challenge of an amazing 25km walk and ramble through
-                         the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes 
-                         of people with cancer.</p>
-                    <p class="card-text navyCardText">To receive your registration pack please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> 
-                    or text <a href="tel:+353867773294"></a> 086 7773294 with your full name, address, and mobile number. To participate completed registration forms 
-                    must be received no later than midday on Friday July 13th.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
-            <div class="card navyCard flex-fill">
                 <img class="card-img-top" src="./img/dipNTheNip2026.jpg" alt="DipNip2026">
                 <div class="card-body navyCardBody d-flex flex-column">
                     <h5 class="card-title navyCardTitle">Dip in The Nip</h5>
@@ -35,13 +20,28 @@
 
         <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
             <div class="card navyCard flex-fill">
-                <img class="card-img-top" src="./img/Newsletter_Spring_2026.png" alt="Newsletter 2026">
+                <img class="card-img-top" src="./img/Newsletter_Summer_2026.png" alt="Newsletter 2026">
                 <div class="card-body navyCardBody d-flex flex-column">
-                    <h5 class="card-title navyCardTitle">Necret Newsletter Spring 2026</h5>
-                    <p class="card-text navyCardText">The Spring Newsletter of NECRET is now available, where you can read all the latest
-charity news and developments. It is also importantly captures some of the ways NECRET 
-is contributing to improving cancer treatment and care for this impacted by cancer.</p>
-                    <a href="./docs/NECRET_Newsletter_Spring_2026.pdf">Read Here</a>
+                    <h5 class="card-title navyCardTitle">Necret Newsletter Summer 2026</h5>
+                    <p class="card-text navyCardText">The Summer Newsletter of NECRET is now available, where you can read all the latest
+                            charity news and developments. It is also importantly captures some of the ways NECRET 
+                            is contributing to improving cancer treatment and care for this impacted by cancer.</p>
+                    <a href="./docs/NECRET_Newsletter_Summer_2026.pdf">Read Here</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="div col col-sm-12 col-12 col-md-5 col-lg-3 col-xl-3 d-flex">
+            <div class="card navyCard flex-fill">
+                <img class="card-img-top" src="./img/CaminoBoyne_2026.jpg" alt="Message of Hope">
+                <div class="card-body navyCardBody d-flex flex-column">
+                    <h5 class="card-title navyCardTitle">Boyne Valley Camino</h5>
+                    <p class="card-title navyCardTitle">Boyne Valley Camino Challenge Registration Open Interested in a fun challenge of an amazing 25km walk and ramble through
+                         the beautiful Boyne Valley countryside in aid of NECRET, who support focused activities towards improving treatment and outcomes 
+                         of people with cancer.</p>
+                    <p class="card-text navyCardText">To receive your registration pack please email <a href="mailto:necret.info@gmail.com">necret.info@gmail.com</a> 
+                    or text <a href="tel:+353867773294"></a> 086 7773294 with your full name, address, and mobile number. To participate completed registration forms 
+                    must be received no later than midday on Friday July 13th.</p>
                 </div>
             </div>
         </div>
